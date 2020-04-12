@@ -1,7 +1,7 @@
 Columna   | Descripción
 ----------|---------------------------------------------------
-fecha	  |dia calendario en que se informaron estos datos
-dia	    | dia correlativo desde el 13 de marzo, cuando se anunció el primer caso
+fecha	  |día calendario en que se informaron estos datos
+dia| día correlativo desde el 13 de marzo, cuando se anunció el primer caso
 cantPersonasConInfeccionEnCurso |	cantidad de personas que actualmente cursan la infección
 cantDeptosAfectados	|cantidad de departamentos que presentan alguna persona con infección en curso
 Artigas (UY-AR )| **cantidad de casos**<sup>1</sup> en el departamento de Artigas (UY-AR ) 
@@ -34,7 +34,7 @@ Luego del 9/4/2020
 
 ## Fuente
 
-Hasta el 7/4/2020 los datos aon extraidos de los [informes de situación publicados por el MSP](https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay).
+Hasta el 7/4/2020 los datos son extraídos de los [informes de situación publicados por el MSP](https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay).
 El valor `N/A` se utiliza para indicar valores no disponibles o faltantes en los reportes.
 
 A partir del 9/4/2020 los datos se extraen del [Visualizador de casos coronavirus COVID-19 en Uruguay] (https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay)
