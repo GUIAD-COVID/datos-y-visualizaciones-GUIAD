@@ -1,6 +1,6 @@
 # Atención: a partir del 13/04/2020
 # Estos datos se actualizarán en el repositorio público
-# https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY.csv
+# https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto.csv
 fecha,cantPersonasConInfeccionEnCurso,cantDeptosAfectados,Artigas ,Canelones ,Cerro Largo ,Colonia ,Durazno ,Flores ,Florida ,Lavalleja ,Maldonado ,Montevideo ,Paysandú ,Río Negro ,Rivera ,Rocha ,Salto ,San José ,Soriano ,Tacuarembó ,Treinta y Tres 
 ,,,UY-AR ,UY-CA ,UY-CL ,UY-CO ,UY-DU ,UY-FS ,UY-FD ,UY-LA ,UY-MA ,UY-MO ,UY-PA ,UY-RN ,UY-RV ,UY-RO ,UY-SA ,UY-SJ ,UY-SO ,UY-TA ,UY-TT 
 13/03/2020,0,1,0,0,0,0,0,0,0,0,0,SI,0,0,0,0,0,0,0,0,0
