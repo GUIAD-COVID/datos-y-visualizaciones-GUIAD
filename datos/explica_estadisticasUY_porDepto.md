@@ -2,7 +2,6 @@ Columna   | Descripción
 ----------|---------------------------------------------------
 fecha	  |día calendario en que se informaron estos datos
 dia| día correlativo desde el 13 de marzo, cuando se anunció el primer caso
-cantPersonasConInfeccionEnCurso |	cantidad de personas que actualmente cursan la infección
 cantDeptosAfectados	|cantidad de departamentos que presentan alguna persona con infección en curso
 Artigas (UY-AR )| **cantidad de casos**<sup>1</sup> en el departamento de Artigas (UY-AR ) 
 Canelones (UY-CA )| cantidad de casos en el departamento de Canelones (UY-CA )

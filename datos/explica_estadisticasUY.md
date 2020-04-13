@@ -6,12 +6,16 @@ cantTest  |	**cantidad de tests**<sup>1</sup> realizados ese día
 acumTest	|acumulado de la cantidad de tests realizados hasta ese día
 cantTestPositivos |	cantidad de tests positivos de ese día
 acumTestPositivos	  |acumulado de la cantidad de tests positivos hasta ese día
+cantPersonasConInfeccionEnCurso |	cantidad de personas que actualmente cursan la infección
+acumCasos| cantidad de casos acumulados hasta el momento (cantPersonasConInfeccionEnCurso +acumRecuperados+cantFallecidos )
 cantCTI  |	cantidad de pacientes reportados en CTI ese día
 cantCI  |	cantidad de pacientes reportados en CI ese día
 cantFallecidos |	cantidad de fallecidos reportados ese día
 acumFallecidos |acumulado de la cantidad de fallecidos hasta ese día
 cantRecuperados	| cantidad de pacientes recuperados reportados ese día
 acumRecuperados |acumulado de la cantidad de recuperados hasta ese día
+
+
 
 ## Fuente
 
