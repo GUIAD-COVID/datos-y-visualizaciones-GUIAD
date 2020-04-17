@@ -1,5 +1,5 @@
 fecha,dia,cantTest,acumTest,cantTestPositivos,acumTestPositivos,cantPersonasConInfeccionEnCurso,acumCasos,cantCTI,cantCI,cantFallecidos,acumFallecidos,cantRecuperados,acumRecuperados,Cant casos nuevos
-13/03/2020,1,N/A,N/A,4,4,N/A,N/A,N/A,N/A,0,0,N/A,N/A,
+13/03/20,1,N/A,N/A,4,4,N/A,N/A,N/A,N/A,0,0,N/A,N/A,
 14/03/2020,2,N/A,N/A,2,6,N/A,N/A,N/A,N/A,0,0,N/A,N/A,
 15/03/2020,3,N/A,N/A,2,8,N/A,N/A,N/A,N/A,0,0,N/A,N/A,
 16/03/2020,4,N/A,N/A,21,29,N/A,N/A,N/A,N/A,0,0,N/A,N/A,
@@ -33,3 +33,4 @@ fecha,dia,cantTest,acumTest,cantTestPositivos,acumTestPositivos,cantPersonasConI
 13/04/2020,32,462,9236,9,521,227,483,15,0,0,8,17,248,3
 14/04/2020,33,693,9929,12,533,224,492,14,0,0,8,12,260,9
 15/04/2020,34,519,10448,6,539,212,493,13,0,1,9,12,272,1
+16/04/2020,35,791,11239,13,552,207,502,13,0,0,9,14,286,9
