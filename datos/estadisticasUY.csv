@@ -1,4 +1,4 @@
-fecha,dia,cantPersonasConInfeccionEnCurso,Cant casos nuevos,acumCasos,cantFallecidos,acumFallecidos,cantCTI,cantCI,cantRecuperados,acumRecuperados,cantTest,acumTest,cantTestPositivos,acumTestPositivos
+fecha,dia,cantPersonasConInfeccionEnCurso,cantCasosNuevos,acumCasos,cantFallecidos,acumFallecidos,cantCTI,cantCI,cantRecuperados,acumRecuperados,cantTest,acumTest,cantTestPositivos,acumTestPositivos
 13/03/2020,1,N/A,N/A,N/A,0,0,N/A,N/A,N/A,N/A,N/A,N/A,4,4
 14/03/2020,2,N/A,N/A,N/A,0,0,N/A,N/A,N/A,N/A,N/A,N/A,2,6
 15/03/2020,3,N/A,N/A,N/A,0,0,N/A,N/A,N/A,N/A,N/A,N/A,2,8
@@ -56,6 +56,10 @@ fecha,dia,cantPersonasConInfeccionEnCurso,Cant casos nuevos,acumCasos,cantFallec
 06/05/2020,55,170,3,673,0,17,10,0,18,486,845,24656,8,775
 07/05/2020,56,175,11,684,0,17,9,0,6,492,1042,25698,26,801
 08/05/2020,57,170,10,694,1,18,8,0,14,506,1140,26838,19,820
-09/05/2020,58,168,5,699,0,18,8,0,7,513,623,27461,4,824
-10/05/2020,59,171,8,707,1,19,8,0,4,517,563,28024,7,831
+09/05/2020,58,171,8,702,0,18,8,0,7,513,623,27461,4,824
+10/05/2020,59,171,5,707,1,19,8,0,4,517,563,28024,7,831
 11/05/2020,60,169,4,711,0,19,8,0,6,523,673,28697,5,836
+12/05/2020,61,166,6,717,0,19,8,0,9,532,803,29500,7,843
+13/05/2020,62,155,2,719,0,19,8,0,13,545,709,30209,9,852
+14/05/2020,63,158,5,724,0,19,7,0,2,547,1000,31209,7,859
+15/05/2020,64,160,8,732,0,19,7,0,6,553,1016,32225,4,863
