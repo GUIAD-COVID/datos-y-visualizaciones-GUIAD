@@ -1,4 +1,5 @@
 fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRecuperados,acumRecuperados,acumCasos
+30/04/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 29/04/2020,Canelones (UY-CA ),17,0,0,2,0,66,85
 29/04/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 29/04/2020,Colonia (UY-CO ),2,0,0,0,0,6,8
@@ -17,6 +18,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/04/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 29/04/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 29/04/2020,Treinta y Tres (UY-TT ),4,0,0,0,0,0,4
+30/04/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 30/04/2020,Canelones (UY-CA ),14,0,0,2,3,69,85
 30/04/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 30/04/2020,Colonia (UY-CO ),2,0,0,0,0,6,8
@@ -35,6 +37,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 30/04/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 30/04/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 30/04/2020,Treinta y Tres (UY-TT ),4,0,0,0,0,0,4
+01/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 01/05/2020,Canelones (UY-CA ),13,2,0,2,3,72,87
 01/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 01/05/2020,Colonia (UY-CO ),2,0,0,0,0,6,8
@@ -53,6 +56,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 01/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 01/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 01/05/2020,Treinta y Tres (UY-TT ),4,0,0,0,0,0,4
+02/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 02/05/2020,Canelones (UY-CA ),15,2,0,2,0,72,89
 02/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 02/05/2020,Colonia (UY-CO ),2,0,0,0,0,6,8
@@ -71,6 +75,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 02/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 02/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 02/05/2020,Treinta y Tres (UY-TT ),4,0,0,0,0,0,4
+03/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 03/05/2020,Canelones (UY-CA ),15,0,0,2,0,72,89
 03/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 03/05/2020,Colonia (UY-CO ),2,0,0,0,0,6,8
@@ -89,6 +94,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 03/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 03/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 03/05/2020,Treinta y Tres (UY-TT ),5,1,0,0,0,0,5
+04/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 04/05/2020,Canelones (UY-CA ),17,2,0,2,0,72,91
 04/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 04/05/2020,Colonia (UY-CO ),2,0,0,0,0,6,8
@@ -107,6 +113,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 04/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 04/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 04/05/2020,Treinta y Tres (UY-TT ),5,0,0,0,0,0,5
+05/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 05/05/2020,Canelones (UY-CA ),18,3,0,2,2,74,94
 05/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 05/05/2020,Colonia (UY-CO ),3,1,0,0,0,6,9
@@ -125,6 +132,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 05/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 05/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 05/05/2020,Treinta y Tres (UY-TT ),12,7,0,0,0,0,12
+06/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 06/05/2020,Canelones (UY-CA ),18,1,0,2,1,75,95
 06/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 06/05/2020,Colonia (UY-CO ),3,0,0,0,0,6,9
@@ -143,6 +151,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 06/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 06/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 06/05/2020,Treinta y Tres (UY-TT ),12,0,0,0,0,0,12
+07/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 07/05/2020,Canelones (UY-CA ),18,2,0,2,2,77,97
 07/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 07/05/2020,Colonia (UY-CO ),2,0,0,0,1,7,9
@@ -161,6 +170,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 07/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 07/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 07/05/2020,Treinta y Tres (UY-TT ),12,0,0,0,0,0,12
+08/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 08/05/2020,Canelones (UY-CA ),18,0,0,2,0,77,97
 08/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 08/05/2020,Colonia (UY-CO ),2,0,0,0,0,7,9
@@ -179,6 +189,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 08/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 08/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 08/05/2020,Treinta y Tres (UY-TT ),12,0,0,0,0,0,12
+09/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 09/05/2020,Canelones (UY-CA ),18,1,0,2,1,78,98
 09/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 09/05/2020,Colonia (UY-CO ),2,0,0,0,0,7,9
@@ -197,6 +208,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 09/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 09/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 09/05/2020,Treinta y Tres (UY-TT ),12,0,0,0,0,0,12
+10/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 10/05/2020,Canelones (UY-CA ),19,1,0,2,0,78,99
 10/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 10/05/2020,Colonia (UY-CO ),2,1,0,0,1,8,10
@@ -215,6 +227,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 10/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 10/05/2020,Treinta y Tres (UY-TT ),12,0,0,0,0,0,12
+11/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 11/05/2020,Canelones (UY-CA ),20,2,0,2,1,79,101
 11/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 11/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
@@ -233,6 +246,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 11/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 11/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 11/05/2020,Treinta y Tres (UY-TT ),11,0,0,0,1,1,12
+12/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 12/05/2020,Canelones (UY-CA ),18,0,0,2,2,81,101
 12/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 12/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
@@ -251,6 +265,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 12/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 12/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 12/05/2020,Treinta y Tres (UY-TT ),11,0,0,0,0,1,12
+13/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 13/05/2020,Canelones (UY-CA ),15,0,0,2,3,84,101
 13/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 13/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
@@ -269,6 +284,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 13/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 13/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 13/05/2020,Treinta y Tres (UY-TT ),8,0,0,0,3,4,12
+14/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 14/05/2020,Canelones (UY-CA ),16,2,0,2,1,85,103
 14/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 14/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
@@ -287,6 +303,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 14/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 14/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 14/05/2020,Treinta y Tres (UY-TT ),8,0,0,0,0,4,12
+15/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 15/05/2020,Canelones (UY-CA ),15,1,0,2,2,87,104
 15/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 15/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
@@ -305,6 +322,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 15/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 15/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 15/05/2020,Treinta y Tres (UY-TT ),8,0,0,0,0,4,12
+16/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 16/05/2020,Canelones (UY-CA ),15,0,0,2,0,87,104
 16/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 16/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
@@ -323,6 +341,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 16/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 16/05/2020,Treinta y Tres (UY-TT ),8,0,0,0,0,4,12
+17/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 17/05/2020,Canelones (UY-CA ),15,0,0,2,0,87,104
 17/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 17/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
@@ -341,6 +360,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 17/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 17/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 17/05/2020,Treinta y Tres (UY-TT ),8,0,0,0,0,4,12
+18/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 18/05/2020,Canelones (UY-CA ),15,0,0,2,0,87,104
 18/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 18/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
@@ -359,6 +379,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 18/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 18/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 18/05/2020,Treinta y Tres (UY-TT ),8,0,0,0,0,4,12
+19/05/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 19/05/2020,Canelones (UY-CA ),16,2,0,2,1,88,106
 19/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 19/05/2020,Colonia (UY-CO ),2,0,0,0,0,8,10
