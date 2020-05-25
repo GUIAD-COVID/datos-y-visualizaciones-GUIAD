@@ -493,3 +493,22 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 24/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 24/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 24/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+25/05/2020,Artigas (UY-AR ),2,0,0,0,0,0,2
+25/05/2020,Canelones (UY-CA ),15,0,0,2,0,90,107
+25/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
+25/05/2020,Colonia (UY-CO ),0,0,0,0,1,10,10
+25/05/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+25/05/2020,Flores (UY-FS ),0,0,0,0,0,1,1
+25/05/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+25/05/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+25/05/2020,Maldonado (UY-MA ),5,0,0,4,1,31,40
+25/05/2020,Montevideo (UY-MO ),84,0,0,14,7,451,549
+25/05/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+25/05/2020,Río Negro (UY-RN ),1,0,0,0,0,8,9
+25/05/2020,Rivera (UY-RV ),29,17,0,2,0,0,31
+25/05/2020,Rocha (UY-RO ),0,0,0,0,0,1,1
+25/05/2020,Salto (UY-SA ),0,0,0,0,0,12,12
+25/05/2020,San José (UY-SJ ),0,0,0,0,1,5,5
+25/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+25/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
+25/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
