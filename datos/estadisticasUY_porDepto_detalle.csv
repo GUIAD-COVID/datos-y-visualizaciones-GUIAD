@@ -1,5 +1,5 @@
 fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRecuperados,acumRecuperados,acumCasos
-30/04/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
+29/04/2020,Artigas (UY-AR ),0,0,0,0,0,0,0
 29/04/2020,Canelones (UY-CA ),17,0,0,2,0,66,85
 29/04/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
 29/04/2020,Colonia (UY-CO ),2,0,0,0,0,6,8
@@ -512,3 +512,22 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 25/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 25/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 25/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+26/05/2020,Artigas (UY-AR ),2,0,0,0,0,0,2
+26/05/2020,Canelones (UY-CA ),14,1,0,2,2,92,108
+26/05/2020,Cerro Largo (UY-CL ),0,0,0,0,0,0,0
+26/05/2020,Colonia (UY-CO ),0,0,0,0,0,10,10
+26/05/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+26/05/2020,Flores (UY-FS ),0,0,0,0,0,1,1
+26/05/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+26/05/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+26/05/2020,Maldonado (UY-MA ),4,0,0,4,1,32,40
+26/05/2020,Montevideo (UY-MO ),78,1,0,14,7,458,550
+26/05/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+26/05/2020,Río Negro (UY-RN ),1,0,0,0,0,8,9
+26/05/2020,Rivera (UY-RV ),30,1,0,2,0,0,32
+26/05/2020,Rocha (UY-RO ),0,0,0,0,0,1,1
+26/05/2020,Salto (UY-SA ),0,0,0,0,0,12,12
+26/05/2020,San José (UY-SJ ),0,0,0,0,0,5,5
+26/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+26/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
+26/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
