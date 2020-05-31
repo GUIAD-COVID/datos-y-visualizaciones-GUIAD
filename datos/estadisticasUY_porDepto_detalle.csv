@@ -582,8 +582,26 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/05/2020,Río Negro (UY-RN ),0,0,0,0,0,9,9
 29/05/2020,Rivera (UY-RV ),42,2,0,2,0,0,44
 29/05/2020,Rocha (UY-RO ),0,0,0,0,0,1,1
-29/05/2020,Salto (UY-SA ),0,0,0,0,0,12,12
+29/05/2020,Salto (UY-SA ),1,1,0,0,0,12,13
 29/05/2020,San José (UY-SJ ),1,0,0,0,0,5,6
 29/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 29/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 29/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+30/05/2020,Canelones (UY-CA ),11,0,0,2,0,96,109
+30/05/2020,Cerro Largo (UY-CL ),1,0,0,0,0,0,1
+30/05/2020,Colonia (UY-CO ),0,9,0,0,10,10,10
+30/05/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+30/05/2020,Flores (UY-FS ),0,0,0,0,0,1,1
+30/05/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+30/05/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+30/05/2020,Maldonado (UY-MA ),1,0,0,4,0,35,40
+30/05/2020,Montevideo (UY-MO ),54,1,0,14,2,494,562
+30/05/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+30/05/2020,Río Negro (UY-RN ),0,0,0,0,0,9,9
+30/05/2020,Rivera (UY-RV ),45,3,0,2,0,0,47
+30/05/2020,Rocha (UY-RO ),0,0,0,0,0,1,1
+30/05/2020,Salto (UY-SA ),1,0,0,0,0,12,13
+30/05/2020,San José (UY-SJ ),1,0,0,0,0,5,6
+30/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+30/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
+30/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
