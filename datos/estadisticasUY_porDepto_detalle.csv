@@ -569,9 +569,10 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 28/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 28/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 28/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+29/05/2020,Artigas (UY-AR ),2,0,0,0,0,0,2
 29/05/2020,Canelones (UY-CA ),11,0,0,2,0,96,109
 29/05/2020,Cerro Largo (UY-CL ),1,0,0,0,0,0,1
-29/05/2020,Colonia (UY-CO ),0,9,0,0,10,10,10
+29/05/2020,Colonia (UY-CO ),0,0,0,0,0,10,10
 29/05/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
 29/05/2020,Flores (UY-FS ),0,0,0,0,0,1,1
 29/05/2020,Florida (UY-FD ),0,0,0,0,0,0,0
@@ -587,9 +588,10 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 29/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 29/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+30/05/2020,Artigas (UY-AR ),3,1,0,0,0,0,3
 30/05/2020,Canelones (UY-CA ),11,0,0,2,0,96,109
 30/05/2020,Cerro Largo (UY-CL ),1,0,0,0,0,0,1
-30/05/2020,Colonia (UY-CO ),0,9,0,0,10,10,10
+30/05/2020,Colonia (UY-CO ),0,0,0,0,0,10,10
 30/05/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
 30/05/2020,Flores (UY-FS ),0,0,0,0,0,1,1
 30/05/2020,Florida (UY-FD ),0,0,0,0,0,0,0
@@ -605,18 +607,38 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 30/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 30/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 30/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
-01/06/2020,Canelones (UY-CA ),11,0,0,2,0,96,109
+31/05/2020,Artigas (UY-AR ),3,0,0,0,0,0,3
+31/05/2020,Canelones (UY-CA ),11,0,0,2,0,96,109
+31/05/2020,Cerro Largo (UY-CL ),1,0,0,0,0,0,1
+31/05/2020,Colonia (UY-CO ),0,0,0,0,0,10,10
+31/05/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+31/05/2020,Flores (UY-FS ),0,0,0,0,0,1,1
+31/05/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+31/05/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+31/05/2020,Maldonado (UY-MA ),1,0,0,4,0,35,40
+31/05/2020,Montevideo (UY-MO ),52,0,0,14,2,496,562
+31/05/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+31/05/2020,Río Negro (UY-RN ),0,0,0,0,0,9,9
+31/05/2020,Rivera (UY-RV ),46,2,0,2,1,1,49
+31/05/2020,Rocha (UY-RO ),0,0,0,0,0,1,1
+31/05/2020,Salto (UY-SA ),1,0,0,0,0,12,13
+31/05/2020,San José (UY-SJ ),1,0,0,0,0,5,6
+31/05/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+31/05/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
+31/05/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+01/06/2020,Artigas (UY-AR ),3,0,0,0,0,0,3
+01/06/2020,Canelones (UY-CA ),10,0,0,2,1,97,109
 01/06/2020,Cerro Largo (UY-CL ),1,0,0,0,0,0,1
-01/06/2020,Colonia (UY-CO ),0,9,0,0,10,10,10
+01/06/2020,Colonia (UY-CO ),0,0,0,0,0,10,10
 01/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
 01/06/2020,Flores (UY-FS ),0,0,0,0,0,1,1
 01/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
 01/06/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
 01/06/2020,Maldonado (UY-MA ),1,0,0,4,0,35,40
-01/06/2020,Montevideo (UY-MO ),52,0,0,14,2,496,562
+01/06/2020,Montevideo (UY-MO ),48,0,1,15,3,499,562
 01/06/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
 01/06/2020,Río Negro (UY-RN ),0,0,0,0,0,9,9
-01/06/2020,Rivera (UY-RV ),46,2,0,2,1,1,49
+01/06/2020,Rivera (UY-RV ),48,2,0,2,0,1,51
 01/06/2020,Rocha (UY-RO ),0,0,0,0,0,1,1
 01/06/2020,Salto (UY-SA ),1,0,0,0,0,12,13
 01/06/2020,San José (UY-SJ ),1,0,0,0,0,5,6
