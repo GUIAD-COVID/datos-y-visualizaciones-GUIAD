@@ -645,3 +645,41 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 01/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 01/06/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 01/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+02/06/2020,Artigas (UY-AR ),3,0,0,0,0,0,3
+02/06/2020,Canelones (UY-CA ),10,0,0,2,0,97,109
+02/06/2020,Cerro Largo (UY-CL ),1,0,0,0,0,0,1
+02/06/2020,Colonia (UY-CO ),0,0,0,0,0,10,10
+02/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+02/06/2020,Flores (UY-FS ),0,0,0,0,0,1,1
+02/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+02/06/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+02/06/2020,Maldonado (UY-MA ),0,0,0,4,1,36,40
+02/06/2020,Montevideo (UY-MO ),47,0,0,15,1,500,562
+02/06/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+02/06/2020,Río Negro (UY-RN ),0,0,0,0,0,9,9
+02/06/2020,Rivera (UY-RV ),48,0,0,2,0,1,51
+02/06/2020,Rocha (UY-RO ),1,1,0,0,0,1,2
+02/06/2020,Salto (UY-SA ),1,0,0,0,0,12,13
+02/06/2020,San José (UY-SJ ),1,0,0,0,0,5,6
+02/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+02/06/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
+02/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+03/06/2020,Artigas (UY-AR ),3,0,0,0,0,0,3
+03/06/2020,Canelones (UY-CA ),11,1,0,2,0,97,110
+03/06/2020,Cerro Largo (UY-CL ),1,0,0,0,0,0,1
+03/06/2020,Colonia (UY-CO ),0,0,0,0,0,10,10
+03/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+03/06/2020,Flores (UY-FS ),0,0,0,0,0,1,1
+03/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+03/06/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+03/06/2020,Maldonado (UY-MA ),0,0,0,4,0,36,40
+03/06/2020,Montevideo (UY-MO ),44,1,0,15,4,504,563
+03/06/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+03/06/2020,Río Negro (UY-RN ),0,0,0,0,0,9,9
+03/06/2020,Rivera (UY-RV ),45,0,0,2,3,4,51
+03/06/2020,Rocha (UY-RO ),1,0,0,0,0,1,2
+03/06/2020,Salto (UY-SA ),1,0,0,0,0,12,13
+03/06/2020,San José (UY-SJ ),1,0,0,0,0,5,6
+03/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+03/06/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
+03/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
