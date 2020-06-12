@@ -798,9 +798,9 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 09/06/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 09/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
 10/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
-10/06/2020,Canelones (UY-CA ),10,1,0,2,0,102,114
+10/06/2020,Canelones (UY-CA ),10,0,0,2,-1,101,113
 10/06/2020,Cerro Largo (UY-CL ),0,0,0,0,1,1,1
-10/06/2020,Colonia (UY-CO ),3,0,0,0,0,10,13
+10/06/2020,Colonia (UY-CO ),3,0,0,0,0,10,13 
 10/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
 10/06/2020,Flores (UY-FS ),1,0,0,0,0,1,2
 10/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
@@ -816,3 +816,22 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 10/06/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 10/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+11/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
+11/06/2020,Canelones (UY-CA ),9,-1,0,2,0,101,112
+11/06/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
+11/06/2020,Colonia (UY-CO ),3,0,0,0,0,10,13
+11/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+11/06/2020,Flores (UY-FS ),1,0,0,0,0,1,2
+11/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+11/06/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+11/06/2020,Maldonado (UY-MA ),0,0,0,4,0,36,40
+11/06/2020,Montevideo (UY-MO ),20,0,0,15,4,535,570
+11/06/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+11/06/2020,Río Negro (UY-RN ),1,0,0,0,0,9,10
+11/06/2020,Rivera (UY-RV ),16,0,0,2,8,38,56
+11/06/2020,Rocha (UY-RO ),1,0,0,0,0,1,2
+11/06/2020,Salto (UY-SA ),1,0,0,0,0,12,13
+11/06/2020,San José (UY-SJ ),0,0,0,0,1,6,6
+11/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+11/06/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
+11/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
