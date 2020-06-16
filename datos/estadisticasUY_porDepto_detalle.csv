@@ -800,7 +800,11 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
 10/06/2020,Canelones (UY-CA ),10,0,0,2,-1,101,113
 10/06/2020,Cerro Largo (UY-CL ),0,0,0,0,1,1,1
+<<<<<<< HEAD
 10/06/2020,Colonia (UY-CO ),3,0,0,0,0,10,13
+=======
+10/06/2020,Colonia (UY-CO ),3,0,0,0,0,10,13 
+>>>>>>> 232587ec56fcd2b90b969ed96edbfe434d9fb125
 10/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
 10/06/2020,Flores (UY-FS ),1,0,0,0,0,1,2
 10/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
@@ -835,6 +839,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 11/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 11/06/2020,Tacuarembó (UY-TA ),0,0,0,0,0,0,0
 11/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+<<<<<<< HEAD
 12/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
 12/06/2020,Canelones (UY-CA ),7,0,0,2,2,103,112
 12/06/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
@@ -911,3 +916,5 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 15/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 15/06/2020,Tacuarembó (UY-TA ),1,1,0,0,0,0,1
 15/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+=======
+>>>>>>> 232587ec56fcd2b90b969ed96edbfe434d9fb125
