@@ -911,3 +911,22 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 15/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 15/06/2020,Tacuarembó (UY-TA ),1,1,0,0,0,0,1
 15/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+16/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
+16/06/2020,Canelones (UY-CA ),4,0,0,2,3,106,112
+16/06/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
+16/06/2020,Colonia (UY-CO ),2,0,0,0,1,11,13
+16/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+16/06/2020,Flores (UY-FS ),1,0,0,0,0,1,2
+16/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+16/06/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+16/06/2020,Maldonado (UY-MA ),0,0,0,4,0,36,40
+16/06/2020,Montevideo (UY-MO ),10,0,0,15,5,545,570
+16/06/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+16/06/2020,Río Negro (UY-RN ),1,0,0,0,0,9,10
+16/06/2020,Rivera (UY-RV ),4,0,0,2,7,50,56
+16/06/2020,Rocha (UY-RO ),0,0,0,0,1,2,2
+16/06/2020,Salto (UY-SA ),1,0,0,0,0,12,13
+16/06/2020,San José (UY-SJ ),0,0,0,0,0,6,6
+16/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+16/06/2020,Tacuarembó (UY-TA ),1,1,0,0,0,0,1
+16/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
