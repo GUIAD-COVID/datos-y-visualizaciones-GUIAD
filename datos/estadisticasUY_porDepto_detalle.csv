@@ -920,7 +920,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
 16/06/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
 16/06/2020,Maldonado (UY-MA ),0,0,0,4,0,36,40
-16/06/2020,Montevideo (UY-MO ),10,0,0,15,5,545,570
+16/06/2020,Montevideo (UY-MO ),10,1,1,16,5,545,571
 16/06/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
 16/06/2020,Río Negro (UY-RN ),1,0,0,0,0,9,10
 16/06/2020,Rivera (UY-RV ),4,0,0,2,7,50,56
@@ -930,3 +930,41 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 16/06/2020,Tacuarembó (UY-TA ),1,1,0,0,0,0,1
 16/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+17/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
+17/06/2020,Canelones (UY-CA ),4,0,0,2,2,106,112
+17/06/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
+17/06/2020,Colonia (UY-CO ),2,0,0,0,1,11,13
+17/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+17/06/2020,Flores (UY-FS ),1,0,0,0,0,1,2
+17/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+17/06/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+17/06/2020,Maldonado (UY-MA ),0,0,0,4,0,36,40
+17/06/2020,Montevideo (UY-MO ),4,0,0,16,10,551,571
+17/06/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+17/06/2020,Río Negro (UY-RN ),1,0,0,0,0,9,10
+17/06/2020,Rivera (UY-RV ),1,-1,0,2,8,53,56
+17/06/2020,Rocha (UY-RO ),0,0,0,0,1,2,2
+17/06/2020,Salto (UY-SA ),1,0,0,0,0,12,13
+17/06/2020,San José (UY-SJ ),0,0,0,0,0,6,6
+17/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+17/06/2020,Tacuarembó (UY-TA ),1,1,0,0,0,0,1
+17/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
+18/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
+18/06/2020,Canelones (UY-CA ),4,1,0,2,3,107,113
+18/06/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
+18/06/2020,Colonia (UY-CO ),1,0,0,0,2,12,13
+18/06/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+18/06/2020,Flores (UY-FS ),0,0,0,0,1,2,2
+18/06/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+18/06/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+18/06/2020,Maldonado (UY-MA ),0,0,0,4,0,36,40
+18/06/2020,Montevideo (UY-MO ),3,0,0,16,9,552,571
+18/06/2020,Paysandú (UY-PA ),0,0,0,0,0,1,1
+18/06/2020,Río Negro (UY-RN ),1,0,0,0,0,9,10
+18/06/2020,Rivera (UY-RV ),1,0,0,2,6,53,56
+18/06/2020,Rocha (UY-RO ),0,0,0,0,1,2,2
+18/06/2020,Salto (UY-SA ),1,0,0,0,0,12,13
+18/06/2020,San José (UY-SJ ),0,0,0,0,0,6,6
+18/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+18/06/2020,Tacuarembó (UY-TA ),1,0,0,0,0,0,1
+18/06/2020,Treinta y Tres (UY-TT ),0,0,0,0,0,12,12
