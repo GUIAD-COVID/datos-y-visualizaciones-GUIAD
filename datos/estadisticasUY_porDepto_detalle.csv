@@ -1025,7 +1025,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 21/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 21/06/2020,Tacuarembó (UY-TA ),2,0,0,0,0,0,2
 21/06/2020,Treinta y Tres (UY-TT ),18,12,0,0,0,12,30
-<<<<<<< HEAD
 22/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
 22/06/2020,Canelones (UY-CA ),6,0,0,2,0,107,115
 22/06/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
@@ -1045,5 +1044,3 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 22/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 22/06/2020,Tacuarembó (UY-TA ),2,0,0,0,0,0,2
 22/06/2020,Treinta y Tres (UY-TT ),24,6,0,0,0,12,36
-=======
->>>>>>> f5b520e4b0af3dc53cfa4404afaa07260c1a478c
