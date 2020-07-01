@@ -1157,7 +1157,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 28/06/2020,San José (UY-SJ ),1,0,0,0,0,6,7
 28/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 28/06/2020,Tacuarembó (UY-TA ),2,0,0,0,0,0,2
-28/06/2020,Treinta y Tres (UY-TT ),61,2,0,0,0,12,73
+28/06/2020,Treinta y Tres (UY-TT ),61,4,1,1,1,13,75
 29/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
 29/06/2020,Canelones (UY-CA ),7,0,0,2,0,108,117
 29/06/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
@@ -1176,7 +1176,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/06/2020,San José (UY-SJ ),1,0,0,0,0,6,7
 29/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 29/06/2020,Tacuarembó (UY-TA ),1,0,0,0,1,1,2
-29/06/2020,Treinta y Tres (UY-TT ),63,2,0,0,0,12,75
+29/06/2020,Treinta y Tres (UY-TT ),63,2,0,1,0,13,77
 30/06/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
 30/06/2020,Canelones (UY-CA ),7,0,0,2,0,108,117
 30/06/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
@@ -1195,4 +1195,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 30/06/2020,San José (UY-SJ ),0,0,0,0,1,7,7
 30/06/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
 30/06/2020,Tacuarembó (UY-TA ),1,0,0,0,0,1,2
-30/06/2020,Treinta y Tres (UY-TT ),66,4,0,0,1,13,79
+30/06/2020,Treinta y Tres (UY-TT ),66,3,0,1,0,13,80
+01/07/2020,Artigas (UY-AR ),0,0,0,0,0,3,3
+01/07/2020,Canelones (UY-CA ),7,0,0,2,0,108,117
+01/07/2020,Cerro Largo (UY-CL ),0,0,0,0,0,1,1
+01/07/2020,Colonia (UY-CO ),0,0,0,0,0,13,13
+01/07/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+01/07/2020,Flores (UY-FS ),0,0,0,0,0,2,2
+01/07/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+01/07/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+01/07/2020,Maldonado (UY-MA ),2,2,0,4,0,36,42
+01/07/2020,Montevideo (UY-MO ),10,1,0,17,0,555,582
+01/07/2020,Paysandú (UY-PA ),1,0,0,0,0,1,2
+01/07/2020,Río Negro (UY-RN ),0,0,0,0,0,10,10
+01/07/2020,Rivera (UY-RV ),0,0,0,3,0,54,57
+01/07/2020,Rocha (UY-RO ),0,0,0,0,0,2,2
+01/07/2020,Salto (UY-SA ),0,0,1,1,0,12,13
+01/07/2020,San José (UY-SJ ),0,0,0,0,0,7,7
+01/07/2020,Soriano (UY-SO ),0,0,0,0,0,1,1
+01/07/2020,Tacuarembó (UY-TA ),1,0,0,0,0,1,2
+01/07/2020,Treinta y Tres (UY-TT ),69,4,0,1,1,14,84
