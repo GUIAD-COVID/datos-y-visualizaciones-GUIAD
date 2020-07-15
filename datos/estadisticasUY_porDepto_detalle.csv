@@ -1443,3 +1443,22 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 13/07/2020,Soriano (UY-SO ),0,0,0,1,0,1,2
 13/07/2020,Tacuarembó (UY-TA ),3,0,0,0,0,2,5
 13/07/2020,Treinta y Tres (UY-TT ),21,0,0,1,6,77,99
+14/07/2020,Artigas (UY-AR ),3,0,0,0,0,3,6
+14/07/2020,Canelones (UY-CA ),4,0,0,2,0,115,121
+14/07/2020,Cerro Largo (UY-CL ),4,0,0,1,0,1,6
+14/07/2020,Colonia (UY-CO ),0,0,0,0,0,13,13
+14/07/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+14/07/2020,Flores (UY-FS ),0,0,0,0,0,2,2
+14/07/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+14/07/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+14/07/2020,Maldonado (UY-MA ),4,0,0,4,0,36,44
+14/07/2020,Montevideo (UY-MO ),22,8,0,18,0,562,602
+14/07/2020,Paysandú (UY-PA ),0,0,0,0,1,2,2
+14/07/2020,Río Negro (UY-RN ),0,0,0,0,0,10,10
+14/07/2020,Rivera (UY-RV ),1,0,0,3,0,54,58
+14/07/2020,Rocha (UY-RO ),0,0,0,0,0,2,2
+14/07/2020,Salto (UY-SA ),0,0,0,1,0,12,13
+14/07/2020,San José (UY-SJ ),0,0,0,0,0,7,7
+14/07/2020,Soriano (UY-SO ),0,0,0,1,0,1,2
+14/07/2020,Tacuarembó (UY-TA ),3,0,0,0,0,2,5
+14/07/2020,Treinta y Tres (UY-TT ),20,0,0,1,1,78,99
