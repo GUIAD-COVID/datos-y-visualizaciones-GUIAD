@@ -1804,3 +1804,22 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 01/08/2020,Soriano (UY-SO ),0,0,0,1,0,1,2
 01/08/2020,Tacuarembó (UY-TA ),0,0,0,0,0,5,5
 01/08/2020,Treinta y Tres (UY-TT ),2,0,0,2,2,98,102
+02/08/2020,Artigas (UY-AR ),7,0,0,0,1,9,16
+02/08/2020,Canelones (UY-CA ),39,0,0,3,0,125,167
+02/08/2020,Cerro Largo (UY-CL ),4,0,0,1,0,9,14
+02/08/2020,Colonia (UY-CO ),1,0,0,0,0,13,14
+02/08/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+02/08/2020,Flores (UY-FS ),1,0,0,0,0,2,3
+02/08/2020,Florida (UY-FD ),0,0,0,0,0,0,0
+02/08/2020,Lavalleja (UY-LA ),0,0,0,0,0,4,4
+02/08/2020,Maldonado (UY-MA ),4,-1,0,4,0,40,48
+02/08/2020,Montevideo (UY-MO ),163,7,0,20,6,614,797
+02/08/2020,Paysandú (UY-PA ),2,0,0,0,0,2,4
+02/08/2020,Río Negro (UY-RN ),1,0,0,0,0,10,11
+02/08/2020,Rivera (UY-RV ),4,0,1,4,0,55,63
+02/08/2020,Rocha (UY-RO ),4,0,0,0,1,4,8
+02/08/2020,Salto (UY-SA ),3,1,0,1,0,13,17
+02/08/2020,San José (UY-SJ ),2,0,0,0,0,7,9
+02/08/2020,Soriano (UY-SO ),1,1,0,1,0,1,3
+02/08/2020,Tacuarembó (UY-TA ),0,0,0,0,0,5,5
+02/08/2020,Treinta y Tres (UY-TT ),3,0,0,2,-1,97,102
