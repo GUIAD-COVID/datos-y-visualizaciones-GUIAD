@@ -2450,3 +2450,22 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 04/09/2020,Soriano (UY-SO ),1,0,0,1,0,3,5
 04/09/2020,Tacuarembó (UY-TA ),3,0,0,0,0,9,12
 04/09/2020,Treinta y Tres (UY-TT ),0,0,0,2,0,101,103
+05/09/2020,Artigas (UY-AR ),0,0,0,0,0,33,33
+05/09/2020,Canelones (UY-CA ),14,-1,0,4,1,178,196
+05/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
+05/09/2020,Colonia (UY-CO ),0,0,0,0,0,17,17
+05/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+05/09/2020,Flores (UY-FS ),1,0,0,0,0,3,4
+05/09/2020,Florida (UY-FD ),1,0,0,0,0,0,1
+05/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
+05/09/2020,Maldonado (UY-MA ),1,0,0,4,0,51,56
+05/09/2020,Montevideo (UY-MO ),132,14,0,28,10,863,1023
+05/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+05/09/2020,Río Negro (UY-RN ),1,0,0,0,0,12,13
+05/09/2020,Rivera (UY-RV ),5,0,0,4,0,102,111
+05/09/2020,Rocha (UY-RO ),5,4,0,0,0,8,13
+05/09/2020,Salto (UY-SA ),0,0,0,1,0,19,20
+05/09/2020,San José (UY-SJ ),1,0,0,0,2,37,38
+05/09/2020,Soriano (UY-SO ),1,0,0,1,0,3,5
+05/09/2020,Tacuarembó (UY-TA ),3,0,0,0,0,9,12
+05/09/2020,Treinta y Tres (UY-TT ),0,0,0,2,0,101,103
