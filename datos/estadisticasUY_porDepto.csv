@@ -1,4 +1,4 @@
-fecha,cantDeptosAfectados,Artigas (UY-AR ),Canelones (UY-CA ),Cerro Largo (UY-CL ),Colonia (UY-CO ),Durazno (UY-DU ),Flores (UY-FS ),Florida (UY-FD ),Lavalleja (UY-LA ),Maldonado (UY-MA ),Montevideo (UY-MO ),Paysandú (UY-PA ),Río Negro (UY-RN ),Rivera (UY-RV ),Rocha (UY-RO ),Salto (UY-SA ),San José (UY-SJ ),Soriano (UY-SO ),Tacuarembó (UY-TA ),Treinta y Tres (UY-TT ),,
+fecha,cantDeptosAfectados,Artigas (UY-AR ),Canelones (UY-CA ),Cerro Largo (UY-CL ),Colonia (UY-CO ),Durazno (UY-DU ),Flores (UY-FS ),Florida (UY-FD ),Lavalleja (UY-LA ),Maldonado (UY-MA ),Montevideo (UY-MO ),Paysandú (UY-PA ),Río Negro (UY-RN ),Rivera (UY-RV ),Rocha (UY-RO ),Salto (UY-SA ),San José (UY-SJ ),Soriano (UY-SO ),Tacuarembó (UY-TA ),Treinta y Tres (UY-TT ),,Casos retornados
 13/03/2020,1,0,0,0,0,0,0,0,0,0,SI,0,0,0,0,0,0,0,0,0,,
 14/03/2020,1,0,0,0,0,0,0,0,0,0,SI,0,0,0,0,0,0,0,0,0,,
 15/03/2020,1,0,0,0,0,0,0,0,0,0,SI,0,0,0,0,0,0,0,0,0,,
@@ -169,3 +169,12 @@ fecha,cantDeptosAfectados,Artigas (UY-AR ),Canelones (UY-CA ),Cerro Largo (UY-CL
 27/08/2020,9,11,17,0,1,0,0,0,0,0,96,0,0,32,0,1,12,2,3,0,175,
 28/08/2020,11,8,12,0,1,0,1,0,0,0,93,0,1,29,0,1,12,2,1,0,161,
 29/08/2020,10,6,12,0,1,0,1,0,0,0,100,0,1,25,0,0,12,3,1,0,162,
+30/08/2020,11,6,13,0,1,0,1,0,0,0,107,0,2,18,0,2,9,3,1,0,163,
+31/08/2020,9,1,11,0,0,0,1,0,0,0,103,0,1,17,0,0,4,1,3,0,142,
+01/09/2020,10,0,12,0,0,0,1,1,0,1,108,0,1,15,0,0,5,1,3,0,148,
+02/09/2020,11,0,14,0,0,0,1,1,0,1,116,0,1,6,1,0,4,1,3,0,149,
+03/09/2020,11,0,14,0,0,0,1,1,0,1,123,0,1,6,1,0,3,1,3,0,155,
+04/09/2020,11,0,16,0,0,0,1,1,0,1,126,0,1,5,4,0,3,1,3,0,162,
+05/09/2020,11,0,14,0,0,0,1,1,0,1,132,0,1,5,5,0,1,1,3,0,165,
+06/09/2020,11,0,14,0,0,0,1,1,0,1,142,0,1,5,5,0,1,1,3,0,175,1
+07/09/2020,12,0,16,0,0,0,1,1,0,1,146,0,1,4,5,0,1,1,3,2,182,0
