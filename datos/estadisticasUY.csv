@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 fecha,dia,cantPersonasConInfeccionEnCurso,cantCasosNuevos,acumCasos,cantFallecidos,acumFallecidos,cantCTI,cantCI,cantRecuperados,acumRecuperados,cantTest,acumTest,cantTestPositivos,acumTestPositivos,DIA,Casos retornados
+=======
+fecha,dia,cantPersonasConInfeccionEnCurso,cantCasosNuevos,acumCasos,cantFallecidos,acumFallecidos,cantCTI,cantCI,cantRecuperados,acumRecuperados,cantTest,acumTest,cantTestPositivos,acumTestPositivos,DIA,Egresades
+>>>>>>> ff4ae466f9c7681d68dabd8e5ef6d2248ad09d67
 13/03/2020,1,4,N/A,4,0,0,0,0,0,0,N/A,N/A,4,4,5_VIERNES,
 14/03/2020,2,6,2,6,0,0,0,0,0,0,N/A,N/A,2,6,6_SABADO,
 15/03/2020,3,8,2,8,0,0,0,0,0,0,N/A,N/A,2,8,7_DOMINGO,
@@ -177,4 +181,7 @@ fecha,dia,cantPersonasConInfeccionEnCurso,cantCasosNuevos,acumCasos,cantFallecid
 04/09/2020,176,162,17,1653,1,45,2,0,9,1446,2110,180739,17,1897,5_VIERNES,
 05/09/2020,177,165,18,1669,0,45,3,0,13,1459,3167,183906,18,1915,6_SABADO,
 06/09/2020,178,175,11,1679,0,45,3,0,0,1459,3167,187073,11,1926,7_DOMINGO,1
+<<<<<<< HEAD
 07/09/2020,179,182,14,1693,0,45,3,0,7,1466,1173,188246,14,1940,1_LUNES,0
+=======
+>>>>>>> ff4ae466f9c7681d68dabd8e5ef6d2248ad09d67

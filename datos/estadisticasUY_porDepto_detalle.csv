@@ -2488,6 +2488,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 06/09/2020,Soriano (UY-SO ),1,0,0,1,0,3,5
 06/09/2020,Tacuarembó (UY-TA ),3,0,0,0,0,9,12
 06/09/2020,Treinta y Tres (UY-TT ),0,0,0,2,0,101,103
+<<<<<<< HEAD
 06/09/2020,Casos retornados,0,1,0,0,0,0,0
 07/09/2020,Artigas (UY-AR ),0,0,0,0,0,33,33
 07/09/2020,Canelones (UY-CA ),16,2,0,4,0,178,198
@@ -2509,3 +2510,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 07/09/2020,Tacuarembó (UY-TA ),3,0,0,0,0,9,12
 07/09/2020,Treinta y Tres (UY-TT ),2,2,0,2,0,101,105
 07/09/2020,Casos retornados,0,0,0,0,0,0,0
+=======
+06/09/2020,Egresades,0,0,0,0,0,0,0
+>>>>>>> ff4ae466f9c7681d68dabd8e5ef6d2248ad09d67
