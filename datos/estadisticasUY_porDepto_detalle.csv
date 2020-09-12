@@ -2569,3 +2569,43 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/09/2020,Tacuarembó (UY-TA ),2,0,0,0,0,10,12
 10/09/2020,Treinta y Tres (UY-TT ),1,0,0,2,0,101,104
 10/09/2020,Casos retornados,0,0,0,0,0,0,0
+11/09/2020,Artigas (UY-AR ),0,0,0,0,0,33,33
+11/09/2020,Canelones (UY-CA ),24,4,0,4,0,182,210
+11/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
+11/09/2020,Colonia (UY-CO ),0,0,0,0,0,15,15
+11/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+11/09/2020,Flores (UY-FS ),1,0,0,0,0,3,4
+11/09/2020,Florida (UY-FD ),1,0,0,0,0,0,1
+11/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
+11/09/2020,Maldonado (UY-MA ),1,0,0,4,0,51,56
+11/09/2020,Montevideo (UY-MO ),182,10,0,28,8,890,1100
+11/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+11/09/2020,Río Negro (UY-RN ),2,0,0,0,0,12,14
+11/09/2020,Rivera (UY-RV ),11,1,0,4,0,105,120
+11/09/2020,Rocha (UY-RO ),6,0,0,0,0,8,14
+11/09/2020,Salto (UY-SA ),0,0,0,1,0,19,20
+11/09/2020,San José (UY-SJ ),5,0,0,0,0,37,42
+11/09/2020,Soriano (UY-SO ),1,0,0,1,0,3,5
+11/09/2020,Tacuarembó (UY-TA ),2,0,0,0,0,10,12
+11/09/2020,Treinta y Tres (UY-TT ),1,0,0,2,0,101,104
+11/09/2020,Casos retornados,1,0,0,0,0,0,1
+12/09/2020,Artigas (UY-AR ),0,0,0,0,0,33,33
+12/09/2020,Canelones (UY-CA ),25,2,0,4,1,183,212
+12/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
+12/09/2020,Colonia (UY-CO ),0,0,0,0,0,15,15
+12/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+12/09/2020,Flores (UY-FS ),0,0,0,0,1,4,4
+12/09/2020,Florida (UY-FD ),2,1,0,0,0,0,2
+12/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
+12/09/2020,Maldonado (UY-MA ),1,0,0,4,0,51,56
+12/09/2020,Montevideo (UY-MO ),178,2,0,28,6,896,1102
+12/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+12/09/2020,Río Negro (UY-RN ),1,0,0,0,1,13,14
+12/09/2020,Rivera (UY-RV ),13,3,0,4,1,106,123
+12/09/2020,Rocha (UY-RO ),6,0,0,0,0,8,14
+12/09/2020,Salto (UY-SA ),0,0,0,1,0,19,20
+12/09/2020,San José (UY-SJ ),4,0,0,0,0,37,41
+12/09/2020,Soriano (UY-SO ),0,0,0,1,1,4,5
+12/09/2020,Tacuarembó (UY-TA ),2,0,0,0,0,10,12
+12/09/2020,Treinta y Tres (UY-TT ),1,0,0,2,0,101,104
+12/09/2020,Casos retornados,1,0,0,0,0,0,1
