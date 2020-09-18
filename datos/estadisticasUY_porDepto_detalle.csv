@@ -2689,3 +2689,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/09/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
 16/09/2020,Treinta y Tres (UY-TT ),1,0,0,2,0,101,104
 16/09/2020,Casos retornados,0,0,0,0,0,0,0
+17/09/2020,Artigas (UY-AR ),1,0,0,0,0,33,34
+17/09/2020,Canelones (UY-CA ),25,1,0,4,2,190,219
+17/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
+17/09/2020,Colonia (UY-CO ),1,0,0,0,0,15,15
+17/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+17/09/2020,Flores (UY-FS ),0,0,0,0,0,4,4
+17/09/2020,Florida (UY-FD ),1,0,0,0,1,1,2
+17/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
+17/09/2020,Maldonado (UY-MA ),4,1,0,4,-1,51,59
+17/09/2020,Montevideo (UY-MO ),164,7,1,29,19,959,1152
+17/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+17/09/2020,Río Negro (UY-RN ),0,0,0,0,0,13,13
+17/09/2020,Rivera (UY-RV ),46,11,0,4,0,107,157
+17/09/2020,Rocha (UY-RO ),2,0,0,0,2,12,14
+17/09/2020,Salto (UY-SA ),0,0,0,1,0,19,20
+17/09/2020,San José (UY-SJ ),3,0,0,0,0,38,41
+17/09/2020,Soriano (UY-SO ),0,0,0,1,0,4,5
+17/09/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
+17/09/2020,Treinta y Tres (UY-TT ),1,0,0,2,0,101,104
+17/09/2020,Casos retornados,0,0,0,0,0,0,0
