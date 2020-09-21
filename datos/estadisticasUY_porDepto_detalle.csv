@@ -2718,7 +2718,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 18/09/2020,Florida (UY-FD ),1,0,0,0,0,1,2
 18/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
 18/09/2020,Maldonado (UY-MA ),4,0,0,4,0,51,59
-18/09/2020,Montevideo (UY-MO ),155,7,1,29,18,977,1161
+18/09/2020,Montevideo (UY-MO ),155,7,0,29,18,977,1161
 18/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
 18/09/2020,Río Negro (UY-RN ),0,0,0,0,0,13,13
 18/09/2020,Rivera (UY-RV ),49,5,0,4,1,108,161
@@ -2738,7 +2738,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 19/09/2020,Florida (UY-FD ),1,0,0,0,0,1,2
 19/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
 19/09/2020,Maldonado (UY-MA ),4,0,0,4,0,51,59
-19/09/2020,Montevideo (UY-MO ),155,6,1,29,6,983,1167
+19/09/2020,Montevideo (UY-MO ),155,6,0,29,6,983,1167
 19/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
 19/09/2020,Río Negro (UY-RN ),0,0,0,0,0,13,13
 19/09/2020,Rivera (UY-RV ),52,6,0,4,3,111,167
@@ -2749,3 +2749,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 19/09/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
 19/09/2020,Treinta y Tres (UY-TT ),1,0,0,2,0,101,104
 19/09/2020,Casos retornados,0,0,0,0,0,0,0
+20/09/2020,Artigas (UY-AR ),1,0,0,0,0,33,34
+20/09/2020,Canelones (UY-CA ),25,0,0,4,1,192,221
+20/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
+20/09/2020,Colonia (UY-CO ),1,0,0,0,0,15,15
+20/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+20/09/2020,Flores (UY-FS ),0,0,0,0,0,4,4
+20/09/2020,Florida (UY-FD ),1,0,0,0,0,1,2
+20/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
+20/09/2020,Maldonado (UY-MA ),4,0,0,4,0,51,59
+20/09/2020,Montevideo (UY-MO ),153,5,0,29,8,991,1173
+20/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+20/09/2020,Río Negro (UY-RN ),0,0,0,0,0,13,13
+20/09/2020,Rivera (UY-RV ),59,7,0,4,0,111,174
+20/09/2020,Rocha (UY-RO ),1,0,0,0,0,13,14
+20/09/2020,Salto (UY-SA ),0,0,0,1,0,19,20
+20/09/2020,San José (UY-SJ ),4,1,0,0,0,38,42
+20/09/2020,Soriano (UY-SO ),0,0,0,1,0,4,5
+20/09/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
+20/09/2020,Treinta y Tres (UY-TT ),1,0,0,2,0,101,104
+20/09/2020,Casos retornados,0,0,0,0,0,0,0
