@@ -2732,7 +2732,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 19/09/2020,Artigas (UY-AR ),1,0,0,0,0,33,34
 19/09/2020,Canelones (UY-CA ),26,1,0,4,0,191,221
 19/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
-19/09/2020,Colonia (UY-CO ),1,0,0,0,0,15,15
+19/09/2020,Colonia (UY-CO ),1,0,0,0,0,15,16
 19/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
 19/09/2020,Flores (UY-FS ),0,0,0,0,0,4,4
 19/09/2020,Florida (UY-FD ),1,0,0,0,0,1,2
@@ -2752,7 +2752,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 20/09/2020,Artigas (UY-AR ),1,0,0,0,0,33,34
 20/09/2020,Canelones (UY-CA ),25,0,0,4,1,192,221
 20/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
-20/09/2020,Colonia (UY-CO ),1,0,0,0,0,15,15
+20/09/2020,Colonia (UY-CO ),1,0,0,0,0,15,16
 20/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
 20/09/2020,Flores (UY-FS ),0,0,0,0,0,4,4
 20/09/2020,Florida (UY-FD ),1,0,0,0,0,1,2
@@ -2769,3 +2769,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 20/09/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
 20/09/2020,Treinta y Tres (UY-TT ),1,0,0,2,0,101,104
 20/09/2020,Casos retornados,0,0,0,0,0,0,0
+21/09/2020,Artigas (UY-AR ),1,0,0,0,0,33,34
+21/09/2020,Canelones (UY-CA ),23,0,0,4,2,194,221
+21/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
+21/09/2020,Colonia (UY-CO ),1,0,0,0,0,15,16
+21/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+21/09/2020,Flores (UY-FS ),0,0,0,0,0,4,4
+21/09/2020,Florida (UY-FD ),1,0,0,0,0,1,2
+21/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
+21/09/2020,Maldonado (UY-MA ),4,0,0,4,0,51,59
+21/09/2020,Montevideo (UY-MO ),147,1,0,29,7,998,1174
+21/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+21/09/2020,Río Negro (UY-RN ),0,0,0,0,0,13,13
+21/09/2020,Rivera (UY-RV ),66,9,0,4,2,113,183
+21/09/2020,Rocha (UY-RO ),1,0,0,0,0,13,14
+21/09/2020,Salto (UY-SA ),0,0,0,1,0,19,20
+21/09/2020,San José (UY-SJ ),3,0,0,0,1,39,42
+21/09/2020,Soriano (UY-SO ),0,0,0,1,0,4,5
+21/09/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
+21/09/2020,Treinta y Tres (UY-TT ),0,0,0,2,1,102,104
+21/09/2020,Casos retornados,0,0,0,0,0,0,0
