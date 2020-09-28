@@ -2873,7 +2873,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/09/2020,Canelones (UY-CA ),12,1,0,4,0,209,225
 26/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
 26/09/2020,Colonia (UY-CO ),13,5,0,0,0,15,28
-26/09/2020,Durazno (UY-DU ),0,0,0,0,0,1,1
+26/09/2020,Durazno (UY-DU ),1,1,0,0,0,1,2
 26/09/2020,Flores (UY-FS ),0,0,0,0,0,4,4
 26/09/2020,Florida (UY-FD ),0,0,0,0,0,2,2
 26/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
@@ -2887,5 +2887,25 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/09/2020,San José (UY-SJ ),3,1,0,0,1,42,45
 26/09/2020,Soriano (UY-SO ),0,0,0,1,0,4,5
 26/09/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
-26/09/2020,Treinta y Tres (UY-TT ),1,1,0,2,0,102,105
+26/09/2020,Treinta y Tres (UY-TT ),0,0,0,2,0,102,104
 26/09/2020,Casos retornados,0,0,0,0,0,0,0
+27/09/2020,Artigas (UY-AR ),1,0,0,0,0,33,34
+27/09/2020,Canelones (UY-CA ),12,1,0,4,1,210,226
+27/09/2020,Cerro Largo (UY-CL ),0,0,0,1,0,12,13
+27/09/2020,Colonia (UY-CO ),13,0,0,0,0,15,28
+27/09/2020,Durazno (UY-DU ),1,0,0,0,0,1,2
+27/09/2020,Flores (UY-FS ),0,0,0,0,0,4,4
+27/09/2020,Florida (UY-FD ),0,0,0,0,0,2,2
+27/09/2020,Lavalleja (UY-LA ),0,0,0,0,0,5,5
+27/09/2020,Maldonado (UY-MA ),3,0,0,4,0,53,60
+27/09/2020,Montevideo (UY-MO ),132,5,0,30,9,1054,1216
+27/09/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+27/09/2020,Río Negro (UY-RN ),0,0,0,0,0,13,13
+27/09/2020,Rivera (UY-RV ),67,3,0,4,2,128,199
+27/09/2020,Rocha (UY-RO ),0,0,0,0,0,14,14
+27/09/2020,Salto (UY-SA ),0,0,0,1,0,19,20
+27/09/2020,San José (UY-SJ ),4,1,0,0,0,42,46
+27/09/2020,Soriano (UY-SO ),0,0,0,1,0,4,5
+27/09/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
+27/09/2020,Treinta y Tres (UY-TT ),0,0,0,2,0,102,104
+27/09/2020,Casos retornados,0,0,0,0,0,0,0
