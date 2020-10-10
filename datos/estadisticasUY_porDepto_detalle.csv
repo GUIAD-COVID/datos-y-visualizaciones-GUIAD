@@ -3129,3 +3129,43 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 08/10/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
 08/10/2020,Treinta y Tres (UY-TT ),0,0,0,2,0,103,105
 08/10/2020,Casos retornados,1,0,0,0,0,0,1
+09/10/2020,Artigas (UY-AR ),2,0,0,0,0,34,36
+09/10/2020,Canelones (UY-CA ),8,1,0,4,0,222,234
+09/10/2020,Cerro Largo (UY-CL ),4,3,0,1,0,12,17
+09/10/2020,Colonia (UY-CO ),33,5,0,0,1,25,58
+09/10/2020,Durazno (UY-DU ),1,0,0,0,0,1,2
+09/10/2020,Flores (UY-FS ),0,0,0,0,0,4,4
+09/10/2020,Florida (UY-FD ),0,0,0,0,0,2,2
+09/10/2020,Lavalleja (UY-LA ),2,0,0,0,0,5,7
+09/10/2020,Maldonado (UY-MA ),2,0,0,4,1,55,61
+09/10/2020,Montevideo (UY-MO ),145,14,0,32,9,1154,1331
+09/10/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+09/10/2020,Río Negro (UY-RN ),1,0,0,0,0,13,14
+09/10/2020,Rivera (UY-RV ),76,2,0,4,1,188,268
+09/10/2020,Rocha (UY-RO ),1,0,0,0,0,14,15
+09/10/2020,Salto (UY-SA ),1,0,0,1,0,19,21
+09/10/2020,San José (UY-SJ ),2,0,0,0,1,45,47
+09/10/2020,Soriano (UY-SO ),7,0,0,1,0,4,12
+09/10/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
+09/10/2020,Treinta y Tres (UY-TT ),0,0,0,2,0,103,105
+09/10/2020,Casos retornados,0,0,0,0,0,0,0
+10/10/2020,Artigas (UY-AR ),2,0,0,0,0,34,36
+10/10/2020,Canelones (UY-CA ),8,0,0,4,0,222,234
+10/10/2020,Cerro Largo (UY-CL ),6,2,0,1,0,12,19
+10/10/2020,Colonia (UY-CO ),33,0,0,0,0,25,58
+10/10/2020,Durazno (UY-DU ),1,0,0,0,0,1,2
+10/10/2020,Flores (UY-FS ),0,0,0,0,0,4,4
+10/10/2020,Florida (UY-FD ),0,0,0,0,0,2,2
+10/10/2020,Lavalleja (UY-LA ),2,0,0,0,0,5,7
+10/10/2020,Maldonado (UY-MA ),3,0,0,4,0,55,62
+10/10/2020,Montevideo (UY-MO ),147,12,1,33,8,1162,1342
+10/10/2020,Paysandú (UY-PA ),0,0,0,0,0,5,5
+10/10/2020,Río Negro (UY-RN ),1,0,0,0,0,13,14
+10/10/2020,Rivera (UY-RV ),73,2,0,4,5,193,270
+10/10/2020,Rocha (UY-RO ),1,0,0,0,0,14,15
+10/10/2020,Salto (UY-SA ),1,0,0,1,0,19,21
+10/10/2020,San José (UY-SJ ),3,1,0,0,0,45,48
+10/10/2020,Soriano (UY-SO ),7,0,0,1,0,4,12
+10/10/2020,Tacuarembó (UY-TA ),0,0,0,0,0,12,12
+10/10/2020,Treinta y Tres (UY-TT ),0,0,0,2,0,103,105
+10/10/2020,Casos retornados,0,0,0,0,0,0,0
