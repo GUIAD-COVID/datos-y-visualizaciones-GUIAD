@@ -3469,3 +3469,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 25/10/2020,Tacuarembó(UY-TA),9,0,0,0,1,14,23
 25/10/2020,Treinta y Tres(UY-TT),1,0,0,2,0,104,107
 25/10/2020,Casos retornados,4,0,0,0,0,0,4
+26/10/2020,Artigas(UY-AR),4,1,0,0,-1,36,40
+26/10/2020,Canelones(UY-CA),44,2,0,4,6,257,305
+26/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
+26/10/2020,Colonia(UY-CO),7,0,0,0,3,75,82
+26/10/2020,Durazno(UY-DU),0,0,0,0,0,2,2
+26/10/2020,Flores(UY-FS),1,0,0,0,0,4,5
+26/10/2020,Florida(UY-FD),1,0,0,0,0,2,3
+26/10/2020,Lavalleja(UY-LA),0,0,0,0,0,8,8
+26/10/2020,Maldonado(UY-MA),3,1,0,4,1,60,67
+26/10/2020,Montevideo(UY-MO),239,18,1,36,37,1406,1681
+26/10/2020,Paysandú(UY-PA),1,0,0,0,0,5,6
+26/10/2020,Río Negro(UY-RN),1,0,0,0,0,13,14
+26/10/2020,Rivera(UY-RV),91,2,0,5,14,309,405
+26/10/2020,Rocha(UY-RO),0,0,0,0,0,15,15
+26/10/2020,Salto(UY-SA),1,0,0,1,0,20,22
+26/10/2020,San José(UY-SJ),3,0,0,0,0,49,52
+26/10/2020,Soriano(UY-SO),1,0,0,1,0,12,14
+26/10/2020,Tacuarembó(UY-TA),9,0,0,0,0,14,23
+26/10/2020,Treinta y Tres(UY-TT),1,0,0,2,0,104,107
+26/10/2020,Casos retornados,3,0,0,0,0,0,3
