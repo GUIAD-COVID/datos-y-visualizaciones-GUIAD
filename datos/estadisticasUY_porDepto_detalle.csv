@@ -3529,3 +3529,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 28/10/2020,Tacuarembó(UY-TA),8,0,0,0,1,17,25
 28/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
 28/10/2020,Casos retornados,0,0,0,0,0,0,0
+29/10/2020,Artigas(UY-AR),9,1,0,0,0,36,45
+29/10/2020,Canelones(UY-CA),44,1,0,4,1,266,314
+29/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
+29/10/2020,Colonia(UY-CO),2,0,0,0,2,80,82
+29/10/2020,Durazno(UY-DU),0,0,0,0,0,2,2
+29/10/2020,Flores(UY-FS),1,0,0,0,0,4,5
+29/10/2020,Florida(UY-FD),0,0,0,0,1,3,3
+29/10/2020,Lavalleja(UY-LA),0,0,0,0,0,8,8
+29/10/2020,Maldonado(UY-MA),5,2,0,4,0,60,69
+29/10/2020,Montevideo(UY-MO),300,47,1,38,13,1454,1792
+29/10/2020,Paysandú(UY-PA),1,0,0,0,0,5,6
+29/10/2020,Río Negro(UY-RN),2,1,0,0,0,13,15
+29/10/2020,Rivera(UY-RV),102,10,1,6,6,334,442
+29/10/2020,Rocha(UY-RO),0,0,0,0,0,15,15
+29/10/2020,Salto(UY-SA),0,0,0,1,0,21,22
+29/10/2020,San José(UY-SJ),8,1,0,0,0,49,57
+29/10/2020,Soriano(UY-SO),1,0,0,1,0,12,14
+29/10/2020,Tacuarembó(UY-TA),8,0,0,0,0,17,25
+29/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
+29/10/2020,Casos retornados,0,0,0,0,0,0,0
