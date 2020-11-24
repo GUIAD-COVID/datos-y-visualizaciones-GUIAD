@@ -4029,3 +4029,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 22/11/2020,Tacuarembó(UY-TA),21,0,0,0,0,28,49
 22/11/2020,Treinta y Tres(UY-TT),1,0,0,2,0,113,116
 22/11/2020,Casos retornados,0,0,0,0,0,0,0
+23/11/2020,Artigas(UY-AR),15,6,0,0,3,54,69
+23/11/2020,Canelones(UY-CA),166,13,0,5,9,400,571
+23/11/2020,Cerro Largo(UY-CL),51,1,0,1,15,85,137
+23/11/2020,Colonia(UY-CO),40,1,0,0,6,116,156
+23/11/2020,Durazno(UY-DU),0,0,0,0,0,2,2
+23/11/2020,Flores(UY-FS),1,1,0,0,1,9,10
+23/11/2020,Florida(UY-FD),1,1,0,0,0,3,4
+23/11/2020,Lavalleja(UY-LA),2,0,0,0,1,11,13
+23/11/2020,Maldonado(UY-MA),25,1,0,4,1,86,115
+23/11/2020,Montevideo(UY-MO),510,33,0,48,42,2224,2782
+23/11/2020,Paysandú(UY-PA),13,0,0,0,0,6,19
+23/11/2020,Río Negro(UY-RN),0,0,0,0,0,15,15
+23/11/2020,Rivera(UY-RV),43,7,0,9,4,488,540
+23/11/2020,Rocha(UY-RO),12,4,0,0,0,15,27
+23/11/2020,Salto(UY-SA),3,2,0,1,0,24,28
+23/11/2020,San José(UY-SJ),5,0,0,0,1,65,70
+23/11/2020,Soriano(UY-SO),20,2,0,1,2,20,41
+23/11/2020,Tacuarembó(UY-TA),21,0,0,0,0,28,49
+23/11/2020,Treinta y Tres(UY-TT),1,0,0,2,0,113,116
+23/11/2020,Casos retornados,7,7,0,0,0,0,7
