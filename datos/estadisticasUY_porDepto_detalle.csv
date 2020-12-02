@@ -4209,3 +4209,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 01/12/2020,Tacuarembó(UY-TA),10,0,0,0,6,46,56
 01/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
 01/12/2020,Casos retornados,1,0,0,0,0,0,1
+02/12/2020,Artigas(UY-AR),32,4,0,0,6,71,103
+02/12/2020,Canelones(UY-CA),262,23,0,7,16,545,814
+02/12/2020,Cerro Largo(UY-CL),31,2,0,2,10,130,163
+02/12/2020,Colonia(UY-CO),15,1,0,0,0,155,170
+02/12/2020,Durazno(UY-DU),6,1,0,0,0,2,8
+02/12/2020,Flores(UY-FS),0,0,0,0,0,8,8
+02/12/2020,Florida(UY-FD),0,0,0,0,1,5,5
+02/12/2020,Lavalleja(UY-LA),0,0,0,0,0,13,13
+02/12/2020,Maldonado(UY-MA),21,2,1,5,0,110,136
+02/12/2020,Montevideo(UY-MO),957,147,1,51,57,2672,3680
+02/12/2020,Paysandú(UY-PA),3,1,0,0,1,22,25
+02/12/2020,Río Negro(UY-RN),2,0,0,0,0,15,17
+02/12/2020,Rivera(UY-RV),90,11,0,10,9,527,627
+02/12/2020,Rocha(UY-RO),59,4,0,0,0,19,78
+02/12/2020,Salto(UY-SA),1,0,0,2,0,25,28
+02/12/2020,San José(UY-SJ),8,3,0,0,0,70,78
+02/12/2020,Soriano(UY-SO),62,2,0,1,2,35,98
+02/12/2020,Tacuarembó(UY-TA),12,2,0,0,0,46,58
+02/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
+02/12/2020,Casos retornados,2,0,0,0,0,0,2
