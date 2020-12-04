@@ -4168,7 +4168,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/11/2020,Soriano(UY-SO),44,5,0,1,3,30,75
 29/11/2020,Tacuarembó(UY-TA),18,2,0,0,3,39,57
 29/11/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-29/11/2020,Casos retornados,3,0,0,0,0,0,3
+29/11/2020,Casos retornados,3,3,0,0,0,0,3
 30/11/2020,Artigas(UY-AR),37,0,0,0,3,61,98
 30/11/2020,Canelones(UY-CA),236,10,0,7,15,508,751
 30/11/2020,Cerro Largo(UY-CL),41,12,0,2,5,117,160
@@ -4228,7 +4228,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 02/12/2020,Soriano(UY-SO),62,2,0,1,2,35,98
 02/12/2020,Tacuarembó(UY-TA),12,2,0,0,0,46,58
 02/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-02/12/2020,Casos retornados,2,0,0,0,0,0,2
+02/12/2020,Casos retornados,2,1,0,0,0,0,2
 03/12/2020,Artigas(UY-AR),17,0,0,0,14,85,102
 03/12/2020,Canelones(UY-CA),273,23,0,7,19,564,844
 03/12/2020,Cerro Largo(UY-CL),30,3,0,2,4,134,166
@@ -4249,3 +4249,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 03/12/2020,Tacuarembó(UY-TA),17,7,0,0,2,48,65
 03/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
 03/12/2020,Casos retornados,8,6,0,0,0,0,0
+04/12/2020,Artigas(UY-AR),19,3,0,0,1,86,105
+04/12/2020,Canelones(UY-CA),295,35,0,7,20,584,886
+04/12/2020,Cerro Largo(UY-CL),31,3,0,2,2,136,169
+04/12/2020,Colonia(UY-CO),14,4,0,0,4,161,175
+04/12/2020,Durazno(UY-DU),6,0,0,0,1,3,9
+04/12/2020,Flores(UY-FS),1,0,0,0,0,8,9
+04/12/2020,Florida(UY-FD),1,1,0,0,0,5,6
+04/12/2020,Lavalleja(UY-LA),0,0,0,0,0,14,14
+04/12/2020,Maldonado(UY-MA),22,2,0,5,0,113,140
+04/12/2020,Montevideo(UY-MO),1178,208,0,51,73,2806,4035
+04/12/2020,Paysandú(UY-PA),4,2,0,0,0,23,27
+04/12/2020,Río Negro(UY-RN),1,0,0,0,1,16,17
+04/12/2020,Rivera(UY-RV),97,6,0,10,6,540,647
+04/12/2020,Rocha(UY-RO),63,12,0,0,0,26,89
+04/12/2020,Salto(UY-SA),2,0,0,2,0,25,29
+04/12/2020,San José(UY-SJ),16,5,0,0,0,70,86
+04/12/2020,Soriano(UY-SO),58,2,0,1,8,47,106
+04/12/2020,Tacuarembó(UY-TA),17,1,0,0,1,49,66
+04/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
+04/12/2020,Casos retornados,0,0,0,0,0,0,0
