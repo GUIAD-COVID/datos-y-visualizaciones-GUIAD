@@ -4469,3 +4469,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 14/12/2020,Tacuarembó(UY-TA),14,0,0,0,1,63,77
 14/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
 14/12/2020,Casos retornados,11,5,0,0,0,0,0
+15/12/2020,Artigas(UY-AR),16,2,0,0,0,109,125
+15/12/2020,Canelones(UY-CA),546,45,0,8,52,912,1466
+15/12/2020,Cerro Largo(UY-CL),23,2,0,2,6,170,195
+15/12/2020,Colonia(UY-CO),26,2,0,0,1,175,201
+15/12/2020,Durazno(UY-DU),7,1,0,0,0,10,17
+15/12/2020,Flores(UY-FS),1,0,0,0,1,10,11
+15/12/2020,Florida(UY-FD),41,8,0,0,2,8,49
+15/12/2020,Lavalleja(UY-LA),17,0,0,0,0,13,30
+15/12/2020,Maldonado(UY-MA),79,12,0,5,7,143,227
+15/12/2020,Montevideo(UY-MO),2238,267,2,66,208,4169,6473
+15/12/2020,Paysandú(UY-PA),15,3,0,0,1,28,43
+15/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
+15/12/2020,Rivera(UY-RV),181,37,0,10,9,650,841
+15/12/2020,Rocha(UY-RO),81,7,0,0,0,82,163
+15/12/2020,Salto(UY-SA),2,0,0,2,1,27,31
+15/12/2020,San José(UY-SJ),112,11,0,0,6,89,201
+15/12/2020,Soriano(UY-SO),22,0,1,3,1,106,131
+15/12/2020,Tacuarembó(UY-TA),16,2,0,0,0,63,79
+15/12/2020,Treinta y Tres(UY-TT),1,1,0,2,0,114,117
+15/12/2020,Casos retornados,11,0,0,0,0,0,0
