@@ -4242,7 +4242,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 03/12/2020,Paysandú(UY-PA),2,0,0,0,1,23,25
 03/12/2020,Río Negro(UY-RN),2,0,0,0,0,15,17
 03/12/2020,Rivera(UY-RV),97,13,0,10,7,534,641
-03/12/2020,Rocha(UY-RO),54,7,0,0,0,24,78
+03/12/2020,Rocha(UY-RO),54,7,0,0,5,24,78
 03/12/2020,Salto(UY-SA),2,1,0,2,0,25,29
 03/12/2020,San José(UY-SJ),11,3,0,0,0,70,81
 03/12/2020,Soriano(UY-SO),66,7,0,1,4,39,106
@@ -4262,7 +4262,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 04/12/2020,Paysandú(UY-PA),4,2,0,0,0,23,27
 04/12/2020,Río Negro(UY-RN),1,0,0,0,1,16,17
 04/12/2020,Rivera(UY-RV),97,6,0,10,6,540,647
-04/12/2020,Rocha(UY-RO),63,12,0,0,0,26,89
+04/12/2020,Rocha(UY-RO),63,12,0,0,2,26,89
 04/12/2020,Salto(UY-SA),2,0,0,2,0,25,29
 04/12/2020,San José(UY-SJ),16,5,0,0,0,70,86
 04/12/2020,Soriano(UY-SO),58,2,0,1,8,47,106
@@ -4302,7 +4302,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 06/12/2020,Paysandú(UY-PA),6,2,0,0,0,24,30
 06/12/2020,Río Negro(UY-RN),3,1,0,0,0,16,19
 06/12/2020,Rivera(UY-RV),91,1,0,10,7,556,657
-06/12/2020,Rocha(UY-RO),67,3,0,0,0,31,98
+06/12/2020,Rocha(UY-RO),67,3,0,0,5,31,98
 06/12/2020,Salto(UY-SA),3,1,0,2,0,25,30
 06/12/2020,San José(UY-SJ),40,16,0,0,0,70,110
 06/12/2020,Soriano(UY-SO),56,1,0,2,4,52,110
@@ -4322,7 +4322,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 07/12/2020,Paysandú(UY-PA),5,0,0,0,0,24,29
 07/12/2020,Río Negro(UY-RN),2,0,0,0,0,16,18
 07/12/2020,Rivera(UY-RV),93,12,0,10,10,566,669
-07/12/2020,Rocha(UY-RO),60,7,0,0,0,43,103
+07/12/2020,Rocha(UY-RO),60,7,0,0,12,43,103
 07/12/2020,Salto(UY-SA),3,1,0,2,0,25,30
 07/12/2020,San José(UY-SJ),46,8,0,0,1,71,117
 07/12/2020,Soriano(UY-SO),51,2,0,2,9,61,114
@@ -4342,7 +4342,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 08/12/2020,Paysandú(UY-PA),4,0,0,0,1,25,29
 08/12/2020,Río Negro(UY-RN),2,0,0,0,0,16,18
 08/12/2020,Rivera(UY-RV),111,24,0,10,6,572,693
-08/12/2020,Rocha(UY-RO),75,16,0,0,0,45,120
+08/12/2020,Rocha(UY-RO),75,16,0,0,2,45,120
 08/12/2020,Salto(UY-SA),3,0,0,2,0,25,30
 08/12/2020,San José(UY-SJ),57,11,0,0,0,71,128
 08/12/2020,Soriano(UY-SO),40,2,0,2,13,74,116
@@ -4362,7 +4362,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 09/12/2020,Paysandú(UY-PA),4,0,0,0,0,25,29
 09/12/2020,Río Negro(UY-RN),2,0,0,0,0,16,18
 09/12/2020,Rivera(UY-RV),106,12,0,10,16,588,704
-09/12/2020,Rocha(UY-RO),80,6,0,0,0,46,126
+09/12/2020,Rocha(UY-RO),80,6,0,0,1,46,126
 09/12/2020,Salto(UY-SA),8,6,0,2,1,26,36
 09/12/2020,San José(UY-SJ),62,6,0,0,1,72,134
 09/12/2020,Soriano(UY-SO),35,5,0,2,10,84,121
@@ -4382,7 +4382,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/12/2020,Paysandú(UY-PA),4,0,0,0,0,25,29
 10/12/2020,Río Negro(UY-RN),1,0,0,0,1,17,18
 10/12/2020,Rivera(UY-RV),111,24,0,10,20,608,729
-10/12/2020,Rocha(UY-RO),77,7,0,0,0,55,132
+10/12/2020,Rocha(UY-RO),77,7,0,0,9,55,132
 10/12/2020,Salto(UY-SA),2,0,0,2,0,26,30
 10/12/2020,San José(UY-SJ),72,8,0,0,2,74,146
 10/12/2020,Soriano(UY-SO),31,3,0,2,7,91,124
@@ -4402,7 +4402,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 11/12/2020,Paysandú(UY-PA),4,1,0,0,1,26,30
 11/12/2020,Río Negro(UY-RN),2,1,0,0,0,17,19
 11/12/2020,Rivera(UY-RV),132,19,0,10,5,613,755
-11/12/2020,Rocha(UY-RO),83,3,0,0,0,58,141
+11/12/2020,Rocha(UY-RO),83,3,0,0,3,58,141
 11/12/2020,Salto(UY-SA),3,1,0,2,0,26,31
 11/12/2020,San José(UY-SJ),85,10,0,0,0,74,159
 11/12/2020,Soriano(UY-SO),30,3,0,2,5,96,128
@@ -4422,7 +4422,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 12/12/2020,Paysandú(UY-PA),4,0,0,0,0,26,30
 12/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 12/12/2020,Rivera(UY-RV),145,25,0,10,12,625,780
-12/12/2020,Rocha(UY-RO),91,8,0,0,0,60,151
+12/12/2020,Rocha(UY-RO),91,10,0,0,2,60,151
 12/12/2020,Salto(UY-SA),3,0,0,2,0,26,31
 12/12/2020,San José(UY-SJ),99,15,0,0,2,76,175
 12/12/2020,Soriano(UY-SO),24,2,0,2,7,103,129
@@ -4442,7 +4442,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 13/12/2020,Paysandú(UY-PA),7,3,0,0,0,26,33
 13/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 13/12/2020,Rivera(UY-RV),146,10,0,10,9,634,790
-13/12/2020,Rocha(UY-RO),86,7,0,0,0,74,160
+13/12/2020,Rocha(UY-RO),86,7,0,0,14,74,160
 13/12/2020,Salto(UY-SA),4,1,0,2,0,26,32
 13/12/2020,San José(UY-SJ),106,12,0,0,2,78,184
 13/12/2020,Soriano(UY-SO),25,2,0,2,1,104,131
@@ -4462,7 +4462,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 14/12/2020,Paysandú(UY-PA),13,7,0,0,1,27,40
 14/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 14/12/2020,Rivera(UY-RV),157,20,0,10,7,641,808
-14/12/2020,Rocha(UY-RO),83,7,0,0,0,75,158
+14/12/2020,Rocha(UY-RO),83,7,0,0,1,75,158
 14/12/2020,Salto(UY-SA),3,0,0,2,0,26,31
 14/12/2020,San José(UY-SJ),108,4,0,0,5,83,191
 14/12/2020,Soriano(UY-SO),24,0,0,2,1,105,131
@@ -4482,7 +4482,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 15/12/2020,Paysandú(UY-PA),15,3,0,0,1,28,43
 15/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 15/12/2020,Rivera(UY-RV),181,37,0,10,9,650,841
-15/12/2020,Rocha(UY-RO),81,7,0,0,0,82,163
+15/12/2020,Rocha(UY-RO),81,7,0,0,7,82,163
 15/12/2020,Salto(UY-SA),2,0,0,2,1,27,31
 15/12/2020,San José(UY-SJ),112,11,0,0,6,89,201
 15/12/2020,Soriano(UY-SO),22,0,1,3,1,106,131
@@ -4502,7 +4502,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/12/2020,Paysandú(UY-PA),23,10,0,0,2,30,53
 16/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 16/12/2020,Rivera(UY-RV),188,10,0,10,4,654,852
-16/12/2020,Rocha(UY-RO),82,6,0,0,0,87,169
+16/12/2020,Rocha(UY-RO),82,6,0,0,5,87,169
 16/12/2020,Salto(UY-SA),3,2,0,2,1,28,33
 16/12/2020,San José(UY-SJ),109,5,0,0,8,97,206
 16/12/2020,Soriano(UY-SO),20,0,0,3,3,109,132
@@ -4522,7 +4522,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 17/12/2020,Paysandú(UY-PA),35,12,0,0,0,30,65
 17/12/2020,Río Negro(UY-RN),2,1,0,0,0,17,19
 17/12/2020,Rivera(UY-RV),198,21,0,10,10,664,872
-17/12/2020,Rocha(UY-RO),63,2,0,0,0,107,170
+17/12/2020,Rocha(UY-RO),63,2,0,0,20,107,170
 17/12/2020,Salto(UY-SA),3,0,0,2,0,28,33
 17/12/2020,San José(UY-SJ),108,6,0,0,7,104,212
 17/12/2020,Soriano(UY-SO),16,0,0,3,4,113,132
@@ -4542,7 +4542,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 18/12/2020,Paysandú(UY-PA),41,6,0,0,0,30,71
 18/12/2020,Río Negro(UY-RN),2,0,0,0,0,17,19
 18/12/2020,Rivera(UY-RV),190,4,1,11,11,675,876
-18/12/2020,Rocha(UY-RO),64,1,0,0,0,108,172
+18/12/2020,Rocha(UY-RO),64,2,0,0,1,108,172
 18/12/2020,Salto(UY-SA),3,0,0,2,0,28,33
 18/12/2020,San José(UY-SJ),107,7,0,0,8,112,219
 18/12/2020,Soriano(UY-SO),14,0,0,3,2,115,132
@@ -4562,7 +4562,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 19/12/2020,Paysandú(UY-PA),44,4,0,0,0,30,74
 19/12/2020,Río Negro(UY-RN),2,1,0,0,1,18,20
 19/12/2020,Rivera(UY-RV),200,24,0,11,13,688,899
-19/12/2020,Rocha(UY-RO),59,7,0,0,0,120,179
+19/12/2020,Rocha(UY-RO),59,7,0,0,12,120,179
 19/12/2020,Salto(UY-SA),10,7,0,2,0,28,40
 19/12/2020,San José(UY-SJ),112,9,0,0,6,118,230
 19/12/2020,Soriano(UY-SO),13,4,0,3,5,120,136
@@ -4582,7 +4582,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 20/12/2020,Paysandú(UY-PA),49,6,0,0,0,30,79
 20/12/2020,Río Negro(UY-RN),5,1,0,0,0,18,23
 20/12/2020,Rivera(UY-RV),207,20,1,12,11,699,918
-20/12/2020,Rocha(UY-RO),54,5,0,0,0,130,184
+20/12/2020,Rocha(UY-RO),54,5,0,0,10,130,184
 20/12/2020,Salto(UY-SA),7,0,0,2,1,29,38
 20/12/2020,San José(UY-SJ),109,8,0,0,11,129,238
 20/12/2020,Soriano(UY-SO),9,0,0,3,2,122,134
@@ -4602,7 +4602,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 21/12/2020,Paysandú(UY-PA),47,0,0,0,2,32,79
 21/12/2020,Río Negro(UY-RN),5,1,0,0,0,18,23
 21/12/2020,Rivera(UY-RV),203,23,0,12,27,726,941
-21/12/2020,Rocha(UY-RO),53,6,0,0,0,135,188
+21/12/2020,Rocha(UY-RO),53,6,0,0,5,135,188
 21/12/2020,Salto(UY-SA),6,0,0,2,1,30,38
 21/12/2020,San José(UY-SJ),107,13,0,0,12,141,248
 21/12/2020,Soriano(UY-SO),11,2,0,3,0,122,136
@@ -4622,7 +4622,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 22/12/2020,Paysandú(UY-PA),43,3,0,0,7,39,82
 22/12/2020,Río Negro(UY-RN),6,1,0,0,0,18,24
 22/12/2020,Rivera(UY-RV),210,30,0,12,21,747,969
-22/12/2020,Rocha(UY-RO),53,6,0,0,0,142,195
+22/12/2020,Rocha(UY-RO),53,6,0,0,7,142,195
 22/12/2020,Salto(UY-SA),7,1,0,2,0,30,39
 22/12/2020,San José(UY-SJ),98,2,0,0,11,152,250
 22/12/2020,Soriano(UY-SO),8,0,0,3,3,125,136
@@ -4642,7 +4642,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 23/12/2020,Paysandú(UY-PA),39,2,0,0,5,44,83
 23/12/2020,Río Negro(UY-RN),6,1,0,0,1,19,25
 23/12/2020,Rivera(UY-RV),228,30,0,12,12,759,999
-23/12/2020,Rocha(UY-RO),46,1,0,0,0,149,195
+23/12/2020,Rocha(UY-RO),46,1,0,0,7,149,195
 23/12/2020,Salto(UY-SA),9,5,0,2,3,33,44
 23/12/2020,San José(UY-SJ),103,18,0,0,13,165,268
 23/12/2020,Soriano(UY-SO),10,4,0,3,2,127,140
@@ -4662,7 +4662,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 24/12/2020,Paysandú(UY-PA),41,8,0,0,6,50,91
 24/12/2020,Río Negro(UY-RN),11,5,0,0,0,19,30
 24/12/2020,Rivera(UY-RV),227,37,1,13,38,797,1037
-24/12/2020,Rocha(UY-RO),47,4,0,0,0,151,198
+24/12/2020,Rocha(UY-RO),47,4,0,0,2,151,198
 24/12/2020,Salto(UY-SA),9,0,0,2,0,33,44
 24/12/2020,San José(UY-SJ),110,18,1,1,11,176,287
 24/12/2020,Soriano(UY-SO),11,2,0,3,1,128,142
@@ -4682,7 +4682,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 25/12/2020,Paysandú(UY-PA),36,2,0,0,7,57,93
 25/12/2020,Río Negro(UY-RN),12,2,1,1,0,19,32
 25/12/2020,Rivera(UY-RV),220,18,0,13,25,822,1055
-25/12/2020,Rocha(UY-RO),50,5,0,0,0,154,204
+25/12/2020,Rocha(UY-RO),50,5,0,0,3,154,204
 25/12/2020,Salto(UY-SA),10,1,0,2,0,33,45
 25/12/2020,San José(UY-SJ),108,6,0,1,10,186,295
 25/12/2020,Soriano(UY-SO),10,0,0,3,1,129,142
@@ -4702,7 +4702,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/12/2020,Paysandú(UY-PA),31,2,0,0,7,64,95
 26/12/2020,Río Negro(UY-RN),13,1,0,1,0,19,33
 26/12/2020,Rivera(UY-RV),220,23,0,13,23,845,1078
-26/12/2020,Rocha(UY-RO),42,0,0,0,0,162,204
+26/12/2020,Rocha(UY-RO),42,0,0,0,8,162,204
 26/12/2020,Salto(UY-SA),12,3,0,2,0,33,47
 26/12/2020,San José(UY-SJ),123,15,0,1,1,187,311
 26/12/2020,Soriano(UY-SO),11,1,0,3,0,129,143
@@ -4710,7 +4710,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/12/2020,Treinta y Tres(UY-TT),25,1,0,2,0,114,141
 26/12/2020,Casos retornados,1,0,0,0,0,0,0
 27/12/2020,Artigas(UY-AR),47,4,0,3,4,138,188
-27/12/2020,Canelones(UY-CA),794,57,-1,13,94,1655,2462
+27/12/2020,Canelones(UY-CA),794,58,0,13,94,1655,2462
 27/12/2020,Cerro Largo(UY-CL),42,4,1,3,3,204,249
 27/12/2020,Colonia(UY-CO),13,0,0,0,4,205,218
 27/12/2020,Durazno(UY-DU),88,7,0,3,3,23,114
@@ -4722,7 +4722,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 27/12/2020,Paysandú(UY-PA),39,11,0,0,3,67,106
 27/12/2020,Río Negro(UY-RN),14,1,0,1,0,19,34
 27/12/2020,Rivera(UY-RV),216,10,1,14,13,858,1088
-27/12/2020,Rocha(UY-RO),36,0,0,0,0,168,204
+27/12/2020,Rocha(UY-RO),36,0,0,0,6,168,204
 27/12/2020,Salto(UY-SA),15,2,0,2,0,33,50
 27/12/2020,San José(UY-SJ),118,4,0,1,12,199,318
 27/12/2020,Soriano(UY-SO),11,1,1,4,0,129,144
@@ -4742,10 +4742,30 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 28/12/2020,Paysandú(UY-PA),31,1,0,0,8,75,106
 28/12/2020,Río Negro(UY-RN),19,5,0,1,0,19,39
 28/12/2020,Rivera(UY-RV),237,39,0,14,17,875,1126
-28/12/2020,Rocha(UY-RO),37,4,1,1,0,172,210
+28/12/2020,Rocha(UY-RO),37,4,1,1,4,172,210
 28/12/2020,Salto(UY-SA),13,0,0,2,1,34,49
 28/12/2020,San José(UY-SJ),141,25,0,1,4,203,345
 28/12/2020,Soriano(UY-SO),9,0,0,4,2,131,144
 28/12/2020,Tacuarembó(UY-TA),108,1,0,2,1,89,199
 28/12/2020,Treinta y Tres(UY-TT),28,0,0,2,1,117,147
 28/12/2020,Casos retornados,7,,0,0,0,0,0
+29/12/2020,Artigas(UY-AR),39,3,0,3,7,150,192
+29/12/2020,Canelones(UY-CA),788,79,2,15,85,1843,2646
+29/12/2020,Cerro Largo(UY-CL),49,7,0,3,1,214,266
+29/12/2020,Colonia(UY-CO),15,3,0,0,1,208,223
+29/12/2020,Durazno(UY-DU),90,14,0,3,8,34,127
+29/12/2020,Flores(UY-FS),5,0,0,0,0,12,17
+29/12/2020,Florida(UY-FD),77,12,0,0,5,78,155
+29/12/2020,Lavalleja(UY-LA),28,2,0,0,2,42,70
+29/12/2020,Maldonado(UY-MA),116,23,1,7,21,298,421
+29/12/2020,Montevideo(UY-MO),3385,401,4,109,361,7863,11357
+29/12/2020,Paysandú(UY-PA),31,2,0,0,2,77,108
+29/12/2020,Río Negro(UY-RN),23,5,0,1,1,20,44
+29/12/2020,Rivera(UY-RV),266,55,1,15,27,902,1183
+29/12/2020,Rocha(UY-RO),39,4,0,1,3,175,215
+29/12/2020,Salto(UY-SA),14,1,0,2,0,34,50
+29/12/2020,San José(UY-SJ),152,17,0,1,11,214,367
+29/12/2020,Soriano(UY-SO),9,0,0,4,1,132,145
+29/12/2020,Tacuarembó(UY-TA),134,28,0,2,3,92,228
+29/12/2020,Treinta y Tres(UY-TT),28,1,0,2,1,118,148
+29/12/2020,Casos retornados,1,,0,0,0,0,0
