@@ -4809,3 +4809,23 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 31/12/2020,Tacuarembó(UY-TA),157,20,0,2,8,102,261
 31/12/2020,Treinta y Tres(UY-TT),31,2,0,2,2,122,155
 31/12/2020,Casos retornados,0,,0,0,0,0,0
+01/01/2021,Artigas(UY-AR),39,8,0,3,3,170,212
+01/01/2021,Canelones(UY-CA),804,97,3,20,88,2076,2900
+01/01/2021,Cerro Largo(UY-CL),60,9,0,3,4,224,287
+01/01/2021,Colonia(UY-CO),24,7,0,0,1,212,236
+01/01/2021,Durazno(UY-DU),91,9,0,5,14,55,151
+01/01/2021,Flores(UY-FS),5,0,0,0,0,13,18
+01/01/2021,Florida(UY-FD),67,5,0,0,7,105,172
+01/01/2021,Lavalleja(UY-LA),35,1,0,0,1,46,81
+01/01/2021,Maldonado(UY-MA),133,17,0,6,8,326,465
+01/01/2021,Montevideo(UY-MO),3483,377,8,125,340,8842,12450
+01/01/2021,Paysandú(UY-PA),31,5,0,0,0,86,117
+01/01/2021,Río Negro(UY-RN),27,3,0,1,0,22,50
+01/01/2021,Rivera(UY-RV),296,19,0,16,23,965,1277
+01/01/2021,Rocha(UY-RO),39,8,0,1,2,189,229
+01/01/2021,Salto(UY-SA),28,6,0,2,1,38,68
+01/01/2021,San José(UY-SJ),210,44,0,2,14,248,460
+01/01/2021,Soriano(UY-SO),9,1,1,5,0,133,147
+01/01/2021,Tacuarembó(UY-TA),154,11,0,2,14,116,272
+01/01/2021,Treinta y Tres(UY-TT),35,6,0,2,2,124,161
+01/01/2021,Casos retornados,0,0,0,0,0,0,0
