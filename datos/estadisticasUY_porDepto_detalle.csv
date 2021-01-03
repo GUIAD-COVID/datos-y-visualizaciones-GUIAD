@@ -1,4 +1,4 @@
-fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRecuperados,acumRecuperados,acumCasos
+fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRecuperados,acumRecuperados,acumcasos
 29/04/2020,Artigas(UY-AR),0,0,0,0,0,0,0
 29/04/2020,Canelones(UY-CA),17,0,0,2,0,66,85
 29/04/2020,Cerro Largo(UY-CL),0,0,0,0,0,0,0
@@ -2488,7 +2488,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 06/09/2020,Soriano(UY-SO),1,0,0,1,0,3,5
 06/09/2020,Tacuarembó(UY-TA),3,0,0,0,0,9,12
 06/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,101,103
-06/09/2020,Casos retornados,0,1,0,0,0,0,0
 07/09/2020,Artigas(UY-AR),0,0,0,0,0,33,33
 07/09/2020,Canelones(UY-CA),16,2,0,4,0,178,198
 07/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2508,7 +2507,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 07/09/2020,Soriano(UY-SO),1,0,0,1,0,3,5
 07/09/2020,Tacuarembó(UY-TA),3,0,0,0,0,9,12
 07/09/2020,Treinta y Tres(UY-TT),2,2,0,2,0,101,105
-07/09/2020,Casos retornados,0,0,0,0,0,0,0
 08/09/2020,Artigas(UY-AR),0,0,0,0,0,33,33
 08/09/2020,Canelones(UY-CA),14,0,0,4,2,180,198
 08/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2528,7 +2526,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 08/09/2020,Soriano(UY-SO),1,0,0,1,0,3,5
 08/09/2020,Tacuarembó(UY-TA),3,0,0,0,0,9,12
 08/09/2020,Treinta y Tres(UY-TT),2,0,0,2,0,101,105
-08/09/2020,Casos retornados,0,0,0,0,0,0,0
 09/09/2020,Artigas(UY-AR),0,0,0,0,0,33,33
 09/09/2020,Canelones(UY-CA),18,4,0,4,0,180,202
 09/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2548,7 +2545,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 09/09/2020,Soriano(UY-SO),1,0,0,1,0,3,5
 09/09/2020,Tacuarembó(UY-TA),2,0,0,0,1,10,12
 09/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-09/09/2020,Casos retornados,2,0,0,0,0,0,2
 10/09/2020,Artigas(UY-AR),0,0,0,0,0,33,33
 10/09/2020,Canelones(UY-CA),20,4,0,4,2,182,206
 10/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2568,7 +2564,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/09/2020,Soriano(UY-SO),1,0,0,1,0,3,5
 10/09/2020,Tacuarembó(UY-TA),2,0,0,0,0,10,12
 10/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-10/09/2020,Casos retornados,0,0,0,0,0,0,0
 11/09/2020,Artigas(UY-AR),0,0,0,0,0,33,33
 11/09/2020,Canelones(UY-CA),24,4,0,4,0,182,210
 11/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2588,7 +2583,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 11/09/2020,Soriano(UY-SO),1,0,0,1,0,3,5
 11/09/2020,Tacuarembó(UY-TA),2,0,0,0,0,10,12
 11/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-11/09/2020,Casos retornados,1,0,0,0,0,0,1
 12/09/2020,Artigas(UY-AR),0,0,0,0,0,33,33
 12/09/2020,Canelones(UY-CA),25,2,0,4,1,183,212
 12/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2608,7 +2602,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 12/09/2020,Soriano(UY-SO),0,0,0,1,1,4,5
 12/09/2020,Tacuarembó(UY-TA),2,0,0,0,0,10,12
 12/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-12/09/2020,Casos retornados,1,0,0,0,0,0,1
 13/09/2020,Artigas(UY-AR),0,0,0,0,0,33,33
 13/09/2020,Canelones(UY-CA),28,3,0,4,0,183,215
 13/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2628,7 +2621,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 13/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 13/09/2020,Tacuarembó(UY-TA),2,0,0,0,0,10,12
 13/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-13/09/2020,Casos retornados,1,0,0,0,0,0,1
 14/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 14/09/2020,Canelones(UY-CA),27,0,0,4,1,184,215
 14/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2648,7 +2640,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 14/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 14/09/2020,Tacuarembó(UY-TA),0,0,0,0,2,12,12
 14/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-14/09/2020,Casos retornados,1,0,0,0,0,0,1
 15/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 15/09/2020,Canelones(UY-CA),27,1,0,4,3,187,218
 15/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2668,7 +2659,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 15/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 15/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 15/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-15/09/2020,Casos retornados,0,0,0,0,0,0,0
 16/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 16/09/2020,Canelones(UY-CA),26,0,0,4,1,188,218
 16/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2688,7 +2678,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 16/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 16/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-16/09/2020,Casos retornados,0,0,0,0,0,0,0
 17/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 17/09/2020,Canelones(UY-CA),25,1,0,4,2,190,219
 17/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2708,7 +2697,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 17/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 17/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 17/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-17/09/2020,Casos retornados,0,0,0,0,0,0,0
 18/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 18/09/2020,Canelones(UY-CA),25,2,0,4,1,191,220
 18/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2728,7 +2716,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 18/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 18/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 18/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-18/09/2020,Casos retornados,1,0,0,0,0,0,1
 19/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 19/09/2020,Canelones(UY-CA),26,1,0,4,0,191,221
 19/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2748,7 +2735,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 19/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 19/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 19/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-19/09/2020,Casos retornados,0,0,0,0,0,0,0
 20/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 20/09/2020,Canelones(UY-CA),25,0,0,4,1,192,221
 20/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2768,7 +2754,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 20/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 20/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 20/09/2020,Treinta y Tres(UY-TT),1,0,0,2,0,101,104
-20/09/2020,Casos retornados,0,0,0,0,0,0,0
 21/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 21/09/2020,Canelones(UY-CA),23,0,0,4,2,194,221
 21/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2788,7 +2773,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 21/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 21/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 21/09/2020,Treinta y Tres(UY-TT),0,0,0,2,1,102,104
-21/09/2020,Casos retornados,0,0,0,0,0,0,0
 22/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 22/09/2020,Canelones(UY-CA),19,1,0,4,5,199,222
 22/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2808,7 +2792,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 22/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 22/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 22/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-22/09/2020,Casos retornados,0,0,0,0,0,0,0
 23/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 23/09/2020,Canelones(UY-CA),16,0,0,4,3,202,222
 23/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2828,7 +2811,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 23/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 23/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 23/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-23/09/2020,Casos retornados,0,0,0,0,0,0,0
 24/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 24/09/2020,Canelones(UY-CA),16,2,0,4,2,204,224
 24/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2848,7 +2830,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 24/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 24/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 24/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-24/09/2020,Casos retornados,0,0,0,0,0,0,0
 25/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 25/09/2020,Canelones(UY-CA),11,0,0,4,5,209,224
 25/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2868,7 +2849,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 25/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 25/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 25/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-25/09/2020,Casos retornados,0,0,0,0,0,0,0
 26/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 26/09/2020,Canelones(UY-CA),12,1,0,4,0,209,225
 26/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2888,7 +2868,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 26/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 26/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-26/09/2020,Casos retornados,0,0,0,0,0,0,0
 27/09/2020,Artigas(UY-AR),1,0,0,0,0,33,34
 27/09/2020,Canelones(UY-CA),12,1,0,4,1,210,226
 27/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2908,7 +2887,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 27/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 27/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 27/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-27/09/2020,Casos retornados,0,0,0,0,0,0,0
 28/09/2020,Artigas(UY-AR),0,0,0,0,1,34,34
 28/09/2020,Canelones(UY-CA),9,0,0,4,3,213,226
 28/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2928,7 +2906,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 28/09/2020,Soriano(UY-SO),0,0,0,1,0,4,5
 28/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 28/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-28/09/2020,Casos retornados,0,0,0,0,0,0,0
 29/09/2020,Artigas(UY-AR),0,0,0,0,0,34,34
 29/09/2020,Canelones(UY-CA),8,1,0,4,2,215,227
 29/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2948,7 +2925,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/09/2020,Soriano(UY-SO),1,1,0,1,0,4,6
 29/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 29/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-29/09/2020,Casos retornados,0,0,0,0,0,0,0
 30/09/2020,Artigas(UY-AR),0,0,0,0,0,34,34
 30/09/2020,Canelones(UY-CA),11,0,0,4,1,216,231
 30/09/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2968,7 +2944,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 30/09/2020,Soriano(UY-SO),1,0,0,1,0,4,6
 30/09/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 30/09/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-30/09/2020,Casos retornados,2,0,0,0,0,0,2
 01/10/2020,Artigas(UY-AR),0,0,0,0,0,34,34
 01/10/2020,Canelones(UY-CA),11,0,0,4,0,216,231
 01/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -2988,7 +2963,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 01/10/2020,Soriano(UY-SO),2,1,0,1,0,4,7
 01/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 01/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-01/10/2020,Casos retornados,0,0,0,0,0,0,0
 02/10/2020,Artigas(UY-AR),0,0,0,0,0,34,34
 02/10/2020,Canelones(UY-CA),10,0,0,4,0,216,230
 02/10/2020,Cerro Largo(UY-CL),1,1,0,1,0,12,14
@@ -3008,7 +2982,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 02/10/2020,Soriano(UY-SO),5,3,0,1,0,4,10
 02/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 02/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-02/10/2020,Casos retornados,0,0,0,0,0,0,0
 03/10/2020,Artigas(UY-AR),2,2,0,0,0,34,36
 03/10/2020,Canelones(UY-CA),10,0,0,4,0,216,230
 03/10/2020,Cerro Largo(UY-CL),1,0,0,1,0,12,14
@@ -3028,7 +3001,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 03/10/2020,Soriano(UY-SO),5,0,0,1,0,4,10
 03/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 03/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-03/10/2020,Casos retornados,0,0,0,0,0,0,0
 04/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 04/10/2020,Canelones(UY-CA),13,2,0,4,0,216,233
 04/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -3048,7 +3020,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 04/10/2020,Soriano(UY-SO),4,2,0,1,0,4,9
 04/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 04/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-04/10/2020,Casos retornados,3,0,0,0,0,0,3
 05/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 05/10/2020,Canelones(UY-CA),13,0,0,4,0,216,233
 05/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,12,13
@@ -3068,7 +3039,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 05/10/2020,Soriano(UY-SO),4,0,0,1,0,4,9
 05/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 05/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,102,104
-05/10/2020,Casos retornados,0,0,0,0,0,0,0
 06/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 06/10/2020,Canelones(UY-CA),13,1,0,4,0,216,233
 06/10/2020,Cerro Largo(UY-CL),1,1,0,1,0,12,14
@@ -3088,7 +3058,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 06/10/2020,Soriano(UY-SO),4,0,0,1,0,4,9
 06/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 06/10/2020,Treinta y Tres(UY-TT),0,0,0,2,1,103,105
-06/10/2020,Casos retornados,1,0,0,0,0,0,1
 07/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 07/10/2020,Canelones(UY-CA),11,0,0,4,2,218,233
 07/10/2020,Cerro Largo(UY-CL),1,0,0,1,0,12,14
@@ -3108,7 +3077,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 07/10/2020,Soriano(UY-SO),5,1,0,1,0,4,10
 07/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 07/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,103,105
-07/10/2020,Casos retornados,1,0,0,0,0,0,1
 08/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 08/10/2020,Canelones(UY-CA),7,0,0,4,4,222,233
 08/10/2020,Cerro Largo(UY-CL),1,0,0,1,0,12,14
@@ -3128,7 +3096,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 08/10/2020,Soriano(UY-SO),7,2,0,1,0,4,12
 08/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 08/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,103,105
-08/10/2020,Casos retornados,1,0,0,0,0,0,1
 09/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 09/10/2020,Canelones(UY-CA),8,1,0,4,0,222,234
 09/10/2020,Cerro Largo(UY-CL),4,3,0,1,0,12,17
@@ -3148,7 +3115,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 09/10/2020,Soriano(UY-SO),7,0,0,1,0,4,12
 09/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 09/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,103,105
-09/10/2020,Casos retornados,0,0,0,0,0,0,0
 10/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 10/10/2020,Canelones(UY-CA),8,0,0,4,0,222,234
 10/10/2020,Cerro Largo(UY-CL),6,2,0,1,0,12,19
@@ -3168,7 +3134,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/10/2020,Soriano(UY-SO),7,0,0,1,0,4,12
 10/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 10/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,103,105
-10/10/2020,Casos retornados,0,0,0,0,0,0,0
 11/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 11/10/2020,Canelones(UY-CA),16,7,0,4,0,222,242
 11/10/2020,Cerro Largo(UY-CL),7,1,0,1,0,12,20
@@ -3188,7 +3153,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 11/10/2020,Soriano(UY-SO),7,0,0,1,0,4,12
 11/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 11/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,103,105
-11/10/2020,Casos retornados,1,0,0,0,0,0,1
 12/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 12/10/2020,Canelones(UY-CA),20,2,0,4,0,222,246
 12/10/2020,Cerro Largo(UY-CL),7,0,0,1,0,12,20
@@ -3208,7 +3172,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 12/10/2020,Soriano(UY-SO),7,0,0,1,0,4,12
 12/10/2020,Tacuarembó(UY-TA),0,0,0,0,0,12,12
 12/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,103,105
-12/10/2020,Casos retornados,1,0,0,0,0,0,1
 13/10/2020,Artigas(UY-AR),2,0,0,0,0,34,36
 13/10/2020,Canelones(UY-CA),23,3,0,4,1,223,250
 13/10/2020,Cerro Largo(UY-CL),7,0,0,1,0,12,20
@@ -3228,7 +3191,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 13/10/2020,Soriano(UY-SO),6,0,0,1,1,5,12
 13/10/2020,Tacuarembó(UY-TA),1,1,0,0,0,12,13
 13/10/2020,Treinta y Tres(UY-TT),1,1,0,2,0,103,106
-13/10/2020,Casos retornados,0,0,0,0,0,0,0
 14/10/2020,Artigas(UY-AR),0,0,0,0,2,36,36
 14/10/2020,Canelones(UY-CA),24,5,0,4,4,227,255
 14/10/2020,Cerro Largo(UY-CL),7,0,0,1,0,12,20
@@ -3248,7 +3210,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 14/10/2020,Soriano(UY-SO),6,0,0,1,0,5,12
 14/10/2020,Tacuarembó(UY-TA),2,1,0,0,0,12,14
 14/10/2020,Treinta y Tres(UY-TT),2,1,0,2,0,103,107
-14/10/2020,Casos retornados,0,0,0,0,0,0,0
 15/10/2020,Artigas(UY-AR),0,0,0,0,0,36,36
 15/10/2020,Canelones(UY-CA),30,5,0,4,0,227,261
 15/10/2020,Cerro Largo(UY-CL),8,1,0,1,0,12,21
@@ -3268,7 +3229,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 15/10/2020,Soriano(UY-SO),4,0,0,1,2,7,12
 15/10/2020,Tacuarembó(UY-TA),3,1,0,0,0,12,15
 15/10/2020,Treinta y Tres(UY-TT),2,0,0,2,0,103,107
-15/10/2020,Casos retornados,0,0,0,0,0,0,0
 16/10/2020,Artigas(UY-AR),2,2,0,0,0,36,38
 16/10/2020,Canelones(UY-CA),32,2,0,4,0,227,263
 16/10/2020,Cerro Largo(UY-CL),8,0,0,1,0,12,21
@@ -3288,7 +3248,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/10/2020,Soriano(UY-SO),4,0,0,1,0,7,12
 16/10/2020,Tacuarembó(UY-TA),4,1,0,0,0,12,16
 16/10/2020,Treinta y Tres(UY-TT),2,0,0,2,0,103,107
-16/10/2020,Casos retornados,0,0,0,0,0,0,0
 17/10/2020,Artigas(UY-AR),2,0,0,0,0,36,38
 17/10/2020,Canelones(UY-CA),36,4,0,4,0,227,267
 17/10/2020,Cerro Largo(UY-CL),8,0,0,1,0,12,21
@@ -3308,7 +3267,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 17/10/2020,Soriano(UY-SO),4,1,0,1,1,8,13
 17/10/2020,Tacuarembó(UY-TA),4,0,0,0,0,12,16
 17/10/2020,Treinta y Tres(UY-TT),2,0,0,2,0,103,107
-17/10/2020,Casos retornados,0,0,0,0,0,0,0
 18/10/2020,Artigas(UY-AR),2,0,0,0,0,36,38
 18/10/2020,Canelones(UY-CA),40,5,0,4,1,228,272
 18/10/2020,Cerro Largo(UY-CL),8,0,0,1,0,12,21
@@ -3328,7 +3286,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 18/10/2020,Soriano(UY-SO),4,0,0,1,0,8,13
 18/10/2020,Tacuarembó(UY-TA),5,1,0,0,0,12,17
 18/10/2020,Treinta y Tres(UY-TT),2,0,0,2,0,103,107
-18/10/2020,Casos retornados,0,0,0,0,0,0,0
 19/10/2020,Artigas(UY-AR),2,0,0,0,0,36,38
 19/10/2020,Canelones(UY-CA),40,2,0,4,2,230,274
 19/10/2020,Cerro Largo(UY-CL),8,0,0,1,0,12,21
@@ -3348,7 +3305,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 19/10/2020,Soriano(UY-SO),4,0,0,1,0,8,13
 19/10/2020,Tacuarembó(UY-TA),5,0,0,0,0,12,17
 19/10/2020,Treinta y Tres(UY-TT),2,0,0,2,0,103,107
-19/10/2020,Casos retornados,0,0,0,0,0,0,0
 20/10/2020,Artigas(UY-AR),2,0,0,0,0,36,38
 20/10/2020,Canelones(UY-CA),44,4,0,4,0,230,278
 20/10/2020,Cerro Largo(UY-CL),7,0,0,1,1,13,21
@@ -3368,7 +3324,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 20/10/2020,Soriano(UY-SO),4,0,0,1,0,8,13
 20/10/2020,Tacuarembó(UY-TA),5,0,0,0,0,12,17
 20/10/2020,Treinta y Tres(UY-TT),2,0,0,2,0,103,107
-20/10/2020,Casos retornados,0,0,0,0,0,0,0
 21/10/2020,Artigas(UY-AR),3,1,0,0,0,36,39
 21/10/2020,Canelones(UY-CA),49,5,0,4,0,230,283
 21/10/2020,Cerro Largo(UY-CL),6,0,0,1,1,14,21
@@ -3388,7 +3343,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 21/10/2020,Soriano(UY-SO),2,0,0,1,2,10,13
 21/10/2020,Tacuarembó(UY-TA),5,0,0,0,0,12,17
 21/10/2020,Treinta y Tres(UY-TT),2,0,0,2,0,103,107
-21/10/2020,Casos retornados,4,0,0,0,0,0,4
 22/10/2020,Artigas(UY-AR),2,0,0,0,0,36,38
 22/10/2020,Canelones(UY-CA),56,8,0,4,2,232,292
 22/10/2020,Cerro Largo(UY-CL),6,0,0,1,0,14,21
@@ -3408,7 +3362,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 22/10/2020,Soriano(UY-SO),1,0,0,1,1,11,13
 22/10/2020,Tacuarembó(UY-TA),5,0,0,0,0,12,17
 22/10/2020,Treinta y Tres(UY-TT),2,0,0,2,0,103,107
-22/10/2020,Casos retornados,1,0,0,0,0,0,1
 23/10/2020,Artigas(UY-AR),4,2,0,0,0,36,40
 23/10/2020,Canelones(UY-CA),61,6,0,4,1,233,298
 23/10/2020,Cerro Largo(UY-CL),3,0,0,1,3,17,21
@@ -3428,7 +3381,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 23/10/2020,Soriano(UY-SO),2,1,0,1,0,11,14
 23/10/2020,Tacuarembó(UY-TA),10,5,0,0,0,12,22
 23/10/2020,Treinta y Tres(UY-TT),1,0,0,2,1,104,107
-23/10/2020,Casos retornados,1,0,0,0,0,0,1
 24/10/2020,Artigas(UY-AR),5,1,0,0,0,36,41
 24/10/2020,Canelones(UY-CA),48,0,0,4,12,245,297
 24/10/2020,Cerro Largo(UY-CL),0,0,0,1,3,20,21
@@ -3448,7 +3400,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 24/10/2020,Soriano(UY-SO),1,0,0,1,1,12,14
 24/10/2020,Tacuarembó(UY-TA),10,1,0,0,1,13,23
 24/10/2020,Treinta y Tres(UY-TT),1,0,0,2,0,104,107
-24/10/2020,Casos retornados,1,0,0,0,0,0,1
 25/10/2020,Artigas(UY-AR),4,0,0,0,1,37,41
 25/10/2020,Canelones(UY-CA),46,4,0,4,6,251,301
 25/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3468,7 +3419,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 25/10/2020,Soriano(UY-SO),1,0,0,1,0,12,14
 25/10/2020,Tacuarembó(UY-TA),9,0,0,0,1,14,23
 25/10/2020,Treinta y Tres(UY-TT),1,0,0,2,0,104,107
-25/10/2020,Casos retornados,4,0,0,0,0,0,4
 26/10/2020,Artigas(UY-AR),4,1,0,0,-1,36,40
 26/10/2020,Canelones(UY-CA),44,2,0,4,6,257,305
 26/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3488,7 +3438,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/10/2020,Soriano(UY-SO),1,0,0,1,0,12,14
 26/10/2020,Tacuarembó(UY-TA),9,0,0,0,0,14,23
 26/10/2020,Treinta y Tres(UY-TT),1,0,0,2,0,104,107
-26/10/2020,Casos retornados,3,0,0,0,0,0,3
 27/10/2020,Artigas(UY-AR),4,0,0,0,0,36,40
 27/10/2020,Canelones(UY-CA),45,4,0,4,3,260,309
 27/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3508,7 +3457,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 27/10/2020,Soriano(UY-SO),1,0,0,1,0,12,14
 27/10/2020,Tacuarembó(UY-TA),9,2,0,0,2,16,25
 27/10/2020,Treinta y Tres(UY-TT),0,0,0,2,1,105,107
-27/10/2020,Casos retornados,0,0,0,0,0,0,0
 28/10/2020,Artigas(UY-AR),8,4,0,0,0,36,44
 28/10/2020,Canelones(UY-CA),43,1,0,4,5,265,312
 28/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3528,7 +3476,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 28/10/2020,Soriano(UY-SO),1,0,0,1,0,12,14
 28/10/2020,Tacuarembó(UY-TA),8,0,0,0,1,17,25
 28/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
-28/10/2020,Casos retornados,0,0,0,0,0,0,0
 29/10/2020,Artigas(UY-AR),9,1,0,0,0,36,45
 29/10/2020,Canelones(UY-CA),44,1,0,4,1,266,314
 29/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3548,7 +3495,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/10/2020,Soriano(UY-SO),1,0,0,1,0,12,14
 29/10/2020,Tacuarembó(UY-TA),8,0,0,0,0,17,25
 29/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
-29/10/2020,Casos retornados,0,0,0,0,0,0,0
 30/10/2020,Artigas(UY-AR),8,0,0,0,1,37,45
 30/10/2020,Canelones(UY-CA),46,2,1,5,3,269,320
 30/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3568,7 +3514,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 30/10/2020,Soriano(UY-SO),1,0,0,1,0,12,14
 30/10/2020,Tacuarembó(UY-TA),8,0,0,0,0,17,25
 30/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
-30/10/2020,Casos retornados,1,0,0,0,0,0,1
 31/10/2020,Artigas(UY-AR),8,0,0,0,0,37,45
 31/10/2020,Canelones(UY-CA),39,2,0,5,5,274,318
 31/10/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3588,7 +3533,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 31/10/2020,Soriano(UY-SO),0,0,0,1,1,13,14
 31/10/2020,Tacuarembó(UY-TA),8,0,0,0,0,17,25
 31/10/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
-31/10/2020,Casos retornados,0,0,0,0,0,0,0
 01/11/2020,Artigas(UY-AR),6,0,0,0,2,39,45
 01/11/2020,Canelones(UY-CA),36,1,0,5,4,278,319
 01/11/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3608,7 +3552,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 01/11/2020,Soriano(UY-SO),0,0,0,1,0,13,14
 01/11/2020,Tacuarembó(UY-TA),4,0,0,0,4,21,25
 01/11/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
-01/11/2020,Casos retornados,0,0,0,0,0,0,0
 02/11/2020,Artigas(UY-AR),5,0,0,0,1,40,45
 02/11/2020,Canelones(UY-CA),37,2,0,5,2,280,322
 02/11/2020,Cerro Largo(UY-CL),0,0,0,1,0,20,21
@@ -3628,7 +3571,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 02/11/2020,Soriano(UY-SO),0,0,0,1,0,13,14
 02/11/2020,Tacuarembó(UY-TA),2,0,0,0,2,23,25
 02/11/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
-02/11/2020,Casos retornados,0,0,0,0,0,0,0
 03/11/2020,Artigas(UY-AR),4,0,0,0,1,41,45
 03/11/2020,Canelones(UY-CA),36,4,0,5,5,285,326
 03/11/2020,Cerro Largo(UY-CL),1,1,0,1,0,20,22
@@ -3648,7 +3590,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 03/11/2020,Soriano(UY-SO),0,0,0,1,0,13,14
 03/11/2020,Tacuarembó(UY-TA),2,0,0,0,0,23,25
 03/11/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
-03/11/2020,Casos retornados,0,0,0,0,0,0,0
 04/11/2020,Artigas(UY-AR),4,0,0,0,0,41,45
 04/11/2020,Canelones(UY-CA),53,22,0,5,6,291,349
 04/11/2020,Cerro Largo(UY-CL),1,0,0,1,0,20,22
@@ -3668,7 +3609,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 04/11/2020,Soriano(UY-SO),0,0,0,1,0,13,14
 04/11/2020,Tacuarembó(UY-TA),2,0,0,0,0,23,25
 04/11/2020,Treinta y Tres(UY-TT),0,0,0,2,0,105,107
-04/11/2020,Casos retornados,0,0,0,0,0,0,0
 05/11/2020,Artigas(UY-AR),4,0,0,0,0,41,45
 05/11/2020,Canelones(UY-CA),54,7,0,5,6,297,356
 05/11/2020,Cerro Largo(UY-CL),2,1,0,1,0,20,23
@@ -3688,7 +3628,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 05/11/2020,Soriano(UY-SO),0,0,0,1,0,13,14
 05/11/2020,Tacuarembó(UY-TA),2,1,0,0,1,24,26
 05/11/2020,Treinta y Tres(UY-TT),2,2,0,2,0,105,109
-05/11/2020,Casos retornados,0,0,0,0,0,0,0
 06/11/2020,Artigas(UY-AR),4,0,0,0,0,41,45
 06/11/2020,Canelones(UY-CA),55,4,0,5,2,299,359
 06/11/2020,Cerro Largo(UY-CL),3,2,0,1,1,21,25
@@ -3708,7 +3647,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 06/11/2020,Soriano(UY-SO),0,0,0,1,0,13,14
 06/11/2020,Tacuarembó(UY-TA),3,2,0,0,1,25,28
 06/11/2020,Treinta y Tres(UY-TT),3,1,0,2,0,105,110
-06/11/2020,Casos retornados,0,0,0,0,0,0,0
 07/11/2020,Artigas(UY-AR),4,2,0,0,2,43,47
 07/11/2020,Canelones(UY-CA),53,2,0,5,5,304,362
 07/11/2020,Cerro Largo(UY-CL),9,5,0,1,0,21,31
@@ -3728,7 +3666,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 07/11/2020,Soriano(UY-SO),0,0,0,1,0,13,14
 07/11/2020,Tacuarembó(UY-TA),3,0,0,0,0,25,28
 07/11/2020,Treinta y Tres(UY-TT),4,0,0,2,0,105,111
-07/11/2020,Casos retornados,0,0,0,0,0,0,0
 08/11/2020,Artigas(UY-AR),3,0,0,0,1,44,47
 08/11/2020,Canelones(UY-CA),62,10,0,5,2,306,373
 08/11/2020,Cerro Largo(UY-CL),30,22,0,1,0,21,52
@@ -3748,7 +3685,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 08/11/2020,Soriano(UY-SO),1,0,0,1,0,13,15
 08/11/2020,Tacuarembó(UY-TA),3,0,0,0,0,25,28
 08/11/2020,Treinta y Tres(UY-TT),7,2,0,2,0,105,114
-08/11/2020,Casos retornados,0,0,0,0,0,0,0
 09/11/2020,Artigas(UY-AR),3,0,0,0,0,44,47
 09/11/2020,Canelones(UY-CA),60,3,0,5,4,310,375
 09/11/2020,Cerro Largo(UY-CL),42,12,0,1,0,21,64
@@ -3768,7 +3704,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 09/11/2020,Soriano(UY-SO),4,3,0,1,0,13,18
 09/11/2020,Tacuarembó(UY-TA),3,0,0,0,0,25,28
 09/11/2020,Treinta y Tres(UY-TT),6,0,0,2,0,105,113
-09/11/2020,Casos retornados,1,0,0,0,0,0,1
 10/11/2020,Artigas(UY-AR),4,1,0,0,0,44,48
 10/11/2020,Canelones(UY-CA),74,14,0,5,0,310,389
 10/11/2020,Cerro Largo(UY-CL),45,3,0,1,0,21,67
@@ -3788,7 +3723,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/11/2020,Soriano(UY-SO),4,0,0,1,0,13,18
 10/11/2020,Tacuarembó(UY-TA),3,0,0,0,0,25,28
 10/11/2020,Treinta y Tres(UY-TT),6,0,0,2,0,105,113
-10/11/2020,Casos retornados,0,0,0,0,0,0,0
 11/11/2020,Artigas(UY-AR),5,2,0,0,1,45,50
 11/11/2020,Canelones(UY-CA),76,5,0,5,3,313,394
 11/11/2020,Cerro Largo(UY-CL),53,8,0,1,0,21,75
@@ -3808,7 +3742,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 11/11/2020,Soriano(UY-SO),4,0,0,1,0,13,18
 11/11/2020,Tacuarembó(UY-TA),3,0,0,0,0,25,28
 11/11/2020,Treinta y Tres(UY-TT),6,2,0,2,0,105,113
-11/11/2020,Casos retornados,0,0,0,0,0,0,0
 12/11/2020,Artigas(UY-AR),5,0,0,0,0,45,50
 12/11/2020,Canelones(UY-CA),81,8,0,5,3,316,402
 12/11/2020,Cerro Largo(UY-CL),61,8,0,1,0,21,83
@@ -3828,7 +3761,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 12/11/2020,Soriano(UY-SO),6,2,0,1,0,13,20
 12/11/2020,Tacuarembó(UY-TA),2,0,0,0,1,26,28
 12/11/2020,Treinta y Tres(UY-TT),8,0,0,2,0,105,115
-12/11/2020,Casos retornados,0,0,0,0,0,0,0
 13/11/2020,Artigas(UY-AR),7,2,0,0,0,45,52
 13/11/2020,Canelones(UY-CA),94,20,0,5,6,322,421
 13/11/2020,Cerro Largo(UY-CL),67,7,0,1,1,22,90
@@ -3848,7 +3780,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 13/11/2020,Soriano(UY-SO),5,0,0,1,1,14,20
 13/11/2020,Tacuarembó(UY-TA),4,2,0,0,0,26,30
 13/11/2020,Treinta y Tres(UY-TT),8,0,0,2,0,105,115
-13/11/2020,Casos retornados,0,0,0,0,0,0,0
 14/11/2020,Artigas(UY-AR),8,1,0,0,0,45,53
 14/11/2020,Canelones(UY-CA),84,9,0,5,20,342,431
 14/11/2020,Cerro Largo(UY-CL),74,7,0,1,0,22,97
@@ -3868,7 +3799,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 14/11/2020,Soriano(UY-SO),8,3,0,1,0,14,23
 14/11/2020,Tacuarembó(UY-TA),7,3,0,0,0,26,33
 14/11/2020,Treinta y Tres(UY-TT),7,0,0,2,1,106,115
-14/11/2020,Casos retornados,0,0,0,0,0,0,0
 15/11/2020,Artigas(UY-AR),9,1,0,0,0,45,54
 15/11/2020,Canelones(UY-CA),87,7,0,5,5,347,439
 15/11/2020,Cerro Largo(UY-CL),73,2,0,1,3,25,99
@@ -3888,7 +3818,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 15/11/2020,Soriano(UY-SO),7,0,0,1,1,15,23
 15/11/2020,Tacuarembó(UY-TA),10,3,0,0,0,26,36
 15/11/2020,Treinta y Tres(UY-TT),7,0,0,2,0,106,115
-15/11/2020,Casos retornados,0,0,0,0,0,0,0
 16/11/2020,Artigas(UY-AR),8,0,0,0,1,46,54
 16/11/2020,Canelones(UY-CA),95,13,0,5,5,352,452
 16/11/2020,Cerro Largo(UY-CL),75,5,0,1,3,28,104
@@ -3908,7 +3837,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/11/2020,Soriano(UY-SO),7,1,0,1,1,16,24
 16/11/2020,Tacuarembó(UY-TA),10,1,0,0,1,27,37
 16/11/2020,Treinta y Tres(UY-TT),7,0,0,2,0,106,115
-16/11/2020,Casos retornados,0,0,0,0,0,0,0
 17/11/2020,Artigas(UY-AR),10,3,0,0,1,47,57
 17/11/2020,Canelones(UY-CA),105,14,0,5,4,356,466
 17/11/2020,Cerro Largo(UY-CL),76,5,0,1,4,32,109
@@ -3928,7 +3856,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 17/11/2020,Soriano(UY-SO),6,1,0,1,2,18,25
 17/11/2020,Tacuarembó(UY-TA),16,7,0,0,1,28,44
 17/11/2020,Treinta y Tres(UY-TT),6,0,0,2,1,107,115
-17/11/2020,Casos retornados,0,0,0,0,0,0,0
 18/11/2020,Artigas(UY-AR),10,0,0,0,0,47,57
 18/11/2020,Canelones(UY-CA),115,15,0,5,5,361,481
 18/11/2020,Cerro Largo(UY-CL),79,9,0,1,6,38,118
@@ -3948,7 +3875,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 18/11/2020,Soriano(UY-SO),7,1,0,1,0,18,26
 18/11/2020,Tacuarembó(UY-TA),17,1,0,0,0,28,45
 18/11/2020,Treinta y Tres(UY-TT),4,1,0,2,3,110,116
-18/11/2020,Casos retornados,0,0,0,0,0,0,0
 19/11/2020,Artigas(UY-AR),10,0,0,0,0,47,57
 19/11/2020,Canelones(UY-CA),127,17,0,5,6,367,499
 19/11/2020,Cerro Largo(UY-CL),72,2,0,1,9,47,120
@@ -3968,7 +3894,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 19/11/2020,Soriano(UY-SO),8,1,0,1,0,18,27
 19/11/2020,Tacuarembó(UY-TA),18,1,0,0,0,28,46
 19/11/2020,Treinta y Tres(UY-TT),4,0,0,2,0,110,116
-19/11/2020,Casos retornados,1,1,0,0,0,0,1
 20/11/2020,Artigas(UY-AR),14,6,0,0,2,49,63
 20/11/2020,Canelones(UY-CA),139,18,0,5,8,375,519
 20/11/2020,Cerro Largo(UY-CL),77,11,0,1,6,53,131
@@ -3988,7 +3913,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 20/11/2020,Soriano(UY-SO),10,2,0,1,0,18,29
 20/11/2020,Tacuarembó(UY-TA),20,2,0,0,0,28,48
 20/11/2020,Treinta y Tres(UY-TT),3,0,0,2,1,111,116
-20/11/2020,Casos retornados,0,0,0,0,0,0,0
 21/11/2020,Artigas(UY-AR),14,2,0,0,1,50,64
 21/11/2020,Canelones(UY-CA),158,23,0,5,5,380,543
 21/11/2020,Cerro Largo(UY-CL),73,3,0,1,7,60,134
@@ -4008,7 +3932,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 21/11/2020,Soriano(UY-SO),10,0,0,1,0,18,29
 21/11/2020,Tacuarembó(UY-TA),21,1,0,0,0,28,49
 21/11/2020,Treinta y Tres(UY-TT),1,0,0,2,2,113,116
-21/11/2020,Casos retornados,0,0,0,0,0,0,0
 22/11/2020,Artigas(UY-AR),13,1,0,0,1,51,64
 22/11/2020,Canelones(UY-CA),160,14,0,5,11,391,556
 22/11/2020,Cerro Largo(UY-CL),65,3,0,1,10,70,136
@@ -4028,7 +3951,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 22/11/2020,Soriano(UY-SO),20,10,0,1,0,18,39
 22/11/2020,Tacuarembó(UY-TA),21,0,0,0,0,28,49
 22/11/2020,Treinta y Tres(UY-TT),1,0,0,2,0,113,116
-22/11/2020,Casos retornados,0,0,0,0,0,0,0
 23/11/2020,Artigas(UY-AR),15,6,0,0,3,54,69
 23/11/2020,Canelones(UY-CA),166,13,0,5,9,400,571
 23/11/2020,Cerro Largo(UY-CL),51,1,0,1,15,85,137
@@ -4048,7 +3970,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 23/11/2020,Soriano(UY-SO),20,2,0,1,2,20,41
 23/11/2020,Tacuarembó(UY-TA),21,0,0,0,0,28,49
 23/11/2020,Treinta y Tres(UY-TT),1,0,0,2,0,113,116
-23/11/2020,Casos retornados,7,7,0,0,0,0,7
 24/11/2020,Artigas(UY-AR),15,0,0,0,0,54,69
 24/11/2020,Canelones(UY-CA),181,28,1,6,12,412,599
 24/11/2020,Cerro Largo(UY-CL),46,1,0,1,6,91,138
@@ -4068,7 +3989,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 24/11/2020,Soriano(UY-SO),25,6,0,1,1,21,47
 24/11/2020,Tacuarembó(UY-TA),21,1,0,0,1,29,50
 24/11/2020,Treinta y Tres(UY-TT),1,0,0,2,0,113,116
-24/11/2020,Casos retornados,0,0,0,0,0,0,0
 25/11/2020,Artigas(UY-AR),16,4,0,0,3,57,73
 25/11/2020,Canelones(UY-CA),202,32,0,6,11,423,631
 25/11/2020,Cerro Largo(UY-CL),42,1,0,1,4,95,138
@@ -4088,7 +4008,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 25/11/2020,Soriano(UY-SO),28,4,0,1,2,23,52
 25/11/2020,Tacuarembó(UY-TA),20,0,0,0,1,30,50
 25/11/2020,Treinta y Tres(UY-TT),1,0,0,2,0,113,116
-25/11/2020,Casos retornados,0,0,0,0,0,0,0
 26/11/2020,Artigas(UY-AR),25,9,0,0,0,57,82
 26/11/2020,Canelones(UY-CA),193,20,0,6,29,452,651
 26/11/2020,Cerro Largo(UY-CL),42,3,0,1,3,98,141
@@ -4108,7 +4027,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/11/2020,Soriano(UY-SO),31,4,0,1,1,24,56
 26/11/2020,Tacuarembó(UY-TA),17,0,0,0,3,33,50
 26/11/2020,Treinta y Tres(UY-TT),1,0,0,2,0,113,116
-26/11/2020,Casos retornados,0,0,0,0,0,0,0
 27/11/2020,Artigas(UY-AR),36,11,0,0,0,57,93
 27/11/2020,Canelones(UY-CA),222,41,0,6,12,464,692
 27/11/2020,Cerro Largo(UY-CL),45,8,0,1,5,103,149
@@ -4128,7 +4046,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 27/11/2020,Soriano(UY-SO),34,5,0,1,2,26,61
 27/11/2020,Tacuarembó(UY-TA),18,2,0,0,1,34,52
 27/11/2020,Treinta y Tres(UY-TT),0,0,0,2,1,114,116
-27/11/2020,Casos retornados,0,0,0,0,0,0,0
 28/11/2020,Artigas(UY-AR),42,6,0,0,0,57,99
 28/11/2020,Canelones(UY-CA),228,18,0,6,12,476,710
 28/11/2020,Cerro Largo(UY-CL),42,4,1,2,5,108,152
@@ -4148,7 +4065,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 28/11/2020,Soriano(UY-SO),42,10,0,1,1,27,70
 28/11/2020,Tacuarembó(UY-TA),19,3,0,0,2,36,55
 28/11/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-28/11/2020,Casos retornados,0,0,0,0,0,0,0
 29/11/2020,Artigas(UY-AR),42,2,0,0,1,58,100
 29/11/2020,Canelones(UY-CA),239,29,1,7,17,493,739
 29/11/2020,Cerro Largo(UY-CL),44,6,0,2,4,112,158
@@ -4168,7 +4084,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/11/2020,Soriano(UY-SO),44,5,0,1,3,30,75
 29/11/2020,Tacuarembó(UY-TA),18,2,0,0,3,39,57
 29/11/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-29/11/2020,Casos retornados,3,3,0,0,0,0,3
 30/11/2020,Artigas(UY-AR),37,0,0,0,3,61,98
 30/11/2020,Canelones(UY-CA),236,10,0,7,15,508,751
 30/11/2020,Cerro Largo(UY-CL),41,12,0,2,5,117,160
@@ -4188,7 +4103,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 30/11/2020,Soriano(UY-SO),54,11,0,1,3,33,88
 30/11/2020,Tacuarembó(UY-TA),16,0,0,0,1,40,56
 30/11/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-30/11/2020,Casos retornados,8,5,0,0,0,0,8
 01/12/2020,Artigas(UY-AR),33,0,0,0,4,65,98
 01/12/2020,Canelones(UY-CA),247,31,0,7,21,529,783
 01/12/2020,Cerro Largo(UY-CL),39,1,0,2,3,120,161
@@ -4208,7 +4122,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 01/12/2020,Soriano(UY-SO),62,6,0,1,0,33,96
 01/12/2020,Tacuarembó(UY-TA),10,0,0,0,6,46,56
 01/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-01/12/2020,Casos retornados,1,0,0,0,0,0,1
 02/12/2020,Artigas(UY-AR),32,4,0,0,6,71,103
 02/12/2020,Canelones(UY-CA),262,23,0,7,16,545,814
 02/12/2020,Cerro Largo(UY-CL),31,2,0,2,10,130,163
@@ -4228,7 +4141,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 02/12/2020,Soriano(UY-SO),62,2,0,1,2,35,98
 02/12/2020,Tacuarembó(UY-TA),12,2,0,0,0,46,58
 02/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-02/12/2020,Casos retornados,2,1,0,0,0,0,2
 03/12/2020,Artigas(UY-AR),17,0,0,0,14,85,102
 03/12/2020,Canelones(UY-CA),273,23,0,7,19,564,844
 03/12/2020,Cerro Largo(UY-CL),30,3,0,2,4,134,166
@@ -4242,13 +4154,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 03/12/2020,Paysandú(UY-PA),2,0,0,0,1,23,25
 03/12/2020,Río Negro(UY-RN),2,0,0,0,0,15,17
 03/12/2020,Rivera(UY-RV),97,13,0,10,7,534,641
-03/12/2020,Rocha(UY-RO),54,7,0,0,5,24,78
+03/12/2020,Rocha(UY-RO),54,7,0,0,0,24,78
 03/12/2020,Salto(UY-SA),2,1,0,2,0,25,29
 03/12/2020,San José(UY-SJ),11,3,0,0,0,70,81
 03/12/2020,Soriano(UY-SO),66,7,0,1,4,39,106
 03/12/2020,Tacuarembó(UY-TA),17,7,0,0,2,48,65
 03/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-03/12/2020,Casos retornados,8,6,0,0,0,0,0
 04/12/2020,Artigas(UY-AR),19,3,0,0,1,86,105
 04/12/2020,Canelones(UY-CA),295,35,0,7,20,584,886
 04/12/2020,Cerro Largo(UY-CL),31,3,0,2,2,136,169
@@ -4262,13 +4173,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 04/12/2020,Paysandú(UY-PA),4,2,0,0,0,23,27
 04/12/2020,Río Negro(UY-RN),1,0,0,0,1,16,17
 04/12/2020,Rivera(UY-RV),97,6,0,10,6,540,647
-04/12/2020,Rocha(UY-RO),63,12,0,0,2,26,89
+04/12/2020,Rocha(UY-RO),63,12,0,0,0,26,89
 04/12/2020,Salto(UY-SA),2,0,0,2,0,25,29
 04/12/2020,San José(UY-SJ),16,5,0,0,0,70,86
 04/12/2020,Soriano(UY-SO),58,2,0,1,8,47,106
 04/12/2020,Tacuarembó(UY-TA),17,1,0,0,1,49,66
 04/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-04/12/2020,Casos retornados,0,0,0,0,0,0,0
 05/12/2020,Artigas(UY-AR),14,2,0,0,7,93,107
 05/12/2020,Canelones(UY-CA),316,28,0,7,25,609,932
 05/12/2020,Cerro Largo(UY-CL),31,1,0,2,1,137,170
@@ -4288,7 +4198,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 05/12/2020,Soriano(UY-SO),61,4,1,2,1,48,111
 05/12/2020,Tacuarembó(UY-TA),18,1,0,0,0,49,67
 05/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-05/12/2020,Casos retornados,1,0,0,0,0,0,0
 06/12/2020,Artigas(UY-AR),14,4,0,0,2,95,109
 06/12/2020,Canelones(UY-CA),342,35,1,8,23,632,982
 06/12/2020,Cerro Largo(UY-CL),33,3,0,2,1,138,173
@@ -4302,13 +4211,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 06/12/2020,Paysandú(UY-PA),6,2,0,0,0,24,30
 06/12/2020,Río Negro(UY-RN),3,1,0,0,0,16,19
 06/12/2020,Rivera(UY-RV),91,1,0,10,7,556,657
-06/12/2020,Rocha(UY-RO),67,3,0,0,5,31,98
+06/12/2020,Rocha(UY-RO),67,3,0,0,0,31,98
 06/12/2020,Salto(UY-SA),3,1,0,2,0,25,30
 06/12/2020,San José(UY-SJ),40,16,0,0,0,70,110
 06/12/2020,Soriano(UY-SO),56,1,0,2,4,52,110
 06/12/2020,Tacuarembó(UY-TA),19,1,0,0,0,49,68
 06/12/2020,Treinta y Tres(UY-TT),1,1,0,2,0,114,117
-06/12/2020,Casos retornados,1,0,0,0,0,0,0
 07/12/2020,Artigas(UY-AR),12,0,0,0,1,96,108
 07/12/2020,Canelones(UY-CA),359,27,0,8,31,663,1030
 07/12/2020,Cerro Largo(UY-CL),29,0,0,2,4,142,173
@@ -4322,13 +4230,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 07/12/2020,Paysandú(UY-PA),5,0,0,0,0,24,29
 07/12/2020,Río Negro(UY-RN),2,0,0,0,0,16,18
 07/12/2020,Rivera(UY-RV),93,12,0,10,10,566,669
-07/12/2020,Rocha(UY-RO),60,7,0,0,12,43,103
+07/12/2020,Rocha(UY-RO),60,7,0,0,0,43,103
 07/12/2020,Salto(UY-SA),3,1,0,2,0,25,30
 07/12/2020,San José(UY-SJ),46,8,0,0,1,71,117
 07/12/2020,Soriano(UY-SO),51,2,0,2,9,61,114
 07/12/2020,Tacuarembó(UY-TA),18,1,0,0,2,51,69
 07/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-07/12/2020,Casos retornados,5,0,0,0,0,0,0
 08/12/2020,Artigas(UY-AR),15,4,0,0,1,97,112
 08/12/2020,Canelones(UY-CA),364,37,0,8,39,702,1074
 08/12/2020,Cerro Largo(UY-CL),27,3,0,2,5,147,176
@@ -4342,13 +4249,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 08/12/2020,Paysandú(UY-PA),4,0,0,0,1,25,29
 08/12/2020,Río Negro(UY-RN),2,0,0,0,0,16,18
 08/12/2020,Rivera(UY-RV),111,24,0,10,6,572,693
-08/12/2020,Rocha(UY-RO),75,16,0,0,2,45,120
+08/12/2020,Rocha(UY-RO),75,16,0,0,0,45,120
 08/12/2020,Salto(UY-SA),3,0,0,2,0,25,30
 08/12/2020,San José(UY-SJ),57,11,0,0,0,71,128
 08/12/2020,Soriano(UY-SO),40,2,0,2,13,74,116
 08/12/2020,Tacuarembó(UY-TA),20,3,0,0,1,52,72
 08/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-08/12/2020,Casos retornados,2,0,0,0,0,0,0
 09/12/2020,Artigas(UY-AR),9,2,0,0,5,102,111
 09/12/2020,Canelones(UY-CA),390,36,0,8,20,722,1120
 09/12/2020,Cerro Largo(UY-CL),25,2,0,2,4,151,178
@@ -4362,13 +4268,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 09/12/2020,Paysandú(UY-PA),4,0,0,0,0,25,29
 09/12/2020,Río Negro(UY-RN),2,0,0,0,0,16,18
 09/12/2020,Rivera(UY-RV),106,12,0,10,16,588,704
-09/12/2020,Rocha(UY-RO),80,6,0,0,1,46,126
+09/12/2020,Rocha(UY-RO),80,6,0,0,0,46,126
 09/12/2020,Salto(UY-SA),8,6,0,2,1,26,36
 09/12/2020,San José(UY-SJ),62,6,0,0,1,72,134
 09/12/2020,Soriano(UY-SO),35,5,0,2,10,84,121
 09/12/2020,Tacuarembó(UY-TA),20,1,0,0,0,52,72
 09/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-09/12/2020,Casos retornados,1,0,0,0,0,0,0
 10/12/2020,Artigas(UY-AR),10,4,0,0,3,105,115
 10/12/2020,Canelones(UY-CA),405,21,0,8,15,737,1150
 10/12/2020,Cerro Largo(UY-CL),20,1,0,2,4,155,177
@@ -4382,13 +4287,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 10/12/2020,Paysandú(UY-PA),4,0,0,0,0,25,29
 10/12/2020,Río Negro(UY-RN),1,0,0,0,1,17,18
 10/12/2020,Rivera(UY-RV),111,24,0,10,20,608,729
-10/12/2020,Rocha(UY-RO),77,7,0,0,9,55,132
+10/12/2020,Rocha(UY-RO),77,7,0,0,0,55,132
 10/12/2020,Salto(UY-SA),2,0,0,2,0,26,30
 10/12/2020,San José(UY-SJ),72,8,0,0,2,74,146
 10/12/2020,Soriano(UY-SO),31,3,0,2,7,91,124
 10/12/2020,Tacuarembó(UY-TA),16,1,0,0,5,57,73
 10/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-10/12/2020,Casos retornados,7,0,0,0,0,0,0
 11/12/2020,Artigas(UY-AR),8,3,0,0,3,108,116
 11/12/2020,Canelones(UY-CA),454,55,0,8,41,778,1240
 11/12/2020,Cerro Largo(UY-CL),22,9,0,2,5,160,184
@@ -4402,13 +4306,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 11/12/2020,Paysandú(UY-PA),4,1,0,0,1,26,30
 11/12/2020,Río Negro(UY-RN),2,1,0,0,0,17,19
 11/12/2020,Rivera(UY-RV),132,19,0,10,5,613,755
-11/12/2020,Rocha(UY-RO),83,3,0,0,3,58,141
+11/12/2020,Rocha(UY-RO),83,3,0,0,0,58,141
 11/12/2020,Salto(UY-SA),3,1,0,2,0,26,31
 11/12/2020,San José(UY-SJ),85,10,0,0,0,74,159
 11/12/2020,Soriano(UY-SO),30,3,0,2,5,96,128
 11/12/2020,Tacuarembó(UY-TA),17,2,0,0,0,57,74
 11/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-11/12/2020,Casos retornados,3,0,0,0,0,0,0
 12/12/2020,Artigas(UY-AR),9,0,0,0,0,108,117
 12/12/2020,Canelones(UY-CA),492,58,0,8,26,804,1304
 12/12/2020,Cerro Largo(UY-CL),28,6,0,2,1,161,191
@@ -4422,13 +4325,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 12/12/2020,Paysandú(UY-PA),4,0,0,0,0,26,30
 12/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 12/12/2020,Rivera(UY-RV),145,25,0,10,12,625,780
-12/12/2020,Rocha(UY-RO),91,10,0,0,2,60,151
+12/12/2020,Rocha(UY-RO),91,8,0,0,0,60,151
 12/12/2020,Salto(UY-SA),3,0,0,2,0,26,31
 12/12/2020,San José(UY-SJ),99,15,0,0,2,76,175
 12/12/2020,Soriano(UY-SO),24,2,0,2,7,103,129
 12/12/2020,Tacuarembó(UY-TA),13,1,0,0,4,61,74
 12/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-12/12/2020,Casos retornados,6,0,0,0,0,0,0
 13/12/2020,Artigas(UY-AR),13,5,0,0,1,109,122
 13/12/2020,Canelones(UY-CA),533,66,0,8,27,831,1372
 13/12/2020,Cerro Largo(UY-CL),26,2,0,2,1,162,190
@@ -4442,13 +4344,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 13/12/2020,Paysandú(UY-PA),7,3,0,0,0,26,33
 13/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 13/12/2020,Rivera(UY-RV),146,10,0,10,9,634,790
-13/12/2020,Rocha(UY-RO),86,7,0,0,14,74,160
+13/12/2020,Rocha(UY-RO),86,7,0,0,0,74,160
 13/12/2020,Salto(UY-SA),4,1,0,2,0,26,32
 13/12/2020,San José(UY-SJ),106,12,0,0,2,78,184
 13/12/2020,Soriano(UY-SO),25,2,0,2,1,104,131
 13/12/2020,Tacuarembó(UY-TA),16,5,0,0,1,62,78
 13/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-13/12/2020,Casos retornados,6,0,0,0,0,0,0
 14/12/2020,Artigas(UY-AR),14,2,0,0,0,109,123
 14/12/2020,Canelones(UY-CA),540,41,0,8,29,860,1408
 14/12/2020,Cerro Largo(UY-CL),27,3,0,2,2,164,193
@@ -4462,13 +4363,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 14/12/2020,Paysandú(UY-PA),13,7,0,0,1,27,40
 14/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 14/12/2020,Rivera(UY-RV),157,20,0,10,7,641,808
-14/12/2020,Rocha(UY-RO),83,7,0,0,1,75,158
+14/12/2020,Rocha(UY-RO),83,7,0,0,0,75,158
 14/12/2020,Salto(UY-SA),3,0,0,2,0,26,31
 14/12/2020,San José(UY-SJ),108,4,0,0,5,83,191
 14/12/2020,Soriano(UY-SO),24,0,0,2,1,105,131
 14/12/2020,Tacuarembó(UY-TA),14,0,0,0,1,63,77
 14/12/2020,Treinta y Tres(UY-TT),0,0,0,2,0,114,116
-14/12/2020,Casos retornados,11,5,0,0,0,0,0
 15/12/2020,Artigas(UY-AR),16,2,0,0,0,109,125
 15/12/2020,Canelones(UY-CA),546,45,0,8,52,912,1466
 15/12/2020,Cerro Largo(UY-CL),23,2,0,2,6,170,195
@@ -4482,13 +4382,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 15/12/2020,Paysandú(UY-PA),15,3,0,0,1,28,43
 15/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 15/12/2020,Rivera(UY-RV),181,37,0,10,9,650,841
-15/12/2020,Rocha(UY-RO),81,7,0,0,7,82,163
+15/12/2020,Rocha(UY-RO),81,7,0,0,0,82,163
 15/12/2020,Salto(UY-SA),2,0,0,2,1,27,31
 15/12/2020,San José(UY-SJ),112,11,0,0,6,89,201
 15/12/2020,Soriano(UY-SO),22,0,1,3,1,106,131
 15/12/2020,Tacuarembó(UY-TA),16,2,0,0,0,63,79
 15/12/2020,Treinta y Tres(UY-TT),1,1,0,2,0,114,117
-15/12/2020,Casos retornados,11,0,0,0,0,0,0
 16/12/2020,Artigas(UY-AR),17,1,0,0,0,109,126
 16/12/2020,Canelones(UY-CA),599,85,1,9,42,954,1562
 16/12/2020,Cerro Largo(UY-CL),26,3,0,2,1,171,199
@@ -4502,13 +4401,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 16/12/2020,Paysandú(UY-PA),23,10,0,0,2,30,53
 16/12/2020,Río Negro(UY-RN),1,0,0,0,0,17,18
 16/12/2020,Rivera(UY-RV),188,10,0,10,4,654,852
-16/12/2020,Rocha(UY-RO),82,6,0,0,5,87,169
+16/12/2020,Rocha(UY-RO),82,6,0,0,0,87,169
 16/12/2020,Salto(UY-SA),3,2,0,2,1,28,33
 16/12/2020,San José(UY-SJ),109,5,0,0,8,97,206
 16/12/2020,Soriano(UY-SO),20,0,0,3,3,109,132
 16/12/2020,Tacuarembó(UY-TA),16,3,0,0,3,66,82
 16/12/2020,Treinta y Tres(UY-TT),3,1,0,2,0,114,119
-16/12/2020,Casos retornados,1,,0,0,0,0,0
 17/12/2020,Artigas(UY-AR),17,4,1,1,3,112,130
 17/12/2020,Canelones(UY-CA),655,91,0,9,40,994,1658
 17/12/2020,Cerro Largo(UY-CL),33,7,0,2,0,171,206
@@ -4522,13 +4420,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 17/12/2020,Paysandú(UY-PA),35,12,0,0,0,30,65
 17/12/2020,Río Negro(UY-RN),2,1,0,0,0,17,19
 17/12/2020,Rivera(UY-RV),198,21,0,10,10,664,872
-17/12/2020,Rocha(UY-RO),63,2,0,0,20,107,170
+17/12/2020,Rocha(UY-RO),63,2,0,0,0,107,170
 17/12/2020,Salto(UY-SA),3,0,0,2,0,28,33
 17/12/2020,San José(UY-SJ),108,6,0,0,7,104,212
 17/12/2020,Soriano(UY-SO),16,0,0,3,4,113,132
 17/12/2020,Tacuarembó(UY-TA),17,2,0,0,1,67,84
 17/12/2020,Treinta y Tres(UY-TT),4,3,0,2,0,114,120
-17/12/2020,Casos retornados,4,,0,0,0,0,0
 18/12/2020,Artigas(UY-AR),25,9,0,1,1,113,139
 18/12/2020,Canelones(UY-CA),688,81,1,10,59,1053,1751
 18/12/2020,Cerro Largo(UY-CL),39,7,0,2,1,172,213
@@ -4542,13 +4439,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 18/12/2020,Paysandú(UY-PA),41,6,0,0,0,30,71
 18/12/2020,Río Negro(UY-RN),2,0,0,0,0,17,19
 18/12/2020,Rivera(UY-RV),190,4,1,11,11,675,876
-18/12/2020,Rocha(UY-RO),64,2,0,0,1,108,172
+18/12/2020,Rocha(UY-RO),64,1,0,0,0,108,172
 18/12/2020,Salto(UY-SA),3,0,0,2,0,28,33
 18/12/2020,San José(UY-SJ),107,7,0,0,8,112,219
 18/12/2020,Soriano(UY-SO),14,0,0,3,2,115,132
 18/12/2020,Tacuarembó(UY-TA),25,8,0,0,0,67,92
 18/12/2020,Treinta y Tres(UY-TT),4,0,0,2,0,114,120
-18/12/2020,Casos retornados,6,2,0,0,0,0,0
 19/12/2020,Artigas(UY-AR),30,5,0,1,0,113,144
 19/12/2020,Canelones(UY-CA),735,91,2,12,52,1105,1852
 19/12/2020,Cerro Largo(UY-CL),42,7,0,2,4,176,220
@@ -4562,13 +4458,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 19/12/2020,Paysandú(UY-PA),44,4,0,0,0,30,74
 19/12/2020,Río Negro(UY-RN),2,1,0,0,1,18,20
 19/12/2020,Rivera(UY-RV),200,24,0,11,13,688,899
-19/12/2020,Rocha(UY-RO),59,7,0,0,12,120,179
+19/12/2020,Rocha(UY-RO),59,7,0,0,0,120,179
 19/12/2020,Salto(UY-SA),10,7,0,2,0,28,40
 19/12/2020,San José(UY-SJ),112,9,0,0,6,118,230
 19/12/2020,Soriano(UY-SO),13,4,0,3,5,120,136
 19/12/2020,Tacuarembó(UY-TA),31,8,0,0,2,69,100
 19/12/2020,Treinta y Tres(UY-TT),5,1,0,2,0,114,121
-19/12/2020,Casos retornados,3,0,0,0,0,0,0
 20/12/2020,Artigas(UY-AR),42,15,1,2,4,117,161
 20/12/2020,Canelones(UY-CA),738,53,0,12,60,1165,1915
 20/12/2020,Cerro Largo(UY-CL),46,9,0,2,4,180,228
@@ -4582,13 +4477,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 20/12/2020,Paysandú(UY-PA),49,6,0,0,0,30,79
 20/12/2020,Río Negro(UY-RN),5,1,0,0,0,18,23
 20/12/2020,Rivera(UY-RV),207,20,1,12,11,699,918
-20/12/2020,Rocha(UY-RO),54,5,0,0,10,130,184
+20/12/2020,Rocha(UY-RO),54,5,0,0,0,130,184
 20/12/2020,Salto(UY-SA),7,0,0,2,1,29,38
 20/12/2020,San José(UY-SJ),109,8,0,0,11,129,238
 20/12/2020,Soriano(UY-SO),9,0,0,3,2,122,134
 20/12/2020,Tacuarembó(UY-TA),32,3,0,0,2,71,103
 20/12/2020,Treinta y Tres(UY-TT),6,1,0,2,0,114,122
-20/12/2020,Casos retornados,6,0,0,0,0,0,0
 21/12/2020,Artigas(UY-AR),41,1,0,2,2,119,162
 21/12/2020,Canelones(UY-CA),757,79,0,12,63,1228,1997
 21/12/2020,Cerro Largo(UY-CL),47,5,0,2,1,181,230
@@ -4602,13 +4496,12 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 21/12/2020,Paysandú(UY-PA),47,0,0,0,2,32,79
 21/12/2020,Río Negro(UY-RN),5,1,0,0,0,18,23
 21/12/2020,Rivera(UY-RV),203,23,0,12,27,726,941
-21/12/2020,Rocha(UY-RO),53,6,0,0,5,135,188
+21/12/2020,Rocha(UY-RO),53,6,0,0,0,135,188
 21/12/2020,Salto(UY-SA),6,0,0,2,1,30,38
 21/12/2020,San José(UY-SJ),107,13,0,0,12,141,248
 21/12/2020,Soriano(UY-SO),11,2,0,3,0,122,136
 21/12/2020,Tacuarembó(UY-TA),34,4,0,0,2,73,107
 21/12/2020,Treinta y Tres(UY-TT),8,2,0,2,0,114,124
-21/12/2020,Casos retornados,12,0,0,0,0,0,0
 22/12/2020,Artigas(UY-AR),36,0,0,2,5,124,162
 22/12/2020,Canelones(UY-CA),764,61,0,12,61,1289,2065
 22/12/2020,Cerro Largo(UY-CL),46,3,0,2,4,185,233
@@ -4628,7 +4521,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 22/12/2020,Soriano(UY-SO),8,0,0,3,3,125,136
 22/12/2020,Tacuarembó(UY-TA),47,15,0,0,1,74,121
 22/12/2020,Treinta y Tres(UY-TT),9,1,0,2,0,114,125
-22/12/2020,Casos retornados,2,0,0,0,0,0,0
 23/12/2020,Artigas(UY-AR),41,6,0,2,1,125,168
 23/12/2020,Canelones(UY-CA),811,88,1,13,59,1348,2172
 23/12/2020,Cerro Largo(UY-CL),48,5,0,2,3,188,238
@@ -4648,7 +4540,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 23/12/2020,Soriano(UY-SO),10,4,0,3,2,127,140
 23/12/2020,Tacuarembó(UY-TA),55,12,1,1,1,75,131
 23/12/2020,Treinta y Tres(UY-TT),15,6,0,2,0,114,131
-23/12/2020,Casos retornados,3,0,0,0,0,0,0
 24/12/2020,Artigas(UY-AR),52,12,0,2,3,128,182
 24/12/2020,Canelones(UY-CA),849,104,0,13,75,1423,2285
 24/12/2020,Cerro Largo(UY-CL),46,2,0,2,2,190,238
@@ -4668,7 +4559,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 24/12/2020,Soriano(UY-SO),11,2,0,3,1,128,142
 24/12/2020,Tacuarembó(UY-TA),81,28,0,1,3,78,160
 24/12/2020,Treinta y Tres(UY-TT),21,5,0,2,0,114,137
-24/12/2020,Casos retornados,7,0,0,0,0,0,0
 25/12/2020,Artigas(UY-AR),52,1,0,2,1,129,183
 25/12/2020,Canelones(UY-CA),833,52,1,14,69,1492,2339
 25/12/2020,Cerro Largo(UY-CL),45,4,0,2,5,195,242
@@ -4688,7 +4578,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 25/12/2020,Soriano(UY-SO),10,0,0,3,1,129,142
 25/12/2020,Tacuarembó(UY-TA),97,19,0,1,3,81,179
 25/12/2020,Treinta y Tres(UY-TT),24,3,0,2,0,114,140
-25/12/2020,Casos retornados,0,0,0,0,0,0,0
 26/12/2020,Artigas(UY-AR),47,1,1,3,5,134,184
 26/12/2020,Canelones(UY-CA),830,60,0,14,69,1561,2405
 26/12/2020,Cerro Largo(UY-CL),42,3,0,2,6,201,245
@@ -4708,9 +4597,8 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/12/2020,Soriano(UY-SO),11,1,0,3,0,129,143
 26/12/2020,Tacuarembó(UY-TA),105,10,0,1,2,83,189
 26/12/2020,Treinta y Tres(UY-TT),25,1,0,2,0,114,141
-26/12/2020,Casos retornados,1,0,0,0,0,0,0
 27/12/2020,Artigas(UY-AR),47,4,0,3,4,138,188
-27/12/2020,Canelones(UY-CA),794,58,0,13,94,1655,2462
+27/12/2020,Canelones(UY-CA),794,57,-1,13,94,1655,2462
 27/12/2020,Cerro Largo(UY-CL),42,4,1,3,3,204,249
 27/12/2020,Colonia(UY-CO),13,0,0,0,4,205,218
 27/12/2020,Durazno(UY-DU),88,7,0,3,3,23,114
@@ -4728,12 +4616,11 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 27/12/2020,Soriano(UY-SO),11,1,1,4,0,129,144
 27/12/2020,Tacuarembó(UY-TA),109,13,1,2,5,88,199
 27/12/2020,Treinta y Tres(UY-TT),29,6,0,2,2,116,147
-27/12/2020,Casos retornados,2,0,0,0,0,0,0
 28/12/2020,Artigas(UY-AR),41,2,0,3,5,143,187
 28/12/2020,Canelones(UY-CA),773,58,0,13,103,1758,2544
 28/12/2020,Cerro Largo(UY-CL),43,11,0,3,9,213,259
 28/12/2020,Colonia(UY-CO),13,2,0,0,2,207,220
-28/12/2020,Durazno(UY-DU),86,1,0,3,3,26,115
+28/12/2020,Durazno(UY-DU),86,0,0,3,3,26,115
 28/12/2020,Flores(UY-FS),5,0,0,0,0,12,17
 28/12/2020,Florida(UY-FD),70,0,0,0,10,73,143
 28/12/2020,Lavalleja(UY-LA),28,6,0,0,5,40,68
@@ -4748,7 +4635,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 28/12/2020,Soriano(UY-SO),9,0,0,4,2,131,144
 28/12/2020,Tacuarembó(UY-TA),108,1,0,2,1,89,199
 28/12/2020,Treinta y Tres(UY-TT),28,0,0,2,1,117,147
-28/12/2020,Casos retornados,7,,0,0,0,0,0
 29/12/2020,Artigas(UY-AR),39,3,0,3,7,150,192
 29/12/2020,Canelones(UY-CA),788,79,2,15,85,1843,2646
 29/12/2020,Cerro Largo(UY-CL),49,7,0,3,1,214,266
@@ -4768,7 +4654,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 29/12/2020,Soriano(UY-SO),9,0,0,4,1,132,145
 29/12/2020,Tacuarembó(UY-TA),134,28,0,2,3,92,228
 29/12/2020,Treinta y Tres(UY-TT),28,1,0,2,1,118,148
-29/12/2020,Casos retornados,1,,0,0,0,0,0
 30/12/2020,Artigas(UY-AR),38,2,0,3,3,153,194
 30/12/2020,Canelones(UY-CA),752,54,2,17,97,1940,2709
 30/12/2020,Cerro Largo(UY-CL),50,6,0,3,5,219,272
@@ -4777,7 +4662,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 30/12/2020,Flores(UY-FS),6,1,0,0,0,12,18
 30/12/2020,Florida(UY-FD),71,4,0,0,10,88,159
 30/12/2020,Lavalleja(UY-LA),35,9,0,0,2,44,79
-30/12/2020,Maldonado(UY-MA),122,8,0,6,6,304,432
+30/12/2020,Maldonado(UY-MA),122,8,-1,6,6,304,432
 30/12/2020,Montevideo(UY-MO),3387,335,5,114,314,8177,11678
 30/12/2020,Paysandú(UY-PA),27,1,0,0,5,82,109
 30/12/2020,Río Negro(UY-RN),21,0,0,1,2,22,44
@@ -4788,7 +4673,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 30/12/2020,Soriano(UY-SO),10,2,0,4,0,132,146
 30/12/2020,Tacuarembó(UY-TA),147,14,0,2,2,94,243
 30/12/2020,Treinta y Tres(UY-TT),31,5,0,2,2,120,153
-30/12/2020,Casos retornados,1,0,0,0,0,0,0
 31/12/2020,Artigas(UY-AR),33,11,0,3,14,167,203
 31/12/2020,Canelones(UY-CA),791,69,0,17,48,1988,2796
 31/12/2020,Cerro Largo(UY-CL),54,7,0,3,1,220,277
@@ -4808,7 +4692,6 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 31/12/2020,Soriano(UY-SO),9,0,0,4,1,133,146
 31/12/2020,Tacuarembó(UY-TA),157,20,0,2,8,102,261
 31/12/2020,Treinta y Tres(UY-TT),31,2,0,2,2,122,155
-31/12/2020,Casos retornados,0,,0,0,0,0,0
 01/01/2021,Artigas(UY-AR),39,8,0,3,3,170,212
 01/01/2021,Canelones(UY-CA),804,97,3,20,88,2076,2900
 01/01/2021,Cerro Largo(UY-CL),60,9,0,3,4,224,287
@@ -4818,17 +4701,16 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 01/01/2021,Florida(UY-FD),67,5,0,0,7,105,172
 01/01/2021,Lavalleja(UY-LA),35,1,0,0,1,46,81
 01/01/2021,Maldonado(UY-MA),133,17,0,6,8,326,465
-01/01/2021,Montevideo(UY-MO),3483,377,8,125,340,8842,12450
+01/01/2021,Montevideo(UY-MO),3483,377,7,125,340,8842,12450
 01/01/2021,Paysandú(UY-PA),31,5,0,0,0,86,117
 01/01/2021,Río Negro(UY-RN),27,3,0,1,0,22,50
-01/01/2021,Rivera(UY-RV),296,19,0,16,23,965,1277
+01/01/2021,Rivera(UY-RV),296,20,1,16,23,965,1277
 01/01/2021,Rocha(UY-RO),39,8,0,1,2,189,229
 01/01/2021,Salto(UY-SA),28,6,0,2,1,38,68
 01/01/2021,San José(UY-SJ),210,44,0,2,14,248,460
 01/01/2021,Soriano(UY-SO),9,1,1,5,0,133,147
 01/01/2021,Tacuarembó(UY-TA),154,11,0,2,14,116,272
 01/01/2021,Treinta y Tres(UY-TT),35,6,0,2,2,124,161
-01/01/2021,Casos retornados,0,0,0,0,0,0,0
 02/01/2021,Artigas(UY-AR),41,4,0,3,2,172,216
 02/01/2021,Canelones(UY-CA),761,45,1,21,99,2175,2957
 02/01/2021,Cerro Largo(UY-CL),66,9,0,3,3,227,296
@@ -4837,15 +4719,33 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 02/01/2021,Flores(UY-FS),4,0,0,0,1,14,18
 02/01/2021,Florida(UY-FD),48,0,0,0,18,123,171
 02/01/2021,Lavalleja(UY-LA),41,7,0,0,1,47,88
-02/01/2021,Maldonado(UY-MA),145,18,1,8,11,337,490
+02/01/2021,Maldonado(UY-MA),145,18,2,8,11,337,490
 02/01/2021,Montevideo(UY-MO),3386,302,5,130,379,9221,12737
 02/01/2021,Paysandú(UY-PA),26,0,0,0,5,91,117
 02/01/2021,Río Negro(UY-RN),22,0,0,1,5,27,50
-02/01/2021,Rivera(UY-RV),307,41,1,16,27,992,1315
+02/01/2021,Rivera(UY-RV),307,41,0,16,27,992,1315
 02/01/2021,Rocha(UY-RO),49,12,0,1,3,192,242
 02/01/2021,Salto(UY-SA),25,3,0,2,5,43,70
 02/01/2021,San José(UY-SJ),240,39,0,2,12,260,502
 02/01/2021,Soriano(UY-SO),9,0,0,5,1,134,148
 02/01/2021,Tacuarembó(UY-TA),152,13,0,2,14,130,284
 02/01/2021,Treinta y Tres(UY-TT),36,5,0,2,1,125,163
-02/01/2021,Casos retornados,0,0,0,0,0,0,0
+03/01/2021,Artigas(UY-AR),51,10,0,3,2,174,228
+03/01/2021,Canelones(UY-CA),761,60,1,22,80,2255,3038
+03/01/2021,Cerro Largo(UY-CL),76,13,0,3,3,230,309
+03/01/2021,Colonia(UY-CO),26,2,0,0,1,214,240
+03/01/2021,Durazno(UY-DU),96,2,0,5,8,77,178
+03/01/2021,Flores(UY-FS),4,1,0,0,1,15,19
+03/01/2021,Florida(UY-FD),51,7,0,0,4,127,178
+03/01/2021,Lavalleja(UY-LA),43,2,0,0,2,49,92
+03/01/2021,Maldonado(UY-MA),154,20,0,8,14,351,513
+03/01/2021,Montevideo(UY-MO),3357,358,1,131,339,9560,13048
+03/01/2021,Paysandú(UY-PA),24,3,0,0,2,93,117
+03/01/2021,Río Negro(UY-RN),22,11,0,1,3,30,53
+03/01/2021,Rivera(UY-RV),290,4,0,16,30,1022,1328
+03/01/2021,Rocha(UY-RO),51,22,0,1,4,196,248
+03/01/2021,Salto(UY-SA),44,25,0,2,1,44,90
+03/01/2021,San José(UY-SJ),258,2,1,3,10,270,531
+03/01/2021,Soriano(UY-SO),10,0,0,5,0,134,149
+03/01/2021,Tacuarembó(UY-TA),140,15,0,2,27,157,299
+03/01/2021,Treinta y Tres(UY-TT),36,2,0,2,2,127,165
