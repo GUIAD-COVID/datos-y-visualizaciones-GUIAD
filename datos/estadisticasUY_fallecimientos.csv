@@ -248,10 +248,10 @@ fecha,nombre,edad
 09/01/2021,Montevideo,77
 09/01/2021,Montevideo,62
 10/01/2021,Canelones,75
-10/01/2021,Montevideo,87
+10/01/2021,Montevideo,81
 10/01/2021,Montevideo,91
 10/01/2021,Montevideo,87
-10/01/2021,Montevideo,81
+10/01/2021,Montevideo,87
 10/01/2021,Montevideo,81
 10/01/2021,Montevideo,80
 10/01/2021,Montevideo,72
@@ -314,8 +314,8 @@ fecha,nombre,edad
 18/01/2021,Cerro Largo,75
 18/01/2021,Montevideo,80
 18/01/2021,Montevideo,51
-18/01/2021,Montevideo,53
 18/01/2021,Montevideo,80
+18/01/2021,Montevideo,53
 18/01/2021,Rivera,83
 18/01/2021,Soriano,79
 19/01/2021,Cerro Largo,49
@@ -393,8 +393,8 @@ fecha,nombre,edad
 26/01/2021,Canelones,72
 26/01/2021,Durazno,94
 26/01/2021,Florida,65
-26/01/2021,Montevideo,86
 26/01/2021,Montevideo,85
+26/01/2021,Montevideo,86
 26/01/2021,Montevideo,83
 26/01/2021,Montevideo,80
 26/01/2021,Rivera,75
@@ -466,8 +466,8 @@ fecha,nombre,edad
 04/02/2021,Artigas,61
 04/02/2021,Canelones,57
 04/02/2021,Colonia,75
-04/02/2021,Montevideo,45
 04/02/2021,Montevideo,64
+04/02/2021,Montevideo,45
 04/02/2021,Montevideo,79
 04/02/2021,Montevideo,81
 04/02/2021,Montevideo,82
@@ -496,30 +496,33 @@ fecha,nombre,edad
 08/02/2021,Montevideo,70
 08/02/2021,Montevideo,82
 08/02/2021,Montevideo,78
-09/02/2021,Montevideo,89
-09/02/2021,Montevideo,49
 09/02/2021,Montevideo,61
+09/02/2021,Montevideo,49
 09/02/2021,Montevideo,62
 09/02/2021,Montevideo,67
 09/02/2021,Montevideo,79
 09/02/2021,Montevideo,79
+09/02/2021,Montevideo,89
 09/02/2021,Salto,69
 09/02/2021,Soriano,82
+10/02/2021,Montevideo,91
+10/02/2021,Montevideo,25
 10/02/2021,Montevideo,57
+10/02/2021,Montevideo,60
 10/02/2021,Montevideo,73
 10/02/2021,Montevideo,83
-10/02/2021,Montevideo,91
 10/02/2021,Montevideo,94
-10/02/2021,Montevideo,25
-10/02/2021,Montevideo,60
-10/02/2021,Paysandú,88
 10/02/2021,Paysandú,86
+10/02/2021,Paysandú,88
 10/02/2021,San José,70
 11/02/2021,Canelones,94
 11/02/2021,Montevideo,72
 11/02/2021,Montevideo,66
+11/02/2021,Montevideo,64
 11/02/2021,Montevideo,86
 11/02/2021,Montevideo,50
-11/02/2021,Montevideo,64
 11/02/2021,Soriano,66
 11/02/2021,Tacuarembó,83
+12/02/2021,Montevideo,78
+12/02/2021,Montevideo,83
+12/02/2021,Montevideo,78
