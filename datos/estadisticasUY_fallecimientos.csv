@@ -120,40 +120,65 @@ fecha,nombre,edad
 20/12/2020,Rivera,63
 22/12/2020,Montevideo,75
 23/12/2020,Canelones,80
+<<<<<<< HEAD
 23/12/2020,Montevideo,80
 23/12/2020,Montevideo,81
 23/12/2020,Montevideo,87
 23/12/2020,Montevideo,91
 23/12/2020,Montevideo,62
 23/12/2020,Montevideo,69
+=======
+23/12/2020,Montevideo,62
+23/12/2020,Montevideo,91
+23/12/2020,Montevideo,80
+23/12/2020,Montevideo,69
+23/12/2020,Montevideo,87
+23/12/2020,Montevideo,81
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 23/12/2020,Tacuarembó,54
 24/12/2020,Durazno,84
 24/12/2020,Durazno,88
 24/12/2020,Montevideo,78
-24/12/2020,Montevideo,83
 24/12/2020,Montevideo,92
+24/12/2020,Montevideo,83
 24/12/2020,Rivera,84
 24/12/2020,San José,69
 25/12/2020,Canelones,61
 25/12/2020,Durazno,76
 25/12/2020,Montevideo,80
+<<<<<<< HEAD
 25/12/2020,Montevideo,75
 25/12/2020,Montevideo,39
 25/12/2020,Montevideo,80
 25/12/2020,Montevideo,64
+=======
+25/12/2020,Montevideo,80
+25/12/2020,Montevideo,64
+25/12/2020,Montevideo,75
+25/12/2020,Montevideo,39
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 25/12/2020,Río Negro,84
 26/12/2020,Artigas,58
 26/12/2020,Maldonado,88
 26/12/2020,Montevideo,83
 26/12/2020,Montevideo,84
 27/12/2020,Cerro Largo,77
+<<<<<<< HEAD
+=======
+27/12/2020,Montevideo,96
+27/12/2020,Montevideo,60
+27/12/2020,Montevideo,62
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 27/12/2020,Montevideo,69
 27/12/2020,Montevideo,80
 27/12/2020,Montevideo,90
 27/12/2020,Montevideo,91
+<<<<<<< HEAD
 27/12/2020,Montevideo,96
 27/12/2020,Montevideo,62
 27/12/2020,Montevideo,60
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 27/12/2020,Rivera,66
 27/12/2020,Soriano,75
 27/12/2020,Tacuarembó,60
@@ -180,9 +205,19 @@ fecha,nombre,edad
 31/12/2020,Montevideo,100
 31/12/2020,Montevideo,76
 31/12/2020,Rivera,82
+<<<<<<< HEAD
 01/01/2021,Canelones,82
 01/01/2021,Canelones,87
 01/01/2021,Canelones,72
+=======
+01/01/2021,Canelones,87
+01/01/2021,Canelones,82
+01/01/2021,Canelones,72
+01/01/2021,Montevideo,79
+01/01/2021,Montevideo,76
+01/01/2021,Montevideo,74
+01/01/2021,Montevideo,72
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 01/01/2021,Montevideo,70
 01/01/2021,Montevideo,74
 01/01/2021,Montevideo,76
@@ -204,29 +239,51 @@ fecha,nombre,edad
 03/01/2021,Montevideo,74
 03/01/2021,San José,59
 04/01/2021,Montevideo,75
+<<<<<<< HEAD
 04/01/2021,Montevideo,87
 04/01/2021,Montevideo,86
 04/01/2021,Montevideo,85
 04/01/2021,Rivera,83
+=======
+04/01/2021,Montevideo,85
+04/01/2021,Montevideo,86
+04/01/2021,Montevideo,87
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 04/01/2021,Rivera,60
+04/01/2021,Rivera,83
 04/01/2021,Soriano,46
 05/01/2021,Montevideo,85
 05/01/2021,Montevideo,82
 05/01/2021,Montevideo,56
 05/01/2021,Montevideo,50
 05/01/2021,Montevideo,89
+<<<<<<< HEAD
 05/01/2021,Montevideo,81
+=======
+05/01/2021,Montevideo,85
+06/01/2021,Montevideo,67
+06/01/2021,Montevideo,89
+06/01/2021,Montevideo,88
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 06/01/2021,Montevideo,65
 06/01/2021,Montevideo,67
 06/01/2021,Montevideo,88
 06/01/2021,Montevideo,89
 07/01/2021,Canelones,94
+<<<<<<< HEAD
 07/01/2021,Montevideo,64
+=======
+07/01/2021,Montevideo,96
+07/01/2021,Montevideo,89
+07/01/2021,Montevideo,83
+07/01/2021,Montevideo,81
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 07/01/2021,Montevideo,81
 07/01/2021,Montevideo,81
 07/01/2021,Montevideo,79
 07/01/2021,Montevideo,83
 07/01/2021,Montevideo,76
+<<<<<<< HEAD
 07/01/2021,Montevideo,96
 07/01/2021,Montevideo,89
 07/01/2021,Montevideo,75
@@ -239,6 +296,19 @@ fecha,nombre,edad
 08/01/2021,Montevideo,86
 08/01/2021,Montevideo,80
 08/01/2021,Montevideo,68
+=======
+07/01/2021,Montevideo,75
+07/01/2021,Montevideo,64
+08/01/2021,Canelones,78
+08/01/2021,Cerro Largo,46
+08/01/2021,Cerro Largo,69
+08/01/2021,Montevideo,68
+08/01/2021,Montevideo,80
+08/01/2021,Montevideo,81
+08/01/2021,Montevideo,86
+08/01/2021,Montevideo,87
+08/01/2021,Montevideo,92
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 09/01/2021,Montevideo,23
 09/01/2021,Montevideo,92
 09/01/2021,Montevideo,90
@@ -258,6 +328,7 @@ fecha,nombre,edad
 11/01/2021,Cerro Largo,88
 11/01/2021,Montevideo,90
 11/01/2021,Montevideo,94
+<<<<<<< HEAD
 11/01/2021,Montevideo,73
 11/01/2021,Montevideo,74
 11/01/2021,Rivera,91
@@ -278,14 +349,46 @@ fecha,nombre,edad
 14/01/2021,Montevideo,87
 14/01/2021,Montevideo,83
 14/01/2021,Montevideo,72
+=======
+11/01/2021,Montevideo,90
+11/01/2021,Montevideo,74
+11/01/2021,Montevideo,73
+11/01/2021,Rivera,91
+12/01/2021,Canelones,87
+12/01/2021,Montevideo,77
+12/01/2021,Montevideo,94
+12/01/2021,Montevideo,89
+12/01/2021,Montevideo,87
+12/01/2021,Montevideo,73
+12/01/2021,Montevideo,65
+13/01/2021,Montevideo,102
+13/01/2021,Montevideo,80
+13/01/2021,Montevideo,85
+13/01/2021,Montevideo,86
+13/01/2021,Montevideo,96
+13/01/2021,San José,84
+14/01/2021,Lavalleja,66
+14/01/2021,Montevideo,83
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 14/01/2021,Montevideo,71
+14/01/2021,Montevideo,87
+14/01/2021,Montevideo,72
 15/01/2021,Canelones,55
+<<<<<<< HEAD
 15/01/2021,Montevideo,94
 15/01/2021,Montevideo,85
 15/01/2021,Montevideo,84
 15/01/2021,Montevideo,77
 15/01/2021,Montevideo,75
 15/01/2021,Montevideo,68
+=======
+15/01/2021,Montevideo,77
+15/01/2021,Montevideo,85
+15/01/2021,Montevideo,94
+15/01/2021,Montevideo,68
+15/01/2021,Montevideo,75
+15/01/2021,Montevideo,84
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 15/01/2021,Montevideo,61
 15/01/2021,Paysandú,74
 15/01/2021,Soriano,76
@@ -293,21 +396,36 @@ fecha,nombre,edad
 16/01/2021,Artigas,61
 16/01/2021,Canelones,82
 16/01/2021,Maldonado,64
+16/01/2021,Montevideo,91
 16/01/2021,Montevideo,89
+<<<<<<< HEAD
 16/01/2021,Montevideo,91
 16/01/2021,Montevideo,81
 16/01/2021,San José,87
 17/01/2021,Canelones,79
 17/01/2021,Canelones,86
 17/01/2021,Canelones,63
+=======
+16/01/2021,Montevideo,81
+16/01/2021,San José,87
+17/01/2021,Canelones,79
+17/01/2021,Canelones,63
+17/01/2021,Canelones,86
+17/01/2021,Montevideo,56
+17/01/2021,Montevideo,95
+17/01/2021,Montevideo,88
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 17/01/2021,Montevideo,86
 17/01/2021,Montevideo,83
 17/01/2021,Montevideo,80
 17/01/2021,Montevideo,64
 17/01/2021,Montevideo,64
+<<<<<<< HEAD
 17/01/2021,Montevideo,56
 17/01/2021,Montevideo,95
 17/01/2021,Montevideo,88
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 17/01/2021,Rivera,84
 17/01/2021,Soriano,87
 18/01/2021,Artigas,59
@@ -315,11 +433,13 @@ fecha,nombre,edad
 18/01/2021,Montevideo,80
 18/01/2021,Montevideo,53
 18/01/2021,Montevideo,80
+18/01/2021,Montevideo,53
 18/01/2021,Montevideo,51
 18/01/2021,Rivera,83
 18/01/2021,Soriano,79
 19/01/2021,Cerro Largo,49
 19/01/2021,Maldonado,87
+<<<<<<< HEAD
 19/01/2021,Montevideo,76
 19/01/2021,Montevideo,60
 19/01/2021,Montevideo,76
@@ -329,15 +449,30 @@ fecha,nombre,edad
 19/01/2021,Montevideo,88
 19/01/2021,Montevideo,90
 19/01/2021,Montevideo,93
+=======
+19/01/2021,Montevideo,86
+19/01/2021,Montevideo,83
+19/01/2021,Montevideo,82
+19/01/2021,Montevideo,93
+19/01/2021,Montevideo,90
+19/01/2021,Montevideo,88
+19/01/2021,Montevideo,76
+19/01/2021,Montevideo,60
+19/01/2021,Montevideo,76
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 20/01/2021,Artigas,95
 20/01/2021,Durazno,69
-20/01/2021,Montevideo,77
 20/01/2021,Montevideo,85
+20/01/2021,Montevideo,77
 20/01/2021,San José,71
 20/01/2021,Tacuarembó,76
 21/01/2021,Canelones,72
 21/01/2021,Canelones,85
+<<<<<<< HEAD
 21/01/2021,Montevideo,69
+=======
+21/01/2021,Montevideo,65
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 21/01/2021,Montevideo,86
 21/01/2021,Montevideo,84
 21/01/2021,Montevideo,80
@@ -345,11 +480,16 @@ fecha,nombre,edad
 21/01/2021,Montevideo,71
 21/01/2021,Montevideo,71
 21/01/2021,Montevideo,70
+<<<<<<< HEAD
 21/01/2021,Montevideo,65
+=======
+21/01/2021,Montevideo,69
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 22/01/2021,Artigas,67
 22/01/2021,Cerro Largo,68
 22/01/2021,Cerro Largo,80
 22/01/2021,Maldonado,62
+<<<<<<< HEAD
 22/01/2021,Montevideo,67
 22/01/2021,Montevideo,84
 22/01/2021,Montevideo,85
@@ -358,21 +498,42 @@ fecha,nombre,edad
 22/01/2021,Montevideo,86
 22/01/2021,Montevideo,89
 22/01/2021,Montevideo,60
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 22/01/2021,Montevideo,63
-22/01/2021,Montevideo,64
+22/01/2021,Montevideo,94
+22/01/2021,Montevideo,89
 22/01/2021,Montevideo,66
+<<<<<<< HEAD
+=======
+22/01/2021,Montevideo,67
+22/01/2021,Montevideo,84
+22/01/2021,Montevideo,85
+22/01/2021,Montevideo,86
+22/01/2021,Montevideo,86
+22/01/2021,Montevideo,60
+22/01/2021,Montevideo,64
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 22/01/2021,Salto,92
 22/01/2021,Soriano,84
 23/01/2021,Montevideo,89
 23/01/2021,Montevideo,72
 23/01/2021,Salto,72
 24/01/2021,Durazno,87
+<<<<<<< HEAD
 24/01/2021,Montevideo,59
+=======
+24/01/2021,Montevideo,89
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 24/01/2021,Montevideo,98
 24/01/2021,Montevideo,95
 24/01/2021,Montevideo,89
 24/01/2021,Montevideo,87
 24/01/2021,Montevideo,62
+<<<<<<< HEAD
+=======
+24/01/2021,Montevideo,59
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 24/01/2021,Montevideo,57
 24/01/2021,Rocha,58
 25/01/2021,Canelones,77
@@ -384,8 +545,16 @@ fecha,nombre,edad
 25/01/2021,Montevideo,77
 25/01/2021,Montevideo,77
 25/01/2021,Montevideo,74
+<<<<<<< HEAD
 25/01/2021,Montevideo,94
+=======
+25/01/2021,Montevideo,66
+25/01/2021,Montevideo,63
+25/01/2021,Montevideo,60
+25/01/2021,Montevideo,54
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 25/01/2021,Montevideo,88
+25/01/2021,Montevideo,94
 25/01/2021,Paysandú,79
 25/01/2021,Rivera,76
 25/01/2021,Tacuarembó,80
@@ -395,8 +564,14 @@ fecha,nombre,edad
 26/01/2021,Florida,65
 26/01/2021,Montevideo,85
 26/01/2021,Montevideo,86
+<<<<<<< HEAD
 26/01/2021,Montevideo,83
 26/01/2021,Montevideo,80
+=======
+26/01/2021,Montevideo,85
+26/01/2021,Montevideo,80
+26/01/2021,Montevideo,83
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 26/01/2021,Rivera,75
 26/01/2021,San José,63
 26/01/2021,Treinta y Tres,72
@@ -408,16 +583,26 @@ fecha,nombre,edad
 27/01/2021,Treinta y Tres,68
 28/01/2021,Canelones,94
 28/01/2021,Montevideo,91
+<<<<<<< HEAD
 28/01/2021,Montevideo,62
 28/01/2021,Montevideo,93
+=======
+28/01/2021,Montevideo,88
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 28/01/2021,Montevideo,77
 28/01/2021,Montevideo,88
 28/01/2021,Montevideo,73
+<<<<<<< HEAD
+=======
+28/01/2021,Montevideo,62
+28/01/2021,Montevideo,93
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 28/01/2021,Rivera,82
 29/01/2021,Canelones,65
 29/01/2021,Canelones,78
 29/01/2021,Canelones,65
 29/01/2021,Montevideo,78
+<<<<<<< HEAD
 29/01/2021,Montevideo,88
 29/01/2021,Montevideo,88
 29/01/2021,Montevideo,86
@@ -427,7 +612,19 @@ fecha,nombre,edad
 30/01/2021,Canelones,76
 30/01/2021,Canelones,58
 30/01/2021,Canelones,72
+=======
+29/01/2021,Montevideo,71
+29/01/2021,Montevideo,70
+29/01/2021,Montevideo,56
+29/01/2021,Montevideo,88
+29/01/2021,Montevideo,88
+29/01/2021,Montevideo,86
+30/01/2021,Canelones,76
+30/01/2021,Canelones,72
+30/01/2021,Canelones,58
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 30/01/2021,Montevideo,88
+30/01/2021,Montevideo,69
 30/01/2021,Montevideo,73
 30/01/2021,Montevideo,69
 31/01/2021,Canelones,96
@@ -436,30 +633,44 @@ fecha,nombre,edad
 31/01/2021,Montevideo,69
 31/01/2021,Montevideo,93
 01/02/2021,Canelones,92
+<<<<<<< HEAD
 01/02/2021,Montevideo,91
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 01/02/2021,Montevideo,62
 01/02/2021,Montevideo,83
 01/02/2021,Montevideo,87
 01/02/2021,Montevideo,90
 01/02/2021,Montevideo,103
 01/02/2021,Rivera,66
-02/02/2021,Canelones,74
 02/02/2021,Canelones,65
+02/02/2021,Canelones,74
 02/02/2021,Durazno,80
 02/02/2021,Maldonado,88
+<<<<<<< HEAD
 02/02/2021,Maldonado,75
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 02/02/2021,Montevideo,97
 02/02/2021,Montevideo,70
 02/02/2021,Montevideo,92
+02/02/2021,Montevideo,70
 02/02/2021,Rivera,78
 03/02/2021,Canelones,83
 03/02/2021,Canelones,88
 03/02/2021,Maldonado,96
+<<<<<<< HEAD
+=======
+03/02/2021,Montevideo,32
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 03/02/2021,Montevideo,88
 03/02/2021,Montevideo,77
 03/02/2021,Montevideo,73
 03/02/2021,Montevideo,71
+<<<<<<< HEAD
 03/02/2021,Montevideo,32
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 03/02/2021,Montevideo,94
 03/02/2021,Rivera,80
 03/02/2021,Tacuarembó,93
@@ -468,11 +679,20 @@ fecha,nombre,edad
 04/02/2021,Colonia,75
 04/02/2021,Montevideo,82
 04/02/2021,Montevideo,96
+<<<<<<< HEAD
 04/02/2021,Montevideo,45
 04/02/2021,Montevideo,64
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 04/02/2021,Montevideo,79
+04/02/2021,Montevideo,64
 04/02/2021,Montevideo,81
+04/02/2021,Montevideo,45
 04/02/2021,Montevideo,82
+<<<<<<< HEAD
+=======
+04/02/2021,Montevideo,82
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 04/02/2021,Rivera,54
 04/02/2021,Rivera,54
 05/02/2021,Canelones,72
@@ -481,6 +701,7 @@ fecha,nombre,edad
 06/02/2021,Montevideo,59
 06/02/2021,Montevideo,62
 07/02/2021,Maldonado,57
+<<<<<<< HEAD
 07/02/2021,Montevideo,63
 07/02/2021,Montevideo,64
 07/02/2021,Montevideo,77
@@ -496,6 +717,23 @@ fecha,nombre,edad
 08/02/2021,Montevideo,93
 08/02/2021,Montevideo,78
 08/02/2021,Montevideo,70
+=======
+07/02/2021,Montevideo,60
+07/02/2021,Montevideo,77
+07/02/2021,Montevideo,78
+07/02/2021,Montevideo,91
+07/02/2021,Montevideo,95
+07/02/2021,Montevideo,63
+07/02/2021,Montevideo,63
+07/02/2021,Montevideo,64
+08/02/2021,Canelones,75
+08/02/2021,Canelones,71
+08/02/2021,Canelones,59
+08/02/2021,Montevideo,93
+08/02/2021,Montevideo,70
+08/02/2021,Montevideo,78
+08/02/2021,Montevideo,82
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 09/02/2021,Montevideo,79
 09/02/2021,Montevideo,49
 09/02/2021,Montevideo,61
@@ -505,31 +743,55 @@ fecha,nombre,edad
 09/02/2021,Montevideo,89
 09/02/2021,Salto,69
 09/02/2021,Soriano,82
+<<<<<<< HEAD
+=======
+10/02/2021,Montevideo,91
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 10/02/2021,Montevideo,25
 10/02/2021,Montevideo,57
 10/02/2021,Montevideo,60
 10/02/2021,Montevideo,73
+<<<<<<< HEAD
 10/02/2021,Montevideo,91
 10/02/2021,Montevideo,83
 10/02/2021,Montevideo,94
+=======
+10/02/2021,Montevideo,83
+10/02/2021,Montevideo,94
+10/02/2021,Paysandú,88
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 10/02/2021,Paysandú,86
 10/02/2021,Paysandú,88
 10/02/2021,San José,70
 11/02/2021,Canelones,94
+<<<<<<< HEAD
 11/02/2021,Montevideo,86
 11/02/2021,Montevideo,50
 11/02/2021,Montevideo,64
 11/02/2021,Montevideo,66
 11/02/2021,Montevideo,72
+=======
+11/02/2021,Montevideo,66
+11/02/2021,Montevideo,50
+11/02/2021,Montevideo,64
+11/02/2021,Montevideo,72
+11/02/2021,Montevideo,86
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 11/02/2021,Soriano,66
 11/02/2021,Tacuarembó,83
 12/02/2021,Montevideo,78
 12/02/2021,Montevideo,78
 12/02/2021,Montevideo,83
+<<<<<<< HEAD
 13/02/2021,Canelones,92
 13/02/2021,Canelones,89
 13/02/2021,Montevideo,70
+=======
+13/02/2021,Canelones,89
+13/02/2021,Canelones,92
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 13/02/2021,Montevideo,77
+13/02/2021,Montevideo,70
 13/02/2021,Montevideo,93
 13/02/2021,Rocha,93
 14/02/2021,Canelones,84
@@ -546,9 +808,9 @@ fecha,nombre,edad
 16/02/2021,Paysandú,61
 16/02/2021,Tacuarembó,85
 17/02/2021,Cerro Largo,78
-17/02/2021,Montevideo,72
 17/02/2021,Montevideo,85
 17/02/2021,Montevideo,95
+17/02/2021,Montevideo,72
 17/02/2021,Paysandú,95
 17/02/2021,Rivera,78
 17/02/2021,Soriano,74
@@ -564,10 +826,10 @@ fecha,nombre,edad
 19/02/2021,Montevideo,87
 20/02/2021,Artigas,91
 20/02/2021,Durazno,44
-20/02/2021,Montevideo,64
 20/02/2021,Montevideo,67
-20/02/2021,Montevideo,76
 20/02/2021,Montevideo,78
+20/02/2021,Montevideo,76
+20/02/2021,Montevideo,64
 21/02/2021,Canelones,67
 21/02/2021,Canelones,96
 21/02/2021,Montevideo,23
@@ -582,10 +844,17 @@ fecha,nombre,edad
 22/02/2021,Montevideo,80
 22/02/2021,Montevideo,91
 22/02/2021,Paysandú,67
+<<<<<<< HEAD
 23/02/2021,Montevideo,69
 23/02/2021,Montevideo,98
 23/02/2021,Montevideo,55
 23/02/2021,Montevideo,57
+=======
+23/02/2021,Montevideo,98
+23/02/2021,Montevideo,55
+23/02/2021,Montevideo,57
+23/02/2021,Montevideo,69
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 23/02/2021,Rivera,64
 23/02/2021,San José,79
 24/02/2021,Canelones,67
@@ -614,6 +883,7 @@ fecha,nombre,edad
 02/03/2021,Canelones,78
 02/03/2021,Durazno,83
 02/03/2021,Montevideo,77
+<<<<<<< HEAD
 02/03/2021,Montevideo,66
 02/03/2021,Montevideo,75
 02/03/2021,Montevideo,98
@@ -628,6 +898,22 @@ fecha,nombre,edad
 04/03/2021,Montevideo,91
 04/03/2021,Montevideo,83
 04/03/2021,Montevideo,81
+=======
+02/03/2021,Montevideo,98
+02/03/2021,Montevideo,75
+02/03/2021,Montevideo,66
+02/03/2021,Río Negro,66
+03/03/2021,Montevideo,64
+03/03/2021,Montevideo,89
+03/03/2021,Montevideo,83
+03/03/2021,Montevideo,82
+03/03/2021,Montevideo,72
+03/03/2021,Rivera,82
+04/03/2021,Flores,79
+04/03/2021,Montevideo,83
+04/03/2021,Montevideo,81
+04/03/2021,Montevideo,91
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 04/03/2021,Montevideo,73
 04/03/2021,Salto,83
 04/03/2021,San José,67
@@ -646,12 +932,20 @@ fecha,nombre,edad
 06/03/2021,Río Negro,79
 06/03/2021,San José,81
 07/03/2021,Durazno,51
+<<<<<<< HEAD
 07/03/2021,Montevideo,91
 07/03/2021,Montevideo,71
 07/03/2021,Montevideo,90
+=======
+07/03/2021,Montevideo,90
+07/03/2021,Montevideo,91
+07/03/2021,Montevideo,71
+07/03/2021,Rivera,87
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 07/03/2021,Rivera,73
 07/03/2021,Rivera,87
 08/03/2021,Durazno,99
+08/03/2021,Montevideo,75
 08/03/2021,Montevideo,67
 08/03/2021,Montevideo,75
 08/03/2021,Montevideo,82
@@ -663,16 +957,28 @@ fecha,nombre,edad
 09/03/2021,Durazno,75
 09/03/2021,Montevideo,91
 09/03/2021,Montevideo,54
+09/03/2021,Montevideo,97
 09/03/2021,Montevideo,61
 09/03/2021,Montevideo,65
+<<<<<<< HEAD
 09/03/2021,Montevideo,97
+=======
+09/03/2021,Montevideo,91
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 10/03/2021,Artigas,90
 10/03/2021,Canelones,85
+<<<<<<< HEAD
 10/03/2021,Canelones,65
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 10/03/2021,Montevideo,92
 10/03/2021,Montevideo,72
 10/03/2021,Montevideo,87
 10/03/2021,Montevideo,72
+<<<<<<< HEAD
+=======
+10/03/2021,Montevideo,87
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 10/03/2021,Rivera,84
 10/03/2021,Salto,76
 10/03/2021,Salto,79
@@ -689,16 +995,28 @@ fecha,nombre,edad
 12/03/2021,Montevideo,75
 12/03/2021,Montevideo,63
 12/03/2021,Tacuarembó,68
+<<<<<<< HEAD
 13/03/2021,Montevideo,89
 13/03/2021,Montevideo,95
 13/03/2021,Montevideo,47
 13/03/2021,Montevideo,73
 13/03/2021,Montevideo,84
+=======
+13/03/2021,Montevideo,84
+13/03/2021,Montevideo,89
+13/03/2021,Montevideo,95
+13/03/2021,Montevideo,72
+13/03/2021,Montevideo,47
+13/03/2021,Montevideo,73
+13/03/2021,Montevideo,73
+13/03/2021,Montevideo,77
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 13/03/2021,Montevideo,76
 13/03/2021,Montevideo,77
 13/03/2021,Montevideo,72
 13/03/2021,Montevideo,73
 14/03/2021,Cerro Largo,71
+<<<<<<< HEAD
 14/03/2021,Cerro Largo,74
 14/03/2021,Montevideo,83
 14/03/2021,Montevideo,62
@@ -706,15 +1024,29 @@ fecha,nombre,edad
 14/03/2021,Montevideo,68
 14/03/2021,Montevideo,76
 14/03/2021,Montevideo,78
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 14/03/2021,Montevideo,81
 14/03/2021,Montevideo,85
 14/03/2021,Montevideo,92
+<<<<<<< HEAD
+=======
+14/03/2021,Montevideo,68
+14/03/2021,Montevideo,66
+14/03/2021,Montevideo,62
+14/03/2021,Montevideo,78
+14/03/2021,Montevideo,76
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 14/03/2021,Paysandú,91
 14/03/2021,Rocha,47
 14/03/2021,San José,37
 15/03/2021,Colonia,96
 15/03/2021,Montevideo,92
 15/03/2021,Montevideo,81
+<<<<<<< HEAD
+=======
+15/03/2021,Montevideo,92
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 15/03/2021,Montevideo,82
 15/03/2021,San José,66
 16/03/2021,Canelones,88
@@ -726,47 +1058,83 @@ fecha,nombre,edad
 16/03/2021,Rocha,73
 16/03/2021,San José,86
 17/03/2021,Canelones,89
-17/03/2021,Cerro Largo,68
 17/03/2021,Cerro Largo,65
+<<<<<<< HEAD
 17/03/2021,Montevideo,91
 17/03/2021,Montevideo,82
 17/03/2021,Montevideo,95
+=======
+17/03/2021,Cerro Largo,68
+17/03/2021,Montevideo,83
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 17/03/2021,Montevideo,62
 17/03/2021,Montevideo,67
 17/03/2021,Montevideo,74
 17/03/2021,Montevideo,82
+<<<<<<< HEAD
 17/03/2021,Montevideo,83
 17/03/2021,Río Negro,92
 17/03/2021,Río Negro,60
+=======
+17/03/2021,Montevideo,82
+17/03/2021,Montevideo,91
+17/03/2021,Montevideo,95
+17/03/2021,Río Negro,60
+17/03/2021,Río Negro,92
+17/03/2021,Salto,78
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 17/03/2021,Salto,37
 17/03/2021,Salto,78
 18/03/2021,Artigas,88
+<<<<<<< HEAD
 18/03/2021,Montevideo,28
 18/03/2021,Montevideo,70
 18/03/2021,Montevideo,73
 18/03/2021,Montevideo,88
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 18/03/2021,Montevideo,90
-18/03/2021,Montevideo,95
 18/03/2021,Montevideo,96
+18/03/2021,Montevideo,88
+18/03/2021,Montevideo,95
+18/03/2021,Montevideo,28
+18/03/2021,Montevideo,70
+18/03/2021,Montevideo,73
 18/03/2021,Rivera,86
 19/03/2021,Cerro Largo,27
 19/03/2021,Durazno,63
 19/03/2021,Maldonado,86
+<<<<<<< HEAD
 19/03/2021,Montevideo,46
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 19/03/2021,Montevideo,67
 19/03/2021,Montevideo,67
+19/03/2021,Montevideo,46
+19/03/2021,Montevideo,82
+19/03/2021,Montevideo,88
 19/03/2021,Montevideo,75
+<<<<<<< HEAD
 19/03/2021,Montevideo,82
 19/03/2021,Montevideo,88
 19/03/2021,Montevideo,77
 19/03/2021,Tacuarembó,52
 20/03/2021,Cerro Largo,78
 20/03/2021,Montevideo,75
+=======
+19/03/2021,Montevideo,77
+19/03/2021,Tacuarembó,52
+20/03/2021,Cerro Largo,78
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 20/03/2021,Montevideo,40
 20/03/2021,Montevideo,49
 20/03/2021,Montevideo,57
 20/03/2021,Montevideo,73
 20/03/2021,Montevideo,73
+<<<<<<< HEAD
+=======
+20/03/2021,Montevideo,75
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 20/03/2021,Montevideo,80
 20/03/2021,Montevideo,86
 20/03/2021,Montevideo,89
@@ -779,17 +1147,26 @@ fecha,nombre,edad
 21/03/2021,Canelones,69
 21/03/2021,Cerro Largo,48
 21/03/2021,Flores,65
+<<<<<<< HEAD
+=======
+21/03/2021,Montevideo,75
+21/03/2021,Montevideo,82
+21/03/2021,Montevideo,84
+21/03/2021,Montevideo,92
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 21/03/2021,Montevideo,47
 21/03/2021,Montevideo,60
 21/03/2021,Montevideo,64
-21/03/2021,Montevideo,68
 21/03/2021,Montevideo,71
 21/03/2021,Montevideo,74
-21/03/2021,Montevideo,75
 21/03/2021,Montevideo,77
+<<<<<<< HEAD
 21/03/2021,Montevideo,82
 21/03/2021,Montevideo,92
 21/03/2021,Montevideo,84
+=======
+21/03/2021,Montevideo,68
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 21/03/2021,Rivera,73
 21/03/2021,Rocha,67
 22/03/2021,Artigas,83
@@ -797,6 +1174,7 @@ fecha,nombre,edad
 22/03/2021,Canelones,80
 22/03/2021,Cerro Largo,50
 22/03/2021,Maldonado,68
+<<<<<<< HEAD
 22/03/2021,Montevideo,72
 22/03/2021,Montevideo,83
 22/03/2021,Montevideo,82
@@ -808,19 +1186,41 @@ fecha,nombre,edad
 22/03/2021,Salto,63
 22/03/2021,Salto,67
 22/03/2021,Salto,71
+=======
+22/03/2021,Montevideo,81
+22/03/2021,Montevideo,59
+22/03/2021,Montevideo,82
+22/03/2021,Montevideo,72
+22/03/2021,Montevideo,61
+22/03/2021,Montevideo,83
+22/03/2021,Río Negro,79
+22/03/2021,Rivera,32
+22/03/2021,Salto,67
+22/03/2021,Salto,63
+22/03/2021,Salto,71
+22/03/2021,San José,82
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 22/03/2021,San José,55
 22/03/2021,San José,82
 22/03/2021,Treinta y Tres,67
+<<<<<<< HEAD
+=======
+24/03/2021,Canelones,70
+24/03/2021,Canelones,80
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 24/03/2021,Canelones,93
 24/03/2021,Canelones,70
 24/03/2021,Canelones,80
 24/03/2021,Cerro Largo,52
 24/03/2021,Durazno,84
+<<<<<<< HEAD
 24/03/2021,Montevideo,97
 24/03/2021,Montevideo,80
 24/03/2021,Montevideo,77
 24/03/2021,Montevideo,63
 24/03/2021,Montevideo,86
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 24/03/2021,Montevideo,80
 24/03/2021,Montevideo,51
 24/03/2021,Montevideo,55
@@ -831,10 +1231,22 @@ fecha,nombre,edad
 24/03/2021,Montevideo,85
 24/03/2021,Montevideo,87
 24/03/2021,Montevideo,92
+<<<<<<< HEAD
+=======
+24/03/2021,Montevideo,97
+24/03/2021,Montevideo,63
+24/03/2021,Montevideo,77
+24/03/2021,Montevideo,80
+24/03/2021,Montevideo,86
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 24/03/2021,Río Negro,72
 24/03/2021,Rivera,58
 24/03/2021,Rivera,67
 24/03/2021,Rivera,79
+<<<<<<< HEAD
+=======
+24/03/2021,Rivera,67
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 24/03/2021,Rivera,71
 24/03/2021,Rivera,82
 24/03/2021,San José,84
@@ -844,6 +1256,7 @@ fecha,nombre,edad
 24/03/2021,Tacuarembó,72
 24/03/2021,Tacuarembó,84
 25/03/2021,Canelones,85
+<<<<<<< HEAD
 25/03/2021,Montevideo,58
 25/03/2021,Montevideo,50
 25/03/2021,Montevideo,61
@@ -851,10 +1264,20 @@ fecha,nombre,edad
 25/03/2021,Montevideo,85
 25/03/2021,Montevideo,89
 25/03/2021,Montevideo,93
+=======
+25/03/2021,Montevideo,75
+25/03/2021,Montevideo,61
+25/03/2021,Montevideo,85
+25/03/2021,Montevideo,89
+25/03/2021,Montevideo,93
+25/03/2021,Montevideo,50
+25/03/2021,Montevideo,58
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
 25/03/2021,Rivera,96
 25/03/2021,Soriano,59
 25/03/2021,Soriano,79
 25/03/2021,Tacuarembó,60
+<<<<<<< HEAD
 26/03/2021,Canelones,71
 26/03/2021,Canelones,66
 26/03/2021,Cerro Largo,88
@@ -874,3 +1297,5 @@ fecha,nombre,edad
 26/03/2021,Rivera,86
 26/03/2021,San José,91
 26/03/2021,Tacuarembó,64
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9

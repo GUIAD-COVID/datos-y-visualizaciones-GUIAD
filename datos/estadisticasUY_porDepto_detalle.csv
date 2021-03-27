@@ -6288,6 +6288,7 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 25/03/2021,Soriano(UY-SO),196,28,2,17,7,514,727
 25/03/2021,Tacuarembó(UY-TA),475,26,1,17,60,1961,2453
 25/03/2021,Treinta y Tres(UY-TT),230,28,0,5,12,452,687
+<<<<<<< HEAD
 26/03/2021,Artigas(UY-AR),359,24,0,14,42,1242,1615
 26/03/2021,Canelones(UY-CA),1942,162,2,94,167,11201,13237
 26/03/2021,Cerro Largo(UY-CL),655,82,2,24,68,1728,2407
@@ -6307,3 +6308,5 @@ fecha,departamento,enCurso,cantCasosNuevos,cantFallecidos,acumFallecidos,cantRec
 26/03/2021,Soriano(UY-SO),239,43,0,17,6,520,776
 26/03/2021,Tacuarembó(UY-TA),474,11,1,18,36,1997,2489
 26/03/2021,Treinta y Tres(UY-TT),263,19,0,5,17,469,737
+=======
+>>>>>>> 157023a64a522b2dbc1cdf8299b149f600af38e9
