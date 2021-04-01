@@ -6401,4 +6401,8 @@ fecha,departamento,enCurso,cantCasosNuevosCALC,cantCasosNuevosAPP,cantFallecidos
 31/03/2021,San José(UY-SJ),493,65,27,0,25,62,2352,2870
 31/03/2021,Soriano(UY-SO),380,45,28,0,18,23,607,1005
 31/03/2021,Tacuarembó(UY-TA),379,66,14,1,22,55,2310,2711
+<<<<<<< HEAD
 31/03/2021,©,344,37,35,-1,6,23,618,968
+=======
+31/03/2021,Treinta y Tres(UY-TT),344,37,35,-1,6,23,618,968
+>>>>>>> e6844e9a0e7a75768f3486889dc25f1c14261da4
