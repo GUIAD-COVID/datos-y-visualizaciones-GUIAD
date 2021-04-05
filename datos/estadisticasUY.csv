@@ -1,4 +1,4 @@
-fecha,dia,cantPersonasConInfeccionEnCurso,cantCasosNuevosCALC,cantCasosNuevosAPP,acumCasos,cantFallecidos,acumFallecidos,cantCTI,cantCI,cantRecuperados,acumRecuperados,cantTest,acumTest,DIA,Egresades,Positividad
+fecha,dia,cantPersonasConInfeccionEnCurso,cantCasosNuevosAjustado,cantCasosNuevosOriginal,acumCasos,cantFallecidos,acumFallecidos,cantCTI,cantCI,cantRecuperados,acumRecuperados,cantTest,acumTest,DIA,Egresades,Positividad
 25/03/2020,13,217,28,28,217,0,0,4,2,0,0,320,1858,3_MIERCOLES,,0.088
 26/03/2020,14,238,21,21,238,0,0,4,2,0,0,245,2103,4_JUEVES,,0.086
 27/03/2020,15,274,36,36,274,0,0,8,0,0,0,451,2554,5_VIERNES,,0.08
