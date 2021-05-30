@@ -19,8 +19,8 @@ fecha,nombre,edad
 08/05/2020,Montevideo,49
 10/05/2020,Montevideo,85
 17/05/2020,Montevideo,76
-23/05/2020,Rivera,76
 23/05/2020,Rivera,90
+23/05/2020,Rivera,76
 01/06/2020,Montevideo,63
 16/06/2020,Montevideo,52
 20/06/2020,Montevideo,84
@@ -37,8 +37,8 @@ fecha,nombre,edad
 02/08/2020,Rivera,79
 04/08/2020,Montevideo,62
 14/08/2020,Montevideo,73
-17/08/2020,Montevideo,81
 17/08/2020,Montevideo,52
+17/08/2020,Montevideo,81
 20/08/2020,Canelones,67
 21/08/2020,Montevideo,71
 25/08/2020,Montevideo,96
@@ -2071,8 +2071,9 @@ fecha,nombre,edad
 22/04/2021,Maldonado,69
 22/04/2021,Maldonado,71
 22/04/2021,Maldonado,77
-22/04/2021,Montevideo,50
+22/04/2021,Montevideo,76
 22/04/2021,Montevideo,49
+22/04/2021,Montevideo,50
 22/04/2021,Montevideo,51
 22/04/2021,Montevideo,52
 22/04/2021,Montevideo,54
@@ -2090,7 +2091,6 @@ fecha,nombre,edad
 22/04/2021,Montevideo,69
 22/04/2021,Montevideo,69
 22/04/2021,Montevideo,72
-22/04/2021,Montevideo,76
 22/04/2021,Montevideo,76
 22/04/2021,Montevideo,78
 22/04/2021,Montevideo,79
@@ -4145,3 +4145,40 @@ fecha,nombre,edad
 29/05/2021,San José,53
 29/05/2021,San José,75
 29/05/2021,Tacuarembó,82
+30/05/2021,Artigas,68
+30/05/2021,Canelones,67
+30/05/2021,Canelones,78
+30/05/2021,Canelones,84
+30/05/2021,Cerro Largo,79
+30/05/2021,Colonia,36
+30/05/2021,Durazno,78
+30/05/2021,Florida,81
+30/05/2021,Maldonado,38
+30/05/2021,Maldonado,40
+30/05/2021,Maldonado,41
+30/05/2021,Maldonado,62
+30/05/2021,Montevideo,56
+30/05/2021,Montevideo,57
+30/05/2021,Montevideo,63
+30/05/2021,Montevideo,67
+30/05/2021,Montevideo,70
+30/05/2021,Montevideo,70
+30/05/2021,Montevideo,71
+30/05/2021,Montevideo,72
+30/05/2021,Montevideo,73
+30/05/2021,Montevideo,76
+30/05/2021,Montevideo,76
+30/05/2021,Montevideo,80
+30/05/2021,Montevideo,83
+30/05/2021,Montevideo,85
+30/05/2021,Montevideo,89
+30/05/2021,Paysandú,66
+30/05/2021,Paysandú,87
+30/05/2021,Salto,67
+30/05/2021,Salto,73
+30/05/2021,Salto,82
+30/05/2021,Salto,92
+30/05/2021,Soriano,72
+30/05/2021,Tacuarembó,40
+30/05/2021,Tacuarembó,53
+30/05/2021,Treinta y Tres,75
