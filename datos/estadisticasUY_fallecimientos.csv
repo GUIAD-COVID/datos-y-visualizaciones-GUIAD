@@ -1446,7 +1446,7 @@ fecha,nombre,edad
 12/04/2021,Durazno,82
 12/04/2021,Lavalleja,82
 12/04/2021,Lavalleja,81
-12/04/2021,Montevideo,83
+12/04/2021,Montevideo,85
 12/04/2021,Montevideo,55
 12/04/2021,Montevideo,61
 12/04/2021,Montevideo,64
@@ -1471,8 +1471,8 @@ fecha,nombre,edad
 12/04/2021,Montevideo,81
 12/04/2021,Montevideo,81
 12/04/2021,Montevideo,83
+12/04/2021,Montevideo,83
 12/04/2021,Montevideo,84
-12/04/2021,Montevideo,85
 12/04/2021,Montevideo,85
 12/04/2021,Montevideo,85
 12/04/2021,Montevideo,86
@@ -1489,72 +1489,72 @@ fecha,nombre,edad
 12/04/2021,Río Negro,69
 12/04/2021,Rivera,91
 12/04/2021,Rocha,90
-12/04/2021,Salto,67
 12/04/2021,Salto,60
 12/04/2021,Salto,59
+12/04/2021,Salto,67
 12/04/2021,Soriano,90
 12/04/2021,Soriano,87
-12/04/2021,Soriano,61
 12/04/2021,Soriano,91
+12/04/2021,Soriano,61
 12/04/2021,Treinta y Tres,94
 13/04/2021,Artigas,45
-13/04/2021,Canelones,67
-13/04/2021,Canelones,51
-13/04/2021,Canelones,52
-13/04/2021,Canelones,78
+13/04/2021,Canelones,85
 13/04/2021,Canelones,62
+13/04/2021,Canelones,52
+13/04/2021,Canelones,51
+13/04/2021,Canelones,67
 13/04/2021,Canelones,67
 13/04/2021,Canelones,74
-13/04/2021,Canelones,85
-13/04/2021,Cerro Largo,77
-13/04/2021,Cerro Largo,57
-13/04/2021,Cerro Largo,62
-13/04/2021,Cerro Largo,68
+13/04/2021,Canelones,78
 13/04/2021,Cerro Largo,71
+13/04/2021,Cerro Largo,62
+13/04/2021,Cerro Largo,57
 13/04/2021,Cerro Largo,82
+13/04/2021,Cerro Largo,77
+13/04/2021,Cerro Largo,68
 13/04/2021,Cerro Largo,87
 13/04/2021,Durazno,81
 13/04/2021,Maldonado,75
 13/04/2021,Maldonado,81
+13/04/2021,Montevideo,86
+13/04/2021,Montevideo,41
+13/04/2021,Montevideo,60
+13/04/2021,Montevideo,60
+13/04/2021,Montevideo,63
+13/04/2021,Montevideo,66
+13/04/2021,Montevideo,67
+13/04/2021,Montevideo,67
+13/04/2021,Montevideo,67
+13/04/2021,Montevideo,67
+13/04/2021,Montevideo,67
+13/04/2021,Montevideo,69
+13/04/2021,Montevideo,69
+13/04/2021,Montevideo,70
+13/04/2021,Montevideo,71
+13/04/2021,Montevideo,73
+13/04/2021,Montevideo,74
+13/04/2021,Montevideo,75
+13/04/2021,Montevideo,76
 13/04/2021,Montevideo,80
 13/04/2021,Montevideo,82
 13/04/2021,Montevideo,85
-13/04/2021,Montevideo,86
 13/04/2021,Montevideo,87
 13/04/2021,Montevideo,90
 13/04/2021,Montevideo,94
-13/04/2021,Montevideo,74
-13/04/2021,Montevideo,73
-13/04/2021,Montevideo,71
-13/04/2021,Montevideo,70
-13/04/2021,Montevideo,69
-13/04/2021,Montevideo,69
-13/04/2021,Montevideo,67
-13/04/2021,Montevideo,67
-13/04/2021,Montevideo,67
-13/04/2021,Montevideo,67
-13/04/2021,Montevideo,67
-13/04/2021,Montevideo,66
-13/04/2021,Montevideo,63
-13/04/2021,Montevideo,60
-13/04/2021,Montevideo,60
 13/04/2021,Montevideo,72
-13/04/2021,Montevideo,75
-13/04/2021,Montevideo,76
-13/04/2021,Montevideo,41
+13/04/2021,Río Negro,65
 13/04/2021,Río Negro,67
 13/04/2021,Río Negro,81
-13/04/2021,Río Negro,65
-13/04/2021,Rivera,81
-13/04/2021,Rivera,66
 13/04/2021,Rivera,67
 13/04/2021,Rivera,71
+13/04/2021,Rivera,81
+13/04/2021,Rivera,66
 13/04/2021,Rivera,43
 13/04/2021,Rocha,90
 13/04/2021,Salto,37
-13/04/2021,San José,78
 13/04/2021,San José,69
 13/04/2021,San José,70
+13/04/2021,San José,78
 13/04/2021,Soriano,66
 13/04/2021,Tacuarembó,46
 13/04/2021,Tacuarembó,72
@@ -1608,28 +1608,28 @@ fecha,nombre,edad
 14/04/2021,Salto,70
 14/04/2021,San José,89
 14/04/2021,Soriano,81
-14/04/2021,Tacuarembó,78
 14/04/2021,Tacuarembó,84
 14/04/2021,Tacuarembó,55
 14/04/2021,Tacuarembó,68
-15/04/2021,Artigas,69
+14/04/2021,Tacuarembó,78
 15/04/2021,Artigas,73
-15/04/2021,Canelones,78
-15/04/2021,Canelones,83
+15/04/2021,Artigas,69
 15/04/2021,Canelones,66
-15/04/2021,Canelones,68
-15/04/2021,Canelones,72
-15/04/2021,Canelones,73
+15/04/2021,Canelones,83
+15/04/2021,Canelones,78
 15/04/2021,Canelones,77
-15/04/2021,Cerro Largo,90
-15/04/2021,Cerro Largo,85
+15/04/2021,Canelones,73
+15/04/2021,Canelones,72
+15/04/2021,Canelones,68
 15/04/2021,Cerro Largo,80
 15/04/2021,Cerro Largo,79
 15/04/2021,Cerro Largo,71
 15/04/2021,Cerro Largo,70
-15/04/2021,Colonia,65
-15/04/2021,Colonia,53
+15/04/2021,Cerro Largo,90
+15/04/2021,Cerro Largo,85
 15/04/2021,Colonia,62
+15/04/2021,Colonia,53
+15/04/2021,Colonia,65
 15/04/2021,Florida,52
 15/04/2021,Maldonado,59
 15/04/2021,Maldonado,80
@@ -2207,16 +2207,16 @@ fecha,nombre,edad
 24/04/2021,Durazno,74
 24/04/2021,Flores,85
 24/04/2021,Maldonado,66
-24/04/2021,Montevideo,65
+24/04/2021,Montevideo,71
 24/04/2021,Montevideo,43
 24/04/2021,Montevideo,55
 24/04/2021,Montevideo,62
 24/04/2021,Montevideo,63
 24/04/2021,Montevideo,64
 24/04/2021,Montevideo,65
+24/04/2021,Montevideo,65
 24/04/2021,Montevideo,69
 24/04/2021,Montevideo,70
-24/04/2021,Montevideo,71
 24/04/2021,Montevideo,71
 24/04/2021,Montevideo,75
 24/04/2021,Montevideo,75
@@ -2247,23 +2247,14 @@ fecha,nombre,edad
 24/04/2021,Rivera,86
 24/04/2021,Salto,99
 24/04/2021,Soriano,65
-25/04/2021,Canelones,80
 25/04/2021,Canelones,53
+25/04/2021,Canelones,80
 25/04/2021,Cerro Largo,82
 25/04/2021,Durazno,72
 25/04/2021,Florida,83
 25/04/2021,Florida,92
 25/04/2021,Maldonado,54
 25/04/2021,Maldonado,66
-25/04/2021,Montevideo,74
-25/04/2021,Montevideo,77
-25/04/2021,Montevideo,78
-25/04/2021,Montevideo,80
-25/04/2021,Montevideo,80
-25/04/2021,Montevideo,86
-25/04/2021,Montevideo,87
-25/04/2021,Montevideo,87
-25/04/2021,Montevideo,98
 25/04/2021,Montevideo,39
 25/04/2021,Montevideo,56
 25/04/2021,Montevideo,58
@@ -2280,6 +2271,15 @@ fecha,nombre,edad
 25/04/2021,Montevideo,70
 25/04/2021,Montevideo,70
 25/04/2021,Montevideo,73
+25/04/2021,Montevideo,74
+25/04/2021,Montevideo,77
+25/04/2021,Montevideo,78
+25/04/2021,Montevideo,80
+25/04/2021,Montevideo,80
+25/04/2021,Montevideo,86
+25/04/2021,Montevideo,87
+25/04/2021,Montevideo,87
+25/04/2021,Montevideo,98
 25/04/2021,Río Negro,67
 25/04/2021,Río Negro,81
 25/04/2021,Rivera,75
@@ -2304,7 +2304,6 @@ fecha,nombre,edad
 26/04/2021,Maldonado,56
 26/04/2021,Maldonado,67
 26/04/2021,Maldonado,78
-26/04/2021,Montevideo,76
 26/04/2021,Montevideo,44
 26/04/2021,Montevideo,45
 26/04/2021,Montevideo,51
@@ -2325,6 +2324,7 @@ fecha,nombre,edad
 26/04/2021,Montevideo,68
 26/04/2021,Montevideo,75
 26/04/2021,Montevideo,75
+26/04/2021,Montevideo,76
 26/04/2021,Montevideo,76
 26/04/2021,Montevideo,76
 26/04/2021,Montevideo,77
@@ -2410,8 +2410,8 @@ fecha,nombre,edad
 27/04/2021,Rivera,84
 27/04/2021,Rivera,92
 27/04/2021,Rocha,76
-27/04/2021,Salto,50
 27/04/2021,Salto,31
+27/04/2021,Salto,50
 27/04/2021,Salto,81
 27/04/2021,San José,83
 27/04/2021,Soriano,74
@@ -2585,23 +2585,28 @@ fecha,nombre,edad
 01/05/2021,Artigas,49
 01/05/2021,Artigas,64
 01/05/2021,Artigas,79
-01/05/2021,Canelones,77
 01/05/2021,Canelones,57
 01/05/2021,Canelones,65
 01/05/2021,Canelones,70
 01/05/2021,Canelones,72
 01/05/2021,Canelones,76
+01/05/2021,Canelones,77
 01/05/2021,Canelones,80
 01/05/2021,Colonia,52
 01/05/2021,Colonia,89
 01/05/2021,Florida,82
 01/05/2021,Maldonado,71
 01/05/2021,Maldonado,88
+01/05/2021,Montevideo,42
+01/05/2021,Montevideo,53
+01/05/2021,Montevideo,41
+01/05/2021,Montevideo,60
 01/05/2021,Montevideo,61
 01/05/2021,Montevideo,63
 01/05/2021,Montevideo,64
 01/05/2021,Montevideo,70
 01/05/2021,Montevideo,72
+01/05/2021,Montevideo,73
 01/05/2021,Montevideo,74
 01/05/2021,Montevideo,75
 01/05/2021,Montevideo,75
@@ -2619,11 +2624,6 @@ fecha,nombre,edad
 01/05/2021,Montevideo,92
 01/05/2021,Montevideo,94
 01/05/2021,Montevideo,95
-01/05/2021,Montevideo,73
-01/05/2021,Montevideo,41
-01/05/2021,Montevideo,42
-01/05/2021,Montevideo,53
-01/05/2021,Montevideo,60
 01/05/2021,Paysandú,86
 01/05/2021,Río Negro,72
 01/05/2021,Rivera,82
@@ -2652,12 +2652,12 @@ fecha,nombre,edad
 02/05/2021,Maldonado,67
 02/05/2021,Maldonado,79
 02/05/2021,Maldonado,85
-02/05/2021,Montevideo,63
 02/05/2021,Montevideo,41
 02/05/2021,Montevideo,49
 02/05/2021,Montevideo,56
 02/05/2021,Montevideo,61
 02/05/2021,Montevideo,62
+02/05/2021,Montevideo,63
 02/05/2021,Montevideo,64
 02/05/2021,Montevideo,66
 02/05/2021,Montevideo,67
@@ -2765,24 +2765,28 @@ fecha,nombre,edad
 03/05/2021,Treinta y Tres,84
 04/05/2021,Artigas,47
 04/05/2021,Artigas,54
-04/05/2021,Canelones,61
 04/05/2021,Canelones,44
 04/05/2021,Canelones,59
+04/05/2021,Canelones,61
 04/05/2021,Canelones,62
 04/05/2021,Canelones,72
 04/05/2021,Canelones,73
 04/05/2021,Canelones,81
-04/05/2021,Cerro Largo,75
-04/05/2021,Cerro Largo,70
 04/05/2021,Cerro Largo,76
+04/05/2021,Cerro Largo,70
+04/05/2021,Cerro Largo,75
+04/05/2021,Colonia,78
 04/05/2021,Colonia,49
 04/05/2021,Colonia,71
-04/05/2021,Colonia,78
 04/05/2021,Florida,73
 04/05/2021,Maldonado,85
+04/05/2021,Montevideo,51
+04/05/2021,Montevideo,57
+04/05/2021,Montevideo,59
 04/05/2021,Montevideo,59
 04/05/2021,Montevideo,61
 04/05/2021,Montevideo,62
+04/05/2021,Montevideo,64
 04/05/2021,Montevideo,67
 04/05/2021,Montevideo,67
 04/05/2021,Montevideo,71
@@ -2804,14 +2808,10 @@ fecha,nombre,edad
 04/05/2021,Montevideo,91
 04/05/2021,Montevideo,94
 04/05/2021,Montevideo,96
-04/05/2021,Montevideo,64
 04/05/2021,Montevideo,2
 04/05/2021,Montevideo,39
 04/05/2021,Montevideo,49
 04/05/2021,Montevideo,51
-04/05/2021,Montevideo,51
-04/05/2021,Montevideo,57
-04/05/2021,Montevideo,59
 04/05/2021,Paysandú,73
 04/05/2021,Paysandú,77
 04/05/2021,Rivera,65
@@ -2849,7 +2849,7 @@ fecha,nombre,edad
 05/05/2021,Maldonado,64
 05/05/2021,Maldonado,67
 05/05/2021,Maldonado,97
-05/05/2021,Montevideo,67
+05/05/2021,Montevideo,74
 05/05/2021,Montevideo,49
 05/05/2021,Montevideo,51
 05/05/2021,Montevideo,60
@@ -2858,12 +2858,12 @@ fecha,nombre,edad
 05/05/2021,Montevideo,64
 05/05/2021,Montevideo,65
 05/05/2021,Montevideo,65
+05/05/2021,Montevideo,67
 05/05/2021,Montevideo,70
 05/05/2021,Montevideo,71
 05/05/2021,Montevideo,71
 05/05/2021,Montevideo,71
 05/05/2021,Montevideo,72
-05/05/2021,Montevideo,74
 05/05/2021,Montevideo,75
 05/05/2021,Montevideo,75
 05/05/2021,Montevideo,78
@@ -2872,23 +2872,23 @@ fecha,nombre,edad
 05/05/2021,Montevideo,83
 05/05/2021,Montevideo,85
 05/05/2021,Montevideo,93
+05/05/2021,Paysandú,80
 05/05/2021,Paysandú,70
 05/05/2021,Paysandú,91
-05/05/2021,Paysandú,80
 05/05/2021,Río Negro,75
-05/05/2021,Rivera,52
 05/05/2021,Rivera,89
+05/05/2021,Rivera,52
 05/05/2021,Salto,38
 05/05/2021,Salto,97
 05/05/2021,San José,56
-05/05/2021,Soriano,71
 05/05/2021,Soriano,62
+05/05/2021,Soriano,71
 05/05/2021,Tacuarembó,95
 05/05/2021,Treinta y Tres,80
 06/05/2021,Artigas,73
 06/05/2021,Artigas,89
-06/05/2021,Canelones,46
 06/05/2021,Canelones,50
+06/05/2021,Canelones,46
 06/05/2021,Canelones,69
 06/05/2021,Canelones,70
 06/05/2021,Canelones,74
@@ -2902,7 +2902,7 @@ fecha,nombre,edad
 06/05/2021,Florida,58
 06/05/2021,Florida,68
 06/05/2021,Florida,71
-06/05/2021,Montevideo,67
+06/05/2021,Montevideo,81
 06/05/2021,Montevideo,38
 06/05/2021,Montevideo,43
 06/05/2021,Montevideo,48
@@ -2917,12 +2917,12 @@ fecha,nombre,edad
 06/05/2021,Montevideo,65
 06/05/2021,Montevideo,66
 06/05/2021,Montevideo,67
+06/05/2021,Montevideo,67
 06/05/2021,Montevideo,74
 06/05/2021,Montevideo,74
 06/05/2021,Montevideo,75
 06/05/2021,Montevideo,77
 06/05/2021,Montevideo,78
-06/05/2021,Montevideo,81
 06/05/2021,Montevideo,81
 06/05/2021,Montevideo,83
 06/05/2021,Montevideo,85
@@ -2931,36 +2931,42 @@ fecha,nombre,edad
 06/05/2021,Paysandú,61
 06/05/2021,Paysandú,61
 06/05/2021,Rivera,67
-06/05/2021,Salto,79
 06/05/2021,Salto,71
-06/05/2021,San José,62
+06/05/2021,Salto,79
 06/05/2021,San José,61
-06/05/2021,Soriano,80
+06/05/2021,San José,62
 06/05/2021,Soriano,75
+06/05/2021,Soriano,80
 06/05/2021,Tacuarembó,74
 06/05/2021,Tacuarembó,74
 07/05/2021,Artigas,72
 07/05/2021,Artigas,50
 07/05/2021,Artigas,73
-07/05/2021,Canelones,92
 07/05/2021,Canelones,58
 07/05/2021,Canelones,64
+07/05/2021,Canelones,85
+07/05/2021,Canelones,92
 07/05/2021,Canelones,73
 07/05/2021,Canelones,77
 07/05/2021,Canelones,79
 07/05/2021,Canelones,79
-07/05/2021,Canelones,85
 07/05/2021,Cerro Largo,86
 07/05/2021,Colonia,59
 07/05/2021,Lavalleja,55
 07/05/2021,Maldonado,51
-07/05/2021,Maldonado,95
 07/05/2021,Maldonado,74
+07/05/2021,Maldonado,95
+07/05/2021,Montevideo,42
+07/05/2021,Montevideo,43
+07/05/2021,Montevideo,44
+07/05/2021,Montevideo,51
+07/05/2021,Montevideo,56
 07/05/2021,Montevideo,62
 07/05/2021,Montevideo,63
 07/05/2021,Montevideo,64
 07/05/2021,Montevideo,65
 07/05/2021,Montevideo,66
+07/05/2021,Montevideo,68
 07/05/2021,Montevideo,73
 07/05/2021,Montevideo,77
 07/05/2021,Montevideo,78
@@ -2973,12 +2979,6 @@ fecha,nombre,edad
 07/05/2021,Montevideo,91
 07/05/2021,Montevideo,95
 07/05/2021,Montevideo,98
-07/05/2021,Montevideo,68
-07/05/2021,Montevideo,42
-07/05/2021,Montevideo,43
-07/05/2021,Montevideo,44
-07/05/2021,Montevideo,51
-07/05/2021,Montevideo,56
 07/05/2021,Río Negro,57
 07/05/2021,Río Negro,61
 07/05/2021,Río Negro,87
@@ -3014,9 +3014,9 @@ fecha,nombre,edad
 08/05/2021,Colonia,68
 08/05/2021,Florida,73
 08/05/2021,Maldonado,82
-08/05/2021,Montevideo,56
 08/05/2021,Montevideo,49
 08/05/2021,Montevideo,53
+08/05/2021,Montevideo,56
 08/05/2021,Montevideo,65
 08/05/2021,Montevideo,67
 08/05/2021,Montevideo,69
@@ -3303,7 +3303,6 @@ fecha,nombre,edad
 14/05/2021,Flores,76
 14/05/2021,Florida,57
 14/05/2021,Maldonado,91
-14/05/2021,Montevideo,71
 14/05/2021,Montevideo,34
 14/05/2021,Montevideo,52
 14/05/2021,Montevideo,56
@@ -3311,6 +3310,7 @@ fecha,nombre,edad
 14/05/2021,Montevideo,66
 14/05/2021,Montevideo,67
 14/05/2021,Montevideo,68
+14/05/2021,Montevideo,71
 14/05/2021,Montevideo,71
 14/05/2021,Montevideo,71
 14/05/2021,Montevideo,77
@@ -3673,7 +3673,6 @@ fecha,nombre,edad
 21/05/2021,Colonia,93
 21/05/2021,Maldonado,80
 21/05/2021,Maldonado,91
-21/05/2021,Montevideo,67
 21/05/2021,Montevideo,35
 21/05/2021,Montevideo,43
 21/05/2021,Montevideo,49
@@ -3685,6 +3684,7 @@ fecha,nombre,edad
 21/05/2021,Montevideo,61
 21/05/2021,Montevideo,65
 21/05/2021,Montevideo,66
+21/05/2021,Montevideo,67
 21/05/2021,Montevideo,68
 21/05/2021,Montevideo,68
 21/05/2021,Montevideo,71
@@ -4419,36 +4419,37 @@ fecha,nombre,edad
 03/06/2021,Paysandú,71
 03/06/2021,Paysandú,91
 03/06/2021,Rivera,83
-03/06/2021,Salto,65
 03/06/2021,Salto,41
 03/06/2021,Salto,55
 03/06/2021,Salto,62
 03/06/2021,Salto,62
 03/06/2021,Salto,62
 03/06/2021,Salto,64
+03/06/2021,Salto,65
 03/06/2021,Salto,80
 03/06/2021,Salto,83
 03/06/2021,Salto,84
 03/06/2021,Soriano,44
 03/06/2021,Tacuarembó,88
-03/06/2021,Treinta y Tres,55
 03/06/2021,Treinta y Tres,74
-04/06/2021,Artigas,76
+03/06/2021,Treinta y Tres,55
 04/06/2021,Artigas,74
+04/06/2021,Artigas,76
 04/06/2021,Canelones,85
 04/06/2021,Canelones,79
 04/06/2021,Canelones,68
 04/06/2021,Cerro Largo,68
 04/06/2021,Cerro Largo,74
-04/06/2021,Colonia,79
 04/06/2021,Colonia,62
 04/06/2021,Colonia,80
+04/06/2021,Colonia,79
 04/06/2021,Flores,64
 04/06/2021,Florida,85
 04/06/2021,Florida,80
 04/06/2021,Maldonado,72
 04/06/2021,Maldonado,68
 04/06/2021,Maldonado,80
+04/06/2021,Montevideo,85
 04/06/2021,Montevideo,85
 04/06/2021,Montevideo,86
 04/06/2021,Montevideo,89
@@ -4476,7 +4477,6 @@ fecha,nombre,edad
 04/06/2021,Montevideo,79
 04/06/2021,Montevideo,81
 04/06/2021,Montevideo,83
-04/06/2021,Montevideo,85
 04/06/2021,Río Negro,64
 04/06/2021,Río Negro,91
 04/06/2021,Rivera,71
@@ -4492,9 +4492,9 @@ fecha,nombre,edad
 05/06/2021,Artigas,34
 05/06/2021,Artigas,91
 05/06/2021,Artigas,91
+05/06/2021,Canelones,53
 05/06/2021,Canelones,49
 05/06/2021,Canelones,52
-05/06/2021,Canelones,53
 05/06/2021,Canelones,57
 05/06/2021,Canelones,64
 05/06/2021,Canelones,66
@@ -4556,8 +4556,8 @@ fecha,nombre,edad
 05/06/2021,Tacuarembó,81
 05/06/2021,Treinta y Tres,91
 05/06/2021,Treinta y Tres,95
-06/06/2021,Artigas,76
 06/06/2021,Artigas,60
+06/06/2021,Artigas,76
 06/06/2021,Canelones,37
 06/06/2021,Canelones,57
 06/06/2021,Canelones,69
@@ -4889,8 +4889,8 @@ fecha,nombre,edad
 12/06/2021,Canelones,53
 12/06/2021,Canelones,60
 12/06/2021,Cerro Largo,80
-12/06/2021,Colonia,54
 12/06/2021,Colonia,44
+12/06/2021,Colonia,54
 12/06/2021,Colonia,62
 12/06/2021,Colonia,78
 12/06/2021,Montevideo,52
@@ -4971,10 +4971,10 @@ fecha,nombre,edad
 13/06/2021,Soriano,37
 13/06/2021,Soriano,56
 13/06/2021,Treinta y Tres,68
-14/06/2021,Artigas,65
+14/06/2021,Artigas,73
 14/06/2021,Artigas,48
 14/06/2021,Artigas,52
-14/06/2021,Artigas,73
+14/06/2021,Artigas,65
 14/06/2021,Canelones,98
 14/06/2021,Canelones,81
 14/06/2021,Canelones,51
@@ -5340,12 +5340,12 @@ fecha,nombre,edad
 23/06/2021,Florida,94
 23/06/2021,Lavalleja,73
 23/06/2021,Maldonado,66
-23/06/2021,Montevideo,64
+23/06/2021,Montevideo,84
 23/06/2021,Montevideo,47
 23/06/2021,Montevideo,51
+23/06/2021,Montevideo,64
 23/06/2021,Montevideo,80
 23/06/2021,Montevideo,83
-23/06/2021,Montevideo,84
 23/06/2021,Montevideo,84
 23/06/2021,Montevideo,85
 23/06/2021,Montevideo,90
@@ -5516,8 +5516,8 @@ fecha,nombre,edad
 29/06/2021,Maldonado,75
 29/06/2021,Maldonado,77
 29/06/2021,Maldonado,79
-29/06/2021,Montevideo,81
 29/06/2021,Montevideo,83
+29/06/2021,Montevideo,81
 29/06/2021,Montevideo,93
 29/06/2021,Montevideo,95
 29/06/2021,Montevideo,78
@@ -5553,10 +5553,10 @@ fecha,nombre,edad
 30/06/2021,Montevideo,69
 30/06/2021,Montevideo,66
 30/06/2021,Montevideo,56
-30/06/2021,Montevideo,49
+30/06/2021,Montevideo,53
 30/06/2021,Montevideo,48
 30/06/2021,Montevideo,23
-30/06/2021,Montevideo,53
+30/06/2021,Montevideo,49
 30/06/2021,Montevideo,104
 30/06/2021,Montevideo,96
 30/06/2021,Montevideo,93
@@ -5576,8 +5576,8 @@ fecha,nombre,edad
 30/06/2021,Rocha,83
 30/06/2021,Soriano,89
 30/06/2021,Treinta y Tres,83
-01/07/2021,Canelones,91
 01/07/2021,Canelones,59
+01/07/2021,Canelones,91
 01/07/2021,Colonia,62
 01/07/2021,Lavalleja,97
 01/07/2021,Maldonado,56
@@ -5626,8 +5626,8 @@ fecha,nombre,edad
 02/07/2021,Paysandú,81
 02/07/2021,Rivera,72
 02/07/2021,Salto,86
-03/07/2021,Artigas,63
 03/07/2021,Artigas,66
+03/07/2021,Artigas,63
 03/07/2021,Maldonado,31
 03/07/2021,Montevideo,48
 03/07/2021,Montevideo,48
@@ -5900,3 +5900,9 @@ fecha,nombre,edad
 22/07/2021,Montevideo,85
 22/07/2021,Montevideo,91
 22/07/2021,Río Negro,86
+23/07/2021,Canelones,84
+23/07/2021,Montevideo,53
+23/07/2021,Montevideo,66
+23/07/2021,Montevideo,69
+23/07/2021,Salto,75
+23/07/2021,Soriano,69
